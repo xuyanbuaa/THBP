@@ -1,0 +1,1509 @@
+attend(3.10.7.9	attending_physician)
+preliminary report(5.32	hospital_course)
+progress(5.32	hospital_course)
+" conclusions(13.48	summary)
+( p ) most recent echo
+*** dictated by
+*** transcribed on(5.16.35.50	date_transcribed)
+**date[dec 15 07] 2
+**date[dec 16 07] 2
+**date[dec 16 2007]
+**date[dec 19 07] 10
+**date[dec 20 2007]
+**date[dec 22 07] 11
+**date[dec 22 07] 2
+**date[dec 23 07] 2
+**date[feb 17 07] with 4 days of lightheadedness ( not vertigo ) , nausea ( no emesis ) , poor appetite , fatigue , and ~ 2 brief episodes of chest pain 4 days prior
+**institution(5.32	hospital_course)
+**institution admission(5.28	history_present_illness)
+**institution course(5.28	history_present_illness)
+**institution stay(5.28	history_present_illness)
+**institution visit(5.32	hospital_course)
+**name[bbb] is a **age[in 60s]- year - old with the principal diagnoses of(5.22.39	principle_diagnosis)
+**name[ccc
+**name[sss]
+**name[uuu]
+. postpartum she encountered the following complication ( s )
+/disposition
+/id
+/o dvt/pe
+? parkinson 's disease / akithesia
+? uti
+??? a ct of the abdomen on **date[mar 4 2007] ; impression(6.41	laboratory_and_radiology_data)
+0 tte
+04-27 results from blood cx from w+i
+05-12- sputum
+05-12- swab from nephrostomy
+05-14- catheter tip ( iv )
+05-14- sputum
+07/30/93
+08/02/93
+09-25 cxr(6.41	laboratory_and_radiology_data)
+1
+1/5/97
+1+ ( <1 per 1000x field )
+10-02
+141/64 rr
+1st cxr normal ; 2nd prior to intubation ? rll opacity ( mild chf ? ) ascites(6.41	laboratory_and_radiology_data)
+2
+20 o2sat
+2014-11-29 ct ap #2 ( with contrast )(6.41	laboratory_and_radiology_data)
+2014-11-29 ct cap(6.41	laboratory_and_radiology_data)
+2014-11-29 cxr(6.41	laboratory_and_radiology_data)
+2014-11-30 ct cap(6.41	laboratory_and_radiology_data)
+2016-03-22 ct c-spine(6.41	laboratory_and_radiology_data)
+2016-03-22 femur & r knee x-ray(6.41	laboratory_and_radiology_data)
+2016-03-31
+2016-04-01 flexion extension xrays of cervical spine
+2016-05-11 mri head(6.41	laboratory_and_radiology_data)
+2017-07-13 cxr(6.41	laboratory_and_radiology_data)
+2017-07-13 ruq u/s
+2017-07-14 echo(6.41.145.219	echocardiogram)
+2017-07-19 echo(6.41.145.219	echocardiogram)
+2017-08-14 cxr(6.41	laboratory_and_radiology_data)
+2017-08-16 ct head(6.41	laboratory_and_radiology_data)
+2017-08-16 cta chest(6.41	laboratory_and_radiology_data)
+2017-08-16 echo(6.41.145.219	echocardiogram)
+2017-08-17 eeg(6.41.145.219	echocardiogram)
+2017-09-28 chest x ray(6.41	laboratory_and_radiology_data)
+2017-09-29 ct head(6.41	laboratory_and_radiology_data)
+2017-09-30 eeg(6.41.145.219	echocardiogram)
+2017-10-10
+2019-10-11
+3
+4
+5
+5-29-00
+73 yo m transferred from youville hospital with h/o colon cancer with known liver mets now with epidural abscess and corynebacterium bacteremia
+78 bp(6.40.136.176	blood_pressure)
+97.4 hr
+a / p
+a complete summary of the patient &apos;s medications are as follows(5.37.106.125	discharge_medications)
+a ct scan of the abdomen on **date[feb 30 2007] , showed impression(6.41	laboratory_and_radiology_data)
+a ct scan of the chest , and abdomen and pelvis done on **date[sep 22 2007] , showed the following(6.41	laboratory_and_radiology_data)
+a set
+abdo
+abdominal computerized tomography scan(6.41	laboratory_and_radiology_data)
+abdominal pain
+abdominal pain treatment rendered
+abdominal ultrasound from **date[apr 3 2007](6.41	laboratory_and_radiology_data)(6.41.149.234.161	ultrasound)
+abg prior to transfer ( on room air )(6.41.146.225	abg)
+abg s(6.41.146.225	abg)
+abnormal liver function tests(6.41	laboratory_and_radiology_data)
+acc
+accepting physician
+access
+access site
+according to his pharmacy , he was on
+account #
+account#
+acct #
+accu-cheks
+acteremia
+active smoker
+activities(5.34.78.96.45	exercise_habits)
+acute kidney injury
+acute renal failure
+acute renal failure issues
+acute respiratory failure
+addendum hospital course(5.32	hospital_course)
+additional information
+additional instructions(8	instructions)
+additional laboratory(6.41.144	laboratory_data)
+admission diagnosis ( es )(5.22.44	admission_diagnosis)
+admission diagnosis at ni hospital &apos;s(5.22.44	admission_diagnosis)
+admission dianosis(5.22.44	admission_diagnosis)
+admission history(5.28	history_present_illness)
+admission labs(6.41	laboratory_and_radiology_data)
+admission physical examination(5.22.44	admission_diagnosis)
+admission status(5.22.44	admission_diagnosis)
+admit date(5.16.35.44	date_of_admission)
+admitting diagnosis ( es )(5.22.44	admission_diagnosis)
+admitting diagnosis( es )(5.22.44	admission_diagnosis)
+admitting labs were(6.41	laboratory_and_radiology_data)
+admitting physician
+admitting physician and thoracic surgeon
+admitting physicians
+adrenal insufficiency
+adverse drug reaction ( s )(5.38	allergies_and_adverse_reactions)
+adverse drug reactions(5.38	allergies_and_adverse_reactions)
+aerobic bottle ( final 2014-12-04 )
+after quoting vital signs , please include(5.32	hospital_course)
+ain
+alcohol abuse
+alert overridden
+all
+allergy / reaction profile(5.38	allergies_and_adverse_reactions)
+allergy / reaction profile ( all )(5.38	allergies_and_adverse_reactions)
+allergy profile(5.38	allergies_and_adverse_reactions)
+ams
+anaerobic bottle ( final 2014-12-04 )
+anemia
+anticoagulation
+aorta
+aortic aneurysm status post repair
+aortic root
+aortic valve
+appointments recommended
+appreciate renal c/s - renal us - impression
+appreciate renal c/s - renal us -impression
+approved
+arf
+arterial pulses
+assessment and plans(13	assessment_and_plan)
+associated diagnoses(5.22	diagnoses)
+associated diagnosis(5.22	diagnoses)
+associated medical problems include
+associated procedures(5.23	procedures)
+associated procedures or operations(5.23	procedures)
+asthma
+asthma exacerbation
+at - home medications(5.37.106.124	outpatient_medications)
+at home include(5.37.106.124	outpatient_medications)
+at the time of discharge , her lft s were as follows(6.4	physical_examination)
+at the time of transfer , the patient 's physical examination is as follows(6.4	physical_examination)
+at this time the patient 's physical examination is as follows(6.4	physical_examination)
+at time of discharge
+ate of death
+atrial fibrillation
+attend
+attending **name[ttt
+attending **name[uuu
+attending **name[vvv
+attending **name[www
+attending of record
+audiology
+b
+b-3 reason for override
+back pain
+baseline values
+batch
+before the patient acutely decompensated as above , the plan was for steroid taper(13	assessment_and_plan)
+benefits assigned
+bilateral lower extremities
+bipolar disorder
+blood
+blood culture drawn on **date[jul 30 2007](6.41.144.215.158	culture)
+blood culture from line draw special request(6.41.144.215.158	culture)
+blood cultures(6.41.144.215.158	culture)
+blood sugars(6.4	physical_examination)
+bone windows
+born at between 32 and 35 weeks with two of the following
+born at less than 32 weeks , born between 32 and 35 weeks with 2 of the following
+born between 32 and 35 weeks gestation with two of the following
+born between 32 and 35 weeks with 2 of the following
+born between 32 and 35 weeks with two of the following
+bradycardia with hearts rates between 47 to 65
+breast feeding at discharge
+brief clinical history(2.3	general_history_and_physical)
+brief history and pertinent objective findings(6.4	physical_examination)
+brief history and physical(2.3	general_history_and_physical)
+brief history of hospitalization(2.3	general_history_and_physical)
+brief history of present illness(5.28	history_present_illness)
+brief hospice course(5.32	hospital course)
+brief hpi(5.28	history_present_illness)
+brief hpi and hospital course(5.32	hospital course)
+brief overview(2.3	general_history_and_physical)
+brief physical examination(6.4	physical_examination)
+brief resume of hospital course(5.32	hospital_course)
+briefly as follows(5.32	hospital_course)
+bronchial washings
+bronchiolitis obliterans organizing pneumonia
+by diagnoses(5.22	diagnoses)
+by problems(11	problem_list)
+by systems
+c
+c. diff
+cad
+call dr. **name[zzz] or dr. **name[rrr] if any of the following were noted
+call the doctor or return to the thomas for
+canceled / inactive reactions
+capsular ossification
+car seat
+car seat position screening
+car seat positioning screen
+cardiac exam(6.40.139.194	cardiovascular_exam)
+cardiac examination(6.40.139.194	cardiovascular_exam)
+cardiac rehab(6.40.139.194	cardiovascular_exam)
+cardiogram(6.41.145.221	electrocardiogram)
+cardiology
+cardiopulmonary resuscitation note
+cardiovascular status
+cards
+care and recommendations
+care and recommendations at the time of discharge
+care recommendations
+carotid ultrasound(6.41.149.234.161	ultrasound)
+carotids
+cat scan phone
+catheterization on 2016-03-31
+causative factors
+cbc(6.4	physical_examination)
+cbc showed the following(6.4	physical_examination)
+cefuroxime axetiladmit diagnosis(5.22	diagnoses)
+cellulitis
+cerebella
+certified nurse midwife
+cesarean status
+change
+changes to discharge medications(5.37.106.122	admission_medications)
+chem 7
+chem-7
+chemistries
+chemistry
+chest / lungs
+chest ct(6.41	laboratory_and_radiology_data)
+chest pain
+chest pain / fever / chills
+chest radiograph(6.41	laboratory_and_radiology_data)
+chest x-ray(6.41	laboratory_and_radiology_data)
+chest x-ray 10/10/97(6.41	laboratory_and_radiology_data)
+chest x-ray upon admission(6.41	laboratory_and_radiology_data)
+chf(5.26	chief_complaint)
+chief complaint / history of present illness(5.28	history_present_illness)
+chief complaint and history of present illness(5.28	history_present_illness)
+chief complaint/history of present illness(5.28	history_present_illness)
+cho
+chronic lower back pain
+chronic renal insufficiency
+chronic renal insufficiency with acute renal failure
+cirrhosis
+ck
+clinical infection
+clinical infections
+cm pe(6.4	physical_examination)
+cmed(5.37.106.126	current_medications)
+cmed ccu(5.37.106.126	current_medications)
+cmed course(5.37.106.126	current_medications)
+cmed csru(5.37.106.126	current_medications)
+cmed csru course(5.37.106.126	current_medications)
+cnis 10-29
+coagulation
+collected
+color flow doppler(6.4	physical_examination)
+complete blood count
+completed by
+complications during admission(15.62	complications)
+complications during stay(15.62	complications)
+complications of labor(15.62	complications)
+conclusion(13.48	summary)
+conclusions(13.48	summary)
+condition at the time of discharge(5.21.38	discharge_condition)
+condition c(5.21.38	discharge_condition)
+condition of discharge(5.21.38	discharge_condition)
+condition on transfer(5.21.38	discharge_condition)
+condition upon discharge(5.21.38	discharge_condition)
+congestive heart failure
+congestive heart failure history
+consist of
+consult
+consultants during this admission
+consultants during this hospitalization
+consultations appreciated by
+consultations made
+consultations this admission
+consultations were made to
+consulted ophthlologist
+consulting cardiac surgeon
+consulting cardiologist
+consulting physicians
+consulting plastic surgeon
+consults
+consults obtained
+consults on the patient
+consults placed were to
+content of instruction(8	instructions)
+copd
+copd / restrictive lung disease
+coronary artery disease
+coronary artery disease and congestive heart failure
+coronary disease
+course(5.32	hospital_course)
+course in hospital(5.32	hospital_course)
+course in the icu(5.32	hospital_course)
+course in the ward on admission(5.32	hospital_course)
+course of hospitalization is as follows(5.32	hospital_course)
+course of stay(5.32	hospital_course)
+course of treatment(5.32	hospital_course)
+cranial nerves
+credentials and title of author **name[qqq] signing this document
+credentials and title of author **name[rrr] signing this document
+credentials and title of author **name[ttt] signing this document
+credentials and title of author **name[uuu] signing this document
+credentials and title of author **name[vvv] signing this **name[uuu]
+credentials and title of author **name[vvv] signing this document
+credentials and title of author **name[www] signing this **name[vvv]
+csf(6.41.144	laboratory_data)
+ct abd 02-21(6.41	laboratory_and_radiology_data)
+ct abd 2013-02-18(6.41	laboratory_and_radiology_data)
+ct abd on 2013-10-17 showed(6.41	laboratory_and_radiology_data)
+ct abdomen(6.41	laboratory_and_radiology_data)
+ct abdomen 2012-06-18(6.41	laboratory_and_radiology_data)
+ct chest(6.41	laboratory_and_radiology_data)
+ct chest 2017-09-16(6.41	laboratory_and_radiology_data)
+ct cspine(6.41	laboratory_and_radiology_data)
+ct head(6.41	laboratory_and_radiology_data)
+ct head 2012-06-11(6.41	laboratory_and_radiology_data)
+ct head without contrast 2013-11-11(6.41	laboratory_and_radiology_data)
+ct neck - impression(6.41	laboratory_and_radiology_data)
+ct of head without contrast(6.41	laboratory_and_radiology_data)
+ct of the abdomen and pelvis from **date[apr 3 2007](6.41	laboratory_and_radiology_data)
+ct of the abdomen and pelvis without iv contrast and without oral contrast showing(6.41	laboratory_and_radiology_data)
+ct pelvis(6.41	laboratory_and_radiology_data)
+ct scan(6.41	laboratory_and_radiology_data)
+ct scan 3/5/02(6.41	laboratory_and_radiology_data)
+ct scan of the chest , and abdomen and pelvis which showed the following(6.41	laboratory_and_radiology_data)
+ct scan results(6.41	laboratory_and_radiology_data)
+ct showed(6.41	laboratory_and_radiology_data)
+ct torso ( 06-17 )(6.41	laboratory_and_radiology_data)
+cta 2013-12-24 - impression(6.41	laboratory_and_radiology_data)
+cta/ct abd 03-07(6.41	laboratory_and_radiology_data)
+cultures(6.41.144.215.158	culture)
+current discharge medications(5.37.106.125	discharge_medications)
+current medications at discharge(5.37.106.125	discharge_medications)
+current plan(13	assessment_and_plan)
+current respiratory parameters
+currently include(5.37.106.126	current_medications)
+cxr 10-07(6.41	laboratory_and_radiology_data)
+cxr 2013-02-21(6.41	laboratory_and_radiology_data)
+cxr 2014-01-02 - impression(6.41	laboratory_and_radiology_data)
+cxr 2017-07-12(6.41	laboratory_and_radiology_data)
+cxr post cvl placement 09-23(6.41	laboratory_and_radiology_data)
+daily status
+date / time
+date of expiration(5.16.35.36	date_of_death)
+date of operation(5.16.35.41	date_of_procedure)
+date of transfer(0.1	transfer_date)
+death summary(13.48	summary)
+deconditioning
+deep venous thrombosis of the right i-j
+deep venous thrombosis of the right internal jugular vein
+dehydration
+delirium
+delivery
+delivery date
+delta ms/mental status issues
+depression
+depression vs. borderline personality disorder
+dermatology
+description of procedure(5.23	procedures)
+devic 's disease
+dextrose 5% in water 1000 ml , iv , start
+dextrose 5% with 0.45% nacl 1000 ml + multivitamin 10 ml + thiamine 100 mg 1 ml + folic acid 1 mg 0.2 ml + potassium chloride 20 meq 10 ml , 1000 ml , iv , routine , **date[sep 16 07] 7
+diabetes
+diabetes mellitus
+diabetes type i
+diagnoses at discharge(5.22.45	discharge_diagnosis)
+diagnoses at time of death(5.22.41	diagnosis_at_death)
+diagnoses on admission(5.22.44	admission_diagnosis)
+diagnoses on discharge(5.22.45	discharge_diagnosis)
+diagnoses upon discharge(5.22.45	discharge_diagnosis)
+diagnosis #1(5.22	diagnoses)
+diagnosis #2(5.22	diagnoses)
+diagnosis #3(5.22	diagnoses)
+diagnosis #4(5.22	diagnoses)
+diagnosis ( es )(5.22	diagnoses)
+diagnosis at time of death(5.22.41	diagnosis_at_death)
+diagnosis on admission(5.22.44	admission_diagnosis)
+diagnosis on discharge(5.22.45	discharge_diagnosis)
+diagnosis( es )(5.22	diagnoses)
+diagnostic testing(6.4	physical_examination)
+diagnostic testing performed(6.4	physical_examination)
+diagnostic tests(6.4	physical_examination)
+diarrhea
+diastolic diameter
+dicatated by
+dict(5.16.35.49	date_dictated)
+dictated by
+dictating for
+dictator
+dietary restriction
+differential
+digibsone instructions(8	instructions)
+digrimme instructions(8	instructions)
+disability
+discharge / disposition(discharge_disposition)
+discharge allergies(5.32.77.83	allergies_course)
+discharge date / time(5.16.35.35	date_of_discharge)
+discharge diagnoses - as above plus(5.22.45	discharge_diagnosis)
+discharge diagnosis ( es )(5.22.45	discharge_diagnosis)
+discharge diagnosis( es )(5.22.45	discharge_diagnosis)
+discharge follow up(9.45	discharge_followup)
+discharge followup appointments(9.45	discharge_followup)
+discharge instructions were as follows(8.42	discharge_instructions)
+discharge instructions/followup(8.42	discharge_instructions)
+discharge labs(6.41.144	laboratory_data)
+discharge medications / instructions(5.37.106.125	discharge_medications)
+discharge medications are the following(5.37.106.125	discharge_medications)
+discharge medications include the following(5.37.106.125	discharge_medications)
+discharge medicines(5.37.106.125	discharge_medications)
+discharge meds(5.37.106.125	discharge_medications)
+discharge note date / time(5.16.35.35	date_of_discharge)
+discharge orders(5.37.106.125	discharge_medications)
+discharge orders ( medications instructions to patient , follow-up care )(5.37.106.125	discharge_medications)
+discharge orders ( medications instructions to patient , follow-up care)(5.37.106.125	discharge_medications)
+discharge orders and instruction(5.37.106.125	discharge_medications)
+discharge patient on(5.16.35.35	date_of_discharge)
+discharge physical examination(6.4	physical_examination)
+discharge plan and instructions(8.42	discharge_instructions)
+discharge planning and instructions(8.42	discharge_instructions)
+discharge plans(8.42	discharge_instructions)
+discharge plans and followup(9.45	discharge_followup)
+discharge recommendations(8.42	discharge_instructions)
+discharge regimen
+discharge status
+discharge summary name
+discharge to
+discharged condition on discharge(5.21.38	discharge_condition)
+discharged diagnosis(5.22.45	discharge_diagnosis)
+discontinued medications(5.37	medications)
+discrete results only(6.4	physical_examination)
+dishcarge recommendations(8.42	discharge_instructions)
+disposition , follow up and instructions to patient
+disposition / plan on discharge(	discharge_disposition)
+disposition and discharge medications(5.37.106.125	discharge_medications)
+disposition on discharge(	discharge_disposition)
+disposition plans(13	assessment_and_plan)
+diverticular disease of the colon
+dm
+dm2
+doctor ' s discharge orders(7	orders)
+doctor &apos; s discharge orders(7	orders)
+doctor &apos;s discharge orders(7	orders)
+doctors discharge instructions(8.42	discharge_instructions)
+doctors discharge orders(7	orders)
+doctors discharge orders and medications on discharge(5.37.106.125	discharge_medications)
+dr. **name[vvv] on monday , **date[jan 12 2008]
+dr. **name[zzz]
+dr. andre d. bruner on
+dr. andrea trotter on
+dr. andrew x.. dale on
+dr. barbara van de tate on
+dr. billie schneider on
+dr. dorothy au pratt on
+dr. dorothy z. alderman on
+dr. freddy darr on
+dr. freddy king on
+dr. gene au holden on
+dr. john j. booker on
+dr. jose m. rosales on
+dr. kenneth rhein on
+dr. michael z waldroup on
+dr. richard ronald lockett on
+dr. ronald z. thome on
+dr. shirley x schaack on
+dr. thomas rosier on
+dr. vanessa riker on
+dr. wanda detz on
+drains
+during detailed and delicate discussion , the following points were communicated to the patient
+during her delivery she encountered the following complication ( s )
+during her labor she encountered the following complication ( s )
+dx
+echo 2013-02-19(6.41.147.227	eeg)
+echo showed(6.41.147.227	eeg)
+echocardiogram in 2010(6.41.147.227	eeg)
+ed
+eeg 2016-05-12(6.41.147.227	eeg)
+ef(6.4	physical_examination)
+ef 55-60 , ? septal flattening , mild tr and mr , trace effusion -24h urine (6.4	physical_examination)
+egd - impression(6.4	physical_examination)
+egd **date[may 16 07](6.4	physical_examination)
+ekg(6.41.144	laboratory_data)
+ekg ( at athol memorial hospital , 17(6.41.144	laboratory_data)
+ekg , **date[jul 30 2007] , 7(6.41.144	laboratory_data)
+ekg in john(6.41.144	laboratory_data)
+ekg upon admission(6.41.144	laboratory_data)
+electroencephalogram(6.4	physical_examination)
+electronically signed
+elevated lactate
+elevated lfts
+elevated liver function tests
+elevated pt and ptt6.4	physical_examination
+elevated transaminases
+emergent indications
+employment status
+en
+encephalopathy
+endo - dm
+endocrine / hyperglycemia
+entered by
+enterobacter bacteremia
+epidural secondary anesthesia
+epidural vaginal delivery
+epoetin alfa , 60000 units / 2ml , iv , once , drug form
+escription document
+estimated disability and probable duration
+estimated edc
+esumed coumadin as her home dose
+evaluation date(5.16.35.39	date_of_examination)
+exam findings(6.4	physical_examination)
+exam on arrival in the lo hospital emergency room(6.4	physical_examination)
+examination at discharge(6.4	physical_examination)
+examination on presentation to the emergency room revealed the following(6.4	physical_examination)
+exercise stress test
+ext gen
+extrem(6.40.139.191.120	heent_exam)
+extremi-ties(6.40.139.191.120	heent_exam)
+f/e/n(6.40.139.191.120	heent_exam)
+f8373 status
+f84813 status
+facility
+family contacts
+family history , review of systems , allergies , and medications(5.34.79	family_medical_history)
+fax #
+feeding
+feedings
+feedings at discharge
+feeds at discharge
+fever
+fever issues
+fhx / shx(5.34	family_and_social_history)
+final diagnoses / reason for admission(5.22.44	admission_diagnosis)
+final diagnoses and reason for admission(5.22.44	admission_diagnosis)
+final diagnosis ( es )(5.22	diagnoses)
+final discharge diagnoses(5.22.45	discharge_diagnosis)
+final discharge diagnosis(5.22.45	discharge_diagnosis)
+final impressions(5.22.45	discharge_diagnosis)
+flolan administration
+fluid , electrolytes , and nutrition(5.37	medications)
+fluid , electrolytes and nutrition(5.37	medications)
+fluid , electrolytes and nutrition status(5.37	medications)
+fluid , electrolytes and nutritions(5.37	medications)
+fluid culture ( final 2014-12-03 )(6.41.144.215.158	culture)
+fluid restriction
+fluids , electrolytes , and nutrition(5.37	medications)
+fluids , electrolytes , nutrition(5.37	medications)
+fluids , electrolytes and nutrition(5.37	medications)
+fluids , electrolytes and nutrition status(5.37	medications)
+fluids / electrolytes / nutrition(5.37	medications)
+fluids / electrolytes/nutrition(5.37	medications)
+fluids and electrolytes(5.37	medications)
+foanterp(9	follow_up)
+fohintonp(9	follow_up)
+follow - up(9.45	discharge_followup)
+follow - up instructions(9.45	discharge_followup)
+follow up and instructions to patient(9.45	discharge_followup)
+follow up appointment ( s )(9.45	discharge_followup)
+follow up appointments(9.45	discharge_followup)
+follow up appointments scheduled(9.45	discharge_followup)
+follow up care(9.45	discharge_followup)
+follow up instructions(9.45	discharge_followup)
+follow up service(9.45	discharge_followup)
+follow up with(9.45	discharge_followup)
+following a short stay in the recovery room , she was transferred to the floor for postoperative management where she did well and was without complication except for the following
+followup and instructions(9.45	discharge_followup)
+follow-up appointment(9.45	discharge_followup)
+followup care(9.45	discharge_followup)
+follow-up care(9.45	discharge_followup)
+follow-up instructions(9.45	discharge_followup)
+followup plans(9.45	discharge_followup)
+follow-up plans(9.45	discharge_followup)
+for completeness , the patient 's complete past medical history(past_medical_history)
+for discharge today , he is to follow the instructions for the people who have undergone cardiac catheterization , and they are as follows(8.42	discharge_instructions)
+full code additional comments(13.48	summary)
+fungal culture ( preliminary )(6.41.144.215.158	culture)
+g2 t0 p0 a1 l0 estimated edc
+gastritis / gastroesophageal reflux disease
+gastroenterology
+gastrointestinal bleed
+gastrointestinal status
+gastroparesis
+general comments(13.48	summary)
+general instructions(8	instructions)
+genitalia / rectal
+gerardi problem list is as follows(11	problem_list)
+gerd operations and procedures(5.23	procedures)
+gi - diverticulosis
+gi / nutrition
+gi bleed study - impression
+gi wise
+gluc
+glucose monitoring
+gnr sepsis
+gram stain
+gram stain ( final 2016-05-12 )
+gram stain ( final 2016-05-14 )
+h/o pericarditis
+h/o transverse myelitis/optic neuritis
+h20711 status
+h20738 status
+h50342 status
+h59524 status
+habits and addictions
+hct
+hct drop
+he had the following procedures done(5.23	procedures)
+he had the following tests done(6.4	physical_examination)
+he is being transferred today with the following discharge instructions(8	instructions)
+he is on
+he remains in the intensive care unit and suffers from the following problems(11	problem_list)
+he remains in the intensive care unit suffers from the following problems(11	problem_list)
+he was born to a 31-year-old g1 p0 now 1 mother with unremarkable prenatal screens as follows(6.4	physical_examination)
+he was discharged home with(5.37.106.124	outpatient_medications)
+he was discharged to home on the following medications(5.37.106.124	outpatient_medications)
+he was hospitalized from 6-12-91 to 7-9-91 with a prolonged course notable for(5.32	hospital_course)
+he was instructed to hold the following three medications that he took prior to admission(5.37.106.125	discharge_medications)
+he was seen by me on **date[jan 26 2008] , and he was on the following medications when he came to the emergency room(5.37.106.125	discharge_medications)
+he was subsequently discharged the following day on(5.37.106.125	discharge_medications)
+he was subsequently seen by the gi team who performed an upper endoscopy which demonstrated the following(6.41.144	laboratory_data)
+he was then discharged on **date[dec 7 2007] , on the following medications(5.37.106.125	discharge_medications)
+head , eyes , ears , nose , and throat(6.4	physical_examination)
+head , eyes , ears , nose , throat(6.4	physical_examination)
+head , eyes , ears , nose and throat(6.4	physical_examination)
+head , eyes , ears , nose and throat exam(6.4	physical_examination)
+head , neck(6.4	physical_examination)
+head and neck examination(6.4	physical_examination)
+head computerized tomography scan of 10/23(6.41	laboratory_and_radiology_data)
+heart sounds(6.4	physical_examination)
+heck a1c(6.4	physical_examination)
+heck echo(6.4	physical_examination)
+heck ekg(6.4	physical_examination)
+height hospital course ( include complications if any )(5.32	hospital_course)
+helicobacter pylori antibody test ( final 2018-08-06 )
+hematocrit
+hematologic / infectious disease
+hematologic / lymphatic
+hematologic and infectious disease
+hematological
+hematological status
+hematologically
+hemodynamics
+hemodynamics results body surface area
+hemoglobin
+her active issues include(8.44	discharge_activity)
+her activities are strictly as follows(8.44	discharge_activity)
+her discharge instructions are as follows(8	instructions)
+her discharge medications are as follows(5.37	medications)
+her discharge medications include(5.37	medications)
+her labs were the following(6.41.144	laboratory_data)
+her medication for discharge include(5.37.106.125	discharge_medications)
+her medications on discharge were(5.37.106.125	discharge_medications)
+her other medical diagnoses included(5.22	diagnoses)
+her outside course in more detail
+her pulmonary
+her right lower lobe infiltrate
+her tube feeds orders are as follow(7	orders)
+hip fracture
+his condition is stable and he was discharged with the following medications(5.37.106.125	discharge_medications)
+his discharge day labs include(6.41.144	laboratory_data)
+his discharge medications are going to include(5.37.106.125	discharge_medications)
+his discharge medications will include(5.37.106.125	discharge_medications)
+his discharge medications would be(5.37.106.125	discharge_medications)
+his final medications on discharge were as follows(5.37.106.125	discharge_medications)
+his grafts include the following
+his medications are as follows(5.37.106.125	discharge_medications)
+his medications on discharge are(5.37.106.125	discharge_medications)
+his medications upon discharge(5.37.106.125	discharge_medications)
+his pdt precautions
+his postoperative course was complicated by(5.32	hospital_course)
+his problems and management are as follows(11	problem_list)
+history / reason for hospitalization(5.28	history_present_illness)
+history and physical exam(6.4	physical_examination)
+history and physical examination(6.4	physical_examination)
+history and reason for admission(5.28	history_present_illness)
+history and reason for hospitalization(5.28	history_present_illness)
+history of high blood pressure
+history of present complaint(5.28	history_present_illness)
+history of present illness and hospital course(5.32	hospital course)
+history of present illness and reason for hospitalization(5.28	history_present_illness)
+history of present stay(5.28	history_present_illness)
+history of the present illness and reason for hospitalization(5.28	history_present_illness)
+hiv(11	problem_list)
+hold if
+holter electrocardiogram(6.41.145.221	electrocardiogram)
+holter monitor
+home care
+home medication(5.37.106.124	outpatient_medications)
+home medications(5.37.106.124	outpatient_medications)
+homecare
+hospital consultants
+hospital course ( include complications if any )(5.32	hospital course)
+hospital course and outcome(5.32	hospital course)
+hospital course and treatment(5.32	hospital course)
+hospital course by diagnosis(5.32	hospital course)
+hospital course by systems(5.32	hospital course)
+hospital course by systems including pertinent laboratory data(5.32	hospital course)
+hospital course continued(5.32	hospital course)
+hospital course over these previous days(5.32	hospital course)
+hospital presentation(5.32	hospital course)
+hospital stay(5.32	hospital course)
+hospitalization course(5.32	hospital course)
+howeaver course(5.32	hospital course)
+however , a __________ done by the patient on room air revealed an oxygen step - up in the mid right atrium as follows
+hx of multiple port-o-cath clots
+hypercalcemia
+hypercarbic respiratory failure issues
+hyperglycemia
+hyperlipidemia
+hypertension
+hypertensive urgency
+hypo or hyperglycemia
+hypoglycemia
+hypokalemia
+hypoparathyroidism
+hypotension
+hypothyroidism
+hypoxia
+hypoxia and shortness of breath
+hypoxic rspiratory failure
+i am currently managing her for the following critical care issues(11	problem_list)
+i have reviewed all the laboratory data today(6.41.144	laboratory_data)
+icu exam(6.4	physical_examination)
+icu prophylaxis
+id - bacteremia and pna
+identification data
+ii
+iii , iv , vi
+imaging at providence behavioral health hospital
+immunization recommended
+immunizations received
+immunizations recommended
+immunosuppression
+impending spinal cord compression
+important results
+impression on admission(13	assessment_and_plan)
+impression on discharge(13	assessment_and_plan)
+in addition , she is given prescriptions for the following medications(5.37.106.124	outpatient_medications)
+in brief(13.48	summary)
+in conclusion , by systems(13.48	summary)
+in summary(13.48	summary)
+in this patient
+incision type
+include
+included
+indication for admission
+indications for induction
+infectious disease / cellulitis
+infectious disease consultant
+infectious disease provider
+infectious disease status
+infectious prophylaxis
+initial a/p
+initial hospital course in the cardiac pavilion was as follows(5.32	hospital_course)
+initial laboratory(6.41.144	laboratory_data)
+initial laboratory examination(6.4	physical_examination)
+initial newborn exam(6.4	physical_examination)
+instructions to the patient(8	instructions)
+instructions upon discharge(8	instructions)
+insulin
+intake
+invasive procedures(5.23	procedures)
+investigations performed
+is as follows
+ischemia
+ischemic heart disease
+ischemic heart disease and status post mitral valve repair
+ispo
+issues(11	problem_list)
+it was decided though that the patient would be admitted with the diagnosis of(5.22	diagnoses)
+iv catheter tip 2017-02-05
+ivc obstruction
+ix
+jo b#
+job #
+job id
+job#
+key issues
+kub
+l knee injury
+lab / x-ray data(6.41	laboratory_and_radiology_data)
+lab values(6.41	laboratory_and_radiology_data)
+lab work(6.41	laboratory_and_radiology_data)
+lab work today(6.41	laboratory_and_radiology_data)
+laboratories at outside hospital(6.41	laboratory_and_radiology_data)
+laboratories on admission(6.41	laboratory_and_radiology_data)
+laboratory , radiographic , and other diagnostic study findings(6.41	laboratory_and_radiology_data)
+laboratory , radiographic and other diagnostic study findings(6.41	laboratory_and_radiology_data)
+laboratory / radiographic findings(6.41	laboratory_and_radiology_data)
+laboratory / radiologic data(6.41	laboratory_and_radiology_data)
+laboratory and diagnostics(6.41	laboratory_and_radiology_data)
+laboratory and radiologic data(6.41	laboratory_and_radiology_data)
+laboratory and x-ray(6.41	laboratory_and_radiology_data)
+laboratory data on 02-15(6.41	laboratory_and_radiology_data)
+laboratory data on presentation(6.41	laboratory_and_radiology_data)
+laboratory data prior to discharge(6.41	laboratory_and_radiology_data)
+laboratory data upon admission(6.41	laboratory_and_radiology_data)
+laboratory diagnostic tests(6.41	laboratory_and_radiology_data)
+laboratory on admission(6.41	laboratory_and_radiology_data)
+laboratory results(6.41	laboratory_and_radiology_data)
+laboratory showed the following(6.41	laboratory_and_radiology_data)
+laboratory studies at admission(6.41	laboratory_and_radiology_data)
+laboratory studies on discharge(6.41	laboratory_and_radiology_data)
+laboratory summary(6.41	laboratory_and_radiology_data)
+laboratory tests(6.41	laboratory_and_radiology_data)
+laboratory tests on discharge(6.41	laboratory_and_radiology_data)
+laboratory work to be obtained once weekly for two weeks(6.41	laboratory_and_radiology_data)
+labs and radiographic findings(6.41	laboratory_and_radiology_data)
+labs at osh c cr(6.41	laboratory_and_radiology_data)
+labs on admit(6.41	laboratory_and_radiology_data)
+labs on discharge(6.41	laboratory_and_radiology_data)
+labs revealed the following(6.41	laboratory_and_radiology_data)
+labs to be followed(6.41	laboratory_and_radiology_data)
+labs today(6.41	laboratory_and_radiology_data)
+laceration
+lasix 40 mg tablet sig
+last set of electrolytes on 06-08 , dol3
+last update
+left atrium
+left upper extremity
+left ventricle
+leukocytosis
+leuprolide admit diagnosis(5.22	diagnoses)
+list of consultants
+list of discharge medications(5.37.106.125	discharge_medications)
+list of medications(5.37	medications)
+list of medications are as follows(5.37	medications)
+liver function
+liver lesions
+local procedures(5.23	procedures)
+local vaginal delivery
+low mcv anemia
+lumbar compression fracture
+lung transplantation
+m37729 status
+major surgical and invasive procedures(5.23	procedures)
+major surgical or invasive procedure(5.23	procedures)
+major surgical procedures(5.23	procedures)
+malnutrition
+malnutrition and inability to eat
+management
+manual condition
+matebolic
+maternal transfer
+mb
+mcg inh daily diet
+md
+median placenta
+mediastinitis
+medical management
+medication ( s ) on discharge(5.37.106.125	discharge_medications)
+medications as outpatient(5.37.106.124	outpatient_medications)
+medications at discharge(5.37.106.125	discharge_medications)
+medications at discharge include(5.37.106.125	discharge_medications)
+medications at discharge will be(5.37.106.125	discharge_medications)
+medications at the time of admission(5.37.106.122	admission_medications)
+medications at the time of discharge(5.37.106.125	discharge_medications)
+medications at the time of discharge included(5.37.106.125	discharge_medications)
+medications at time of discharge(5.37.106.125	discharge_medications)
+medications include(5.37	medications)
+medications of discharge include(5.37.106.125	discharge_medications)
+medications on admission from transfer(5.37.106.122	admission_medications)
+medications on admit(5.37.106.122	admission_medications)
+medications on discharge(5.37.106.125	discharge_medications)
+medications on transfer(5.37	medications)
+medications on transfer from nursing home(5.37	medications)
+medications on transfer the stillman infirmary(5.37	medications)
+medications upon discharge(5.37.106.125	discharge_medications)
+medicines on discharge(5.37.106.125	discharge_medications)
+meds at pocasset mental health center(5.37	medications)
+meds on admission(5.37.106.122	admission_medications)
+meds on transfer(0.3	transfer_medications)
+meds p.r.n.(5.37	medications)
+mental state
+mental status changes
+metabolic alkalosis / hypochloremia
+mg po bid diet
+mg po daily hold if
+mh
+micro data
+mitral valve
+moderate mitral regurgitation
+monitor
+mood and affect
+most recent results
+motor exam(6.4	physical_examination)
+motor system
+motrin ( ibuprofen ) 600 mg po q6h prn pain , headache , temperature greater than
+mpression(13	assessment_and_plan)
+mr angiogram intracranial vessels
+mr. **name[aaa] is to follow up with the following services and physicians
+mr. **name[aaa] was discharged in improved condition on the following medications(5.37.106.125	discharge_medications)
+mra(6.41	laboratory_and_radiology_data)
+mri / mra 1/17(6.41	laboratory_and_radiology_data)
+mri c-spine(6.41	laboratory_and_radiology_data)
+mri head(6.41	laboratory_and_radiology_data)
+ms changes
+msk
+musculo - rt toe cellulitis
+my management of this critically ill patient in the micu today has included the following
+nad , pleasant , speaking in complete sentences , poor air movement bilaterally , l &gt; r , no wheezes or rales , rrr , distant , abd benign , no edema , alert and oriented times three , no focal deficits , conversant studies
+name of pediatrician
+name of primary pediatrician
+nares for staph only special request
+narrative
+nausea , vomiting , abdominal pain
+near syncope standardized discharge instructions(8	instructions)
+needs to speak w/ pcp in order to switch provider diagnosis(5.22	diagnoses)
+nephrology consults
+neuro exam(6.4	physical_examination)
+neurologic and psychologic
+neurologic exam(6.4	physical_examination)
+neurological / vascular(6.4	physical_examination)
+neurological status
+neurology
+neurology , seizure disorder
+new medications are(5.37.106.125	discharge_medications)
+new results
+newborn screen
+nexk ct(6.41	laboratory_and_radiology_data)
+nka admit diagnosis(5.22	diagnoses)
+no known allergies to medications
+nocardia culture ( preliminary )(6.41.144.215.158	culture)
+nodes normal vulva normal vagina normal cervix normal os normal adnexae normal uterus normal uterine size in weeks 15 hospital course ( include complications if any )(5.32	hospital_course)
+nonebrief resume of hospital course(5.32	hospital_course)
+nonobstructive coronary artery disease
+normal delivering resident / staff
+normal staff obstetrician ( supervising )
+notably you were discharged on
+notation
+nph insulin 24 units subq. q. a.m. nph insulin 14 units subq. q. p.m. czi sliding scale on a q. a.c. and q. h.s. fingerstick basis with the following scale
+number of doses required ( approximate )
+nursing
+nursing unit
+nutritional services
+nutritional services and diet
+ob-gyn history
+obhx
+ode
+ode status
+off service note micu intern signoff on **date[apr 31 07]
+on **date[aug 31 07] , the patient was stable enough to be sent to **institution harmarville on the following medications(5.37.106.125	discharge_medications)
+on **date[dec 16 07]
+on **date[feb 10 2007] , the patient underwent right and left heart catheterization which showed the following findings
+on **date[jun 9 2007] , her oxygen requirements had improved , and she is back to her baseline between 2 and 4 l / min requirement , and she was discharged on the following medications(5.37.106.125	discharge_medications)
+on 2014-04-04 , labs were as follows(6.41	laboratory_and_radiology_data)
+on admission , vital signs(6.40.136	vital_signs)
+on admission to the neonatal intensive care unit
+on arrival at the lo hospital emergency room
+on exam(6.4	physical_examination)
+on heent(6.4	physical_examination)
+on transfer
+on transfer to floor team from cmed active issues and plan included(5.37.106.126	current_medications)
+on transfer to the floor from the cmed csru on 2017-02-15 temp(5.37.106.126	current_medications)
+on wednesday , 11-25 , an esophagogastroduodenoscopy was performed and was significant for the following findings
+onclusions(13.48	summary)
+operations / procedures(5.23	procedures)
+operations and dates(5.16.35.41	date_of_procedure)
+operations and nonsurgical procedures(5.23	procedures)
+operations and procedure(5.23	procedures)
+operations and procedures done during this admission includes(5.23	procedures)
+operations performed(5.23	procedures)
+operative date(5.16.35.41	date_of_procedure)
+ophthalmology
+ophthlologist
+orthopedics
+osh imaging
+other
+other blood chemistry
+other discharge instructions(8.42	discharge_instructions)
+other hemodynamic data
+other information
+other laboratories that were notable(6.41	laboratory_and_radiology_data)
+other medical problems(11	problem_list)
+other medications ordered at the time of discharge(5.37.106.125	discharge_medications)
+other medications prescribed(5.37	medications)
+other notable tests(6.4	physical_examination)
+other notalbe labs(6.41	laboratory_and_radiology_data)
+other pertinent secondary diagnoses(5.22.40	secondary_diagnoses)
+other pertinent secondary diagnoses are(5.22.40	secondary_diagnoses)
+other postpartum therapies
+other problems(11	problem_list)
+other procedures(5.23	procedures)
+other studies
+other workup
+others
+overall impression(13	assessment_and_plan)
+overdose
+override added on 01/07/04 by
+override added on 05/27/05 by
+override added on 08/08/01 by
+override added on 12/08/05 by
+override notice
+pain control
+pain service
+pancreatitis
+pantoprazole 40 mg tablet , delayed release ( e.c. ) sig
+past cmed hx5.37	medications)(5.35	past_medical_history)
+past gyn history(5.35	past_medical_history)
+past gynecologic history(5.35	past_medical_history)
+past gynecological history(5.35	past_medical_history)
+past medical / surgical history(5.35	past_medical_history)
+past obstetric history(5.35	past_medical_history)
+past obstetrical history(5.35	past_medical_history)
+pathology(6.4	physical_examination)
+patient &apos;s hospital course is as follows(5.32	hospital_course)
+patient / test information
+patient care
+patient care / wound care
+patient profile
+patient requires mechanical ventilation and the parameters are
+patient 's labs from 2014-04-10 were the following(6.41	laboratory_and_radiology_data)
+patient states complaint(5.26	chief_complaint)
+patient statistics
+pcc
+pcp benefits assigned
+pcp name
+pcp notified by md
+pcxr 2016-05-11 5
+pcxr 2016-05-11. 1
+pcxr 2016-05-13
+pcxr 2016-05-14
+pending tests
+penicillin
+per admitting resident
+pericardium
+perinatal history
+peripheral blood right arm special request
+peripheral blood right hand special request
+peripheral blood special request
+person instructed
+pertinent consult
+pertinent consultations
+pertinent consults
+pertinent consults placed
+pertinent consults were
+pertinent laboratories(6.41	laboratory_and_radiology_data)
+pertinent laboratory data on presentation(6.41	laboratory_and_radiology_data)
+pertinent laboratory values on presentation(6.41	laboratory_and_radiology_data)
+pertinent labs on discharge(6.41	laboratory_and_radiology_data)
+pertinent medical history(5.35	past_medical_history)
+pertinent results(6.41.144	laboratory_data)
+pertinent secondaries(5.22.40	secondary_diagnoses)
+pertinent secondary diagnoses(5.22.40	secondary_diagnoses)
+phoen
+physical assessment(13.49	assessment)
+physical exam ( examined off of propofol )(6.4	physical_examination)
+physical exam on admission(6.4	physical_examination)
+physical exam upon admission to the neonatal intensive care unit(6.4	physical_examination)
+physical examination on admission(6.4	physical_examination)
+physical examination on admission to the cmed ccu(6.4	physical_examination)
+physical examination on discharge(6.4	physical_examination)
+physical examination on presentation(6.4	physical_examination)
+physical examination on transfer(6.4	physical_examination)
+physical examination upon admission(6.4	physical_examination)
+physical examination upon admission to the cmed ccu(6.4	physical_examination)
+physical examination upon admission to the neonatal intensive care unit(6.4	physical_examination)
+physical therapy
+physician followup(9	follow_up)
+physicians
+physicians that took care of this patient while at the ph university of medical center are as follows
+pi
+placenta
+plan for followup(13	assessment_and_plan)
+plantar responses
+pmi
+pneumonia
+polyendocrine deficiency syndrome type i which is comprised of the following
+post - discharge services
+post discharge instructions(8	instructions)
+post discharge services
+post discharge testing
+post. wall thickness
+post-bypass
+post-cpb
+postdischarge service
+postdischarge services
+postdischarge testing(6.41.144	laboratory_data)
+postoperative course(5.32	hospital_course)
+postoperative course by systems is as follows
+postoperative day #1(5.32	hospital_course)
+postoperative day #2(5.32	hospital_course)
+postoperative day #3(5.32	hospital_course)
+postpartum care site
+postpartum diagnostic procedures(5.23	procedures)
+postpartum disposition
+postpartum measles / mumps / rubella vaccine
+postpartum measles / mumps/rubella vaccine
+postpartum return appointment ( days )
+postpartum rh immune globulin
+postpartum she encountered the following complication ( s )
+postpartum therapeutic procedures(5.23	procedures)
+potassium chloride policy
+potentially serious interaction
+power
+ppx
+pre-cpb
+pregnancy notable for
+prelim
+prenatal edward
+prenatal laboratory values(6.41	laboratory_and_radiology_data)
+prenatal screens
+presenting history(5.28	history_present_illness)
+previous hospital course ( per h&p )(5.32	hospital_course)
+previous interventricular hemorrhages
+previous override information
+primary
+primary admission diagnoses(5.22.44	admission_diagnosis)
+primary anesthesia
+primary diagnosis ( es )(5.22.39	principle_diagnosis)
+primary discharge diagnoses(5.22.39	principle_diagnosis)
+primary discharge diagnosis(5.22.39	principle_diagnosis)
+primary pediatric care
+primary pediatrician
+primary urgency
+principal diagnosis ( es )(5.22.39	principle_diagnosis)
+principal discharge diagnosis(5.22.39	principle_diagnosis)
+principal procedure and tests(5.23	procedures)
+principal procedure or operation(5.23	procedures)
+principal procedure performed while hospitalized(5.23	procedures)
+principal procedures and tests(5.23	procedures)
+principal procedures done(5.23	procedures)
+principal procedures performed while hospitalized(5.23	procedures)
+principal procedures this admission(5.23	procedures)
+principal tests and procedures(5.23	procedures)
+principle procedure(5.23	procedures)
+principle procedures this admission(5.23	procedures)
+problem #1(11	problem_list)
+problems and management(11	problem_list)
+problems and management are as follows(11	problem_list)
+problems and the management are as follows(11	problem_list)
+problems being addressed(11	problem_list)
+problems list(11	problem_list)
+procedure #2(5.23	procedures)
+procedure ( s )(5.23	procedures)
+procedure during this hospitalization(5.23	procedures)
+procedures done(5.23	procedures)
+procedures done during hospitalization(5.23	procedures)
+procedures done on the patient(5.23	procedures)
+procedures dones(5.23	procedures)
+procedures during hospitalization(5.23	procedures)
+procedures performed(5.23	procedures)
+procedures performed / studies obtained(5.23	procedures)
+procedures performed were(5.23	procedures)
+procedures performed while in the unit(5.23	procedures)
+products
+prognosis
+progress
+provider number
+provisional admitting diagnosis(5.22.44	admission_diagnosis)
+provisional diagnosis(5.22.44	admission_diagnosis)
+psychiatry
+psycho / social
+psychosocial
+pt
+pt / ot
+pt also counselled re
+pt reported to the **name[uuu] rn that she is taking
+pt 's discharge summary from **date[dec 22 2006] includes the following d/c meds(5.37.106.125	discharge_medications)
+pulm - copd
+pulmonary / infectious disease
+pulmonary angiogram
+pulmonary respiratory insufficiency / failure
+pulmonary system
+pulmonary wise
+pulse oximetry ( o2 sats )
+pump
+pupils
+pvd
+r hip pain
+ra kidney
+radiologic studies
+radiological studies at time of admission
+radiology / imaging
+radiology/imaging
+read by
+reason for admission / history of present illness(5.26	chief_complaint)
+reason for admission to the hospital is(5.26	chief_complaint)
+reason for override(5.26	chief_complaint)
+reason for this examinatio(5.26	chief_complaint)
+recent exam(6.4	physical_examination)
+recent laboratory values(6.41	laboratory_and_radiology_data)
+recommendations after discharge
+recommended follow-up
+red eye
+registration date(5.15	admission_date)
+relevant imaging
+relevant laboratory data(6.41	laboratory_and_radiology_data)
+renal / electrolytes
+renal failure
+renal insufficiency
+renal us - impression
+resdient
+residents
+resp failure
+resp failure / copd
+respiratory care
+respiratory culture ( final 2016-05-14 )(6.41.144.215.158	culture)
+respiratory failure
+respiratory symptoms
+respiratory therapy
+respiratory treatments
+return to home medications(5.37.106.124	outpatient_medications)
+reviewed by
+rf
+rheumatology
+rhythm
+right fem
+right hip
+right hydronephrosis
+right lower extremity cellulitis
+right sided sciatica procedure(5.23	procedures)
+right upper quadrant pain
+right ventricle
+sbp
+screens
+second degree burn to face procedure(5.23	procedures)
+secondary
+secondary anesthesia
+secondary diagnosis ( es )(5.22.40	secondary_diagnoses)
+secondary discharge diagnoses(5.22.40	secondary_diagnoses)
+sedated , dtrs
+sensitivities
+sensory system
+sepsis
+sepsis risk factors
+septal thickness
+serious interaction
+serologies
+service of
+she had this done on **date[feb 25 2007] , which showed the following
+she is being discharged on the following medications(5.37.106.125	discharge_medications)
+she is now stable and is being discharged home on the following list of medications(5.37.106.125	discharge_medications)
+she is taking
+she is to receive rehabilitation to increase her mobility and strength , rehabilitation potential is good , and she is to receive the following medications at that facility(5.37.106.125	discharge_medications)
+she should resume the following home medications
+she should take the following new medications(5.37	medications)
+she was discharged home with the following medications(5.37.106.124	outpatient_medications)
+she was discharged on the following medications(5.37.106.125	discharge_medications)
+she was taken to the cath lab by dr. **name[ttt sss] on **date[dec 16 07] with the results as follows(6.41	laboratory_and_radiology_data)
+she was ultimately discharged on the following medications(5.37.106.125	discharge_medications)
+she will be continuing with the following medications(5.37.106.125	discharge_medications)
+she will be sent home on the same medicines with which she came to the hospital which include the following(5.37.106.124	outpatient_medications)
+shortness of breath
+shoulder arthritis
+sigmoid colon
+signed electronically by
+significant laboratories upon discharge(6.41	laboratory_and_radiology_data)
+significant laboratory data(6.41	laboratory_and_radiology_data)
+significant laboratory data at the time of admission(6.41	laboratory_and_radiology_data)
+significant laboratory data at time of admission(6.41	laboratory_and_radiology_data)
+significant labs upon discharge(6.41	laboratory_and_radiology_data)
+significant procedures done for the patient while on admission are as follows(5.23	procedures)
+skin care
+sle
+small bowel followthrough on **date[apr 5 2007]
+smokes 2-3 cig / day , occ etoh , and no drugs except marijuana exam
+sob on admission
+social(5.34	family_and_social_history)
+social hx(5.34	family_and_social_history)
+social issues(5.34	family_and_social_history)
+source of primary pediatric care
+special discharge instructions(8	instructions)
+special instructions(8	instructions)
+special instructions for dialysis(8	instructions)
+special procedures and operations(5.23	procedures)
+special requests
+specimen desc
+specimen description
+spectral doppler
+speech evaluation
+spontaneous condition
+spontaneous episiotomy
+stable patient states complaint
+staff obstetrician ( supervising )
+standardized discharge instructions(8	instructions)
+stat
+state newborn screen
+state newborn screening status
+status at discharge
+status post fall
+status post mesh removal
+status post pec flap closure
+sternal wound infection
+sternitis
+steroid-induced hyperglycemia
+stroke mechanism
+studies / procedures(5.23	procedures)
+studies completed(6.41	laboratory_and_radiology_data)
+studies done during the hospitalization(6.41	laboratory_and_radiology_data)
+studies done during this hospitalization(6.41	laboratory_and_radiology_data)
+studies done on this admission(6.41	laboratory_and_radiology_data)
+studies on admission revealed the following(6.41	laboratory_and_radiology_data)
+studies that were done during this admission(6.41	laboratory_and_radiology_data)
+subcutaneous heparin
+subjective / events overnight
+subjective/events overnight
+substance use  and psychiatry
+summary of hospital course(5.32	hospital_course)
+summary of hospital course by issues-system(5.32	hospital_course)
+summary of hospital course by systems(5.32	hospital_course)
+summary of hospitalization(5.32	hospital_course)
+summary of laboratory and radiological examinations(6.41	laboratory_and_radiology_data)
+summary of stay
+support(13.48	summary)
+surgeries performed(5.32	hospital_course)
+surgical intervention(5.32	hospital_course)
+svd operations and procedures(5.23	procedures)
+synagis rsv prophylaxis should be considered from november through march for infants who meet any of the following 3 criteria
+synagis rsv prophylaxis should be considered from november through march for infants who meet any of the following three criteria
+synagis rsv prophylaxis should be considered from october through april for infants who meet any of the following criteria
+synagis rsv prophylaxis should be considered from october through april for infants who meet any of the following three criteria
+synagis rsv prophylaxis should be considered in general from november through march for infants who meet any of the following 3 criteria
+syncope
+systolic diameter
+t2dm
+tab po daily diet
+td
+te 1/26
+telephone #
+the cranial nerve exam(6.4	physical_examination)
+the discharge diagnosis is cva ( scattered foci of ischemia in the left mca distribution )(5.22.45	discharge_diagnosis)
+the discharge medications on this occasion are the following(5.37.106.125	discharge_medications)
+the emu team had a detailed discussion with ms. **name[aaa] , during which the following points were conveyed
+the findings are as follows(6.41.149.232	imaging_findings)
+the following coronary findings were noted(6.41.149.232	imaging_findings)
+the following issues were addressed during her hospital stay(11	problem_list)
+the following issues were addressed during this hospital admission(11	problem_list)
+the following were consulted for ways of increasing ambulation and activity
+the list of medications are as follows(5.37	medications)
+the list of medications the patient is going home on are as follows(5.37.106.124	outpatient_medications)
+the list of medications the patient is going on are as follows(5.37.106.124	outpatient_medications)
+the mother 's past medical history is significant for(5.35	past_medical_history)
+the neurological examination(6.4	physical_examination)
+the only other complaints from mr. mackey during his stay were(5.26	chief_complaint)
+the patient &apos;s discharge medications include the following(5.37.106.124	outpatient_medications)
+the patient &apos;s laboratory data on admission is as follows(6.41	laboratory_and_radiology_data)
+the patient , per infectious disease service , will be recommended the following antibiotics
+the patient arrived on the floor with medications as follows(5.37	medications)
+the patient had a repeat transthoracic echocardiogram prior to drain removal which revealed the following(6.41.145.219	echocardiogram)
+the patient had an echocardiogram on 11-10 which revealed the following(6.41.145.219	echocardiogram)
+the patient had the following radiological studies(6.41	laboratory_and_radiology_data)
+the patient had the following study performed during this admission(6.41	laboratory_and_radiology_data)
+the patient has a past medical history which is significant for(5.35	past_medical_history)
+the patient is a **age[in 60s]- year - old female who was admitted and received the following care(5.32	hospital_course)
+the patient is a 3285 gm infant born at 37 5/7 weeks to a 21 year old g3 p1 now 2 mother with prenatal screens as follows
+the patient is an **age[in 80s]- year - old woman who was admitted and received the following care(5.32	hospital_course)
+the patient is being discharged as follows(5.32	hospital_course)
+the patient is being discharged home on the following medications(5.37.106.125	discharge_medications)
+the patient is being discharged on(5.32	hospital_course)
+the patient is being discharged on the following medications(5.37.106.125	discharge_medications)
+the patient is being transferred to the nursing home with the following medications(0.3	transfer_medications)
+the patient is discharged home on(5.37.106.125	discharge_medications)
+the patient is discharged home today , **date[may 29 2007] , with the following medications(5.37.106.125	discharge_medications)
+the patient is to follow-up with dr. amanda pepper on the following dates(9.45	discharge_followup)
+the patient is to have the following dietary restrictions
+the patient is transferred to tcu on following medications(0.3	transfer_medications)
+the patient presents with complaint of(5.26	chief_complaint)
+the patient 's active issues include(11	problem_list)
+the patient 's admission labs(6.41	laboratory_and_radiology_data)
+the patient 's attending note on **date[feb 28 2007] , with the following discharge note(5.32	hospital_course)
+the patient 's condition today is as follows(6.41.144	laboratory_data)
+the patient 's date of birth
+the patient 's discharge instruction(8	instructions)
+the patient 's discharge medications are as follows(5.37.106.125	discharge_medications)
+the patient 's labs on day of discharge are as follows(6.41	laboratory_and_radiology_data)
+the patient 's last obtained laboratory values are as follows(6.41	laboratory_and_radiology_data)
+the patient underwent chemotherapy on the following doses
+the patient was discharged home on(5.37.106.125	discharge_medications)
+the patient was discharged home with the following instructions(8	instructions)
+the patient was discharged on(5.37.106.125	discharge_medications)
+the patient was discharged on the following medication(5.37.106.125	discharge_medications)
+the patient was discharged on the following medications(5.37.106.125	discharge_medications)
+the patient was given prescriptions for the following medications(5.37	medications)
+the patient was kept in the hospital and the following issues were addressed(5.37	medications)
+the patient was managed on the following issues during admission and discharge(5.37.106.125	discharge_medications)
+the patient will be discharged home with the following medications(5.37.106.124	outpatient_medications)
+the patient will be discharged on(5.37.106.125	discharge_medications)
+the patient will be discharged on the following medications(5.37.106.125	discharge_medications)
+the patient will be discharged to home on the following medications(5.37.106.124	outpatient_medications)
+the patient will continue on the following medications(5.37.106.124	outpatient_medications)
+the patient will remain on all of her home medications with the addition of the following(5.37.106.124	outpatient_medications)
+the problems and management are as follows(11	problem_list)
+the problems and their management are as follows(11	problem_list)
+the problems of my management are as follows(11	problem_list)
+the results from this exam are as follows(6.4	physical_examination)
+the results were as follows(6.41.144	laboratory_data)
+the total bypass time
+ther procedures(5.23	procedures)
+therapy
+this 21 year old gravida 2 para 0010 was admitted to the life valley medical center obstetrical service on 10/12/2004 at 08(5.32	hospital_course)
+this 23 year old gravida 2 para 1001 was admitted to the naliheall county memorial hospital obstetrical service on 06/14/2001 at 01(5.32	hospital_course)
+this 27 year old gravida 1 para 0000 was admitted to the life valley medical center obstetrical service on 10/31/2004 at 08(5.32	hospital_course)
+this 34 year old gravida 1 para 0000 was admitted to the bap spald hospital obstetrical service on 08/31/2004 at 06(5.32	hospital_course)
+this 42 year old gravida 3 para 2002 was admitted to the naliheall county memorial hospital obstetrical service on 03/15/2002 at 10(5.32	hospital_course)
+this is an addendum to her transfer summary(13.48	summary)
+this patient will be discharged on(5.37.106.125	discharge_medications)
+those medicines appear to be(5.37.106.125	discharge_medications)
+thrombotic thrombocytopenic purpura
+time of death
+time spent with patient on day of discharge
+title
+to do / plan(13	assessment_and_plan)
+today , heart goals will be to
+today 's results(6.41.144	laboratory_data)
+tom course(6.41.144	laboratory_data)
+total crossclamp time
+tr
+tran(5.16.35.50	date_transcribed)
+transaminitis
+transcranial dopplers(6.41	laboratory_and_radiology_data)
+transfer / discharge medications(5.37.106.125	discharge_medications)
+transfer medications include the following(0.3	transfer_medicitions)
+transfer orders(0.11	transfer_orders)
+transferred to
+transferred to care of
+transferred to the **institution ed where vitals were(6.40.136	vital_signs)
+trans-thoracic echocardiogram 2016-05-12(6.41.145.219	echocardiogram)
+treated with(5.37	medications)
+treatment(5.37	medications)
+treatment rendered(5.37	medications)
+treatments(5.37	medications)
+tricuspid valve
+tte 1/17
+two dimensional echocardiology(6.41.145.219	echocardiogram)
+tylenol ( acetaminophen ) 325-650 mg po q4h prn pain , headache , temperature greater than
+u/a
+ulmonary
+uncertain
+undelivered cesarean status
+underlying medical condition(11	problem_list)
+upon admission
+upon transfer to pavilion 1/25
+upright ap view of the chest
+urgency
+urinary retention
+urinary tract infection
+urine
+urine special request
+uterine incision type
+uterus and cervix , hysterectomy ( a-e )
+v
+vaginal delivery
+vaginal epithelium ( f )
+vent
+ventilator management note
+vii
+viii
+viith cranial nerve
+visual field testing(6.41.144	laboratory_data)
+vital signs on admission(6.40.136	vital_signs)
+vitals are as follows(6.40.136	vital_signs)
+vitals on admission(6.40.136	vital_signs)
+vitals weight(6.40.136	vital_signs)
+voiding
+vulvectomy
+vvp instructions(8	instructions)
+walking as tolerated follow up appointment ( s )
+was as follows
+were the following
+where
+will d / c order be used as the d / c summary(7	orders)
+will d/c order be used as the d/c summary(7	orders)
+will obtain stool for
+with regards to my assessment and plan(13	assessment_and_plan)
+wound culture ( final 2012-06-05 )(6.41.144.215.158	culture)
+wound culture ( final 2016-05-15 )(6.41.144.215.158	culture)
+wound culture ( preliminary )(6.41.144.215.158	culture)
+wound special request
+wounds
+xi
+xii
+xr(6.41.149.234.160.165	chest_xray)
+x-ray(6.41.149.234.160.165	chest_xray)
+x-ray results(6.41.149.234.160.165	chest_xray)
+ycle troponins
+yedischarge c+s
+ypertensive urgency
+zspecimen description
+management will be(5.37	medications)

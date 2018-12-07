@@ -1,0 +1,119 @@
+Admission Date :
+2018-04-23
+Discharge Date :
+2018-05-01
+Date of Birth :
+1818-04-23
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Penicillins
+Attending :
+Crystal GQ Divers , M.D.
+Chief Complaint :
+respiratory distress , hemoptysis transferred from OSH
+Major Surgical or Invasive Procedure :
+debridement of mass from tracheal lumen by interventional pulmonary
+History of Present Illness :
+95 yo male with PMH large right thyroid cystic mass eroding into trachea , who presented to St. Anne 's Hospital 2018-04-22 with hemoptysis and respiratory distress , now diagnosed with anaplastic thyroid carcinoma .
+.
+Pt reports that he noticed a right neck mass last October .
+The mass grew larger , to the size of a baseball .
+It appears that FNA was performed but was non-diagnostic ( probably because anaplastic tumors tend to be necrotic ) .
+The mass appears to be cystic in nature and has been aspirated at least 3 times , which decrease in size each time .
+Now size is 6.5cm*6.5cm .
+Plan for surgery in Oct was deferred 04-05 syncope and pacer placement for SSS; again deferred 2 weeks ago 04-05 URI; was planned for surgery this Thurday .
+.
+Pt was o/w in his USOH until 2-3 weeks ago when he developed a URI with symptoms of dry cough; no fever , chills , sore throat , myalgias .
+Pt was treated with 3 days of an antibiotics , followed by a 10 day course of levaquin ( completed 2 days PTA ) .
+Per pt and son , no James pna .
+2 days prior to admission , pt developed hemoptysis; states he coughed up 4 tsp of blood .
+1 day PTA , pt developed stridorous breathing and respiratory distress .
+Pt was initially seen at Lahey North , where he was given steroids , with improvement in respiratory status .
+Pt was transferred to New England Baptist Hospital , where his surgeon is located .
+There he was admitted to the CMED .
+Thyroid cyst was aspirated with removal of 300cc of fluid . 
+Pt was given racemic epinephrine and Decadron 10mg IV x1. CT neck showed tracheal mass per nursing s/o ( pt brought CT ) .
+.
+Pt now breathing more comfortably .
+He has not had fever and night sweats but reports weakness and weight loss for several months recently .
+Past Medical History :
+R thyroid cyst ( as above )
+Goiter
+CRI
+HTN
+SSS ( s/p pacer Michelle Matthew Mccaulley ) prostate cancer -dx 10 years ago; received monthly shots which were discontinued recently .
+anemia Afib ( 19 episodes since 2017-12-02 , as documented on pacer interogation 2018-04-04 )
+Social History :
+Was living alone in ALF .
+Walks with walker .
+Able to take care of himself; home health aide visits once a week .
+Denies history of tobacco , etoh , drugs .
+Used to work as hat manufacturer .
+Family History:
+No history of thyroid disease .
+Sister with lung ca .
+Brother with gastric ca .
+sister with unknown ca .
+Father with stroke .
+Physical Exam:
+VS :
+T 99.4 , BP 119/59 , HR 76 , RR 18 , 99% RA
+Gen :
+NAD
+HEENT :
+PERRL , EOMI , clear OP , MMM
+Neck :
+Large ~6 x 6 cm sized right thyroid mass , soft , possibly cystic , non-tender.
+L lobe of the thyroid gland also prominent .
+CVS :
+RRR , nl s1 s2 , no m/g/r
+Lungs : transmitted upper airway stridor; otherwise clear
+Abd : soft , NT , ND , +BS
+Ext : no edema
+Neuro :
+CN 04-15 intact , 07-06 bilateral upper and lower extremity strength .
+Pertinent Results :
+CT Neck - IMPRESSION :
+1. 7-cm diameter right neck mass , with direct invasion of the subglottic , cervical and proximal thoracic trachea .
+The mass is reportedly thyroid in origin .
+Differential diagnosis includes primary head/neck cancer and lymphoma .
+2. Left lobe thyroid enlargement with heterogeneous appearance .
+3. Right upper paratracheal and prevascular lymphadenopathy as well as additional nodes in the right side of the neck .
+Dedicated MR of the neck may be helpful for more complete assessment of the neck mass and lymphadenopathy if warranted clinically .
+.
+Pathology :
+The tumor is composed of a relatively monotonous proliferation of spindle cells which grow in sheets with a prominent vascular pattern .
+Immunostains for cytokeratin AE1/3 and CAM 5.2 , CD-68 , CD-79a , CD-138 , S-100 , LCA absorbed CEA , EMA , CD34 , CD31 , TTF-1 , actin , desmin , MNF-116 , calcitonin , and thyroglobulin are negative .
+These results exclude both melanoma and hematopoietic neoplasms .
+The differential diagnosis includes , but is not limited to , sarcoma , spindle cell carcinomas ( sarcomatoid carcinoma of the upper aerodigestive tract and anaplastic thyroid carcinoma ) , and malignant salivary gland neoplasms .
+Brief Hospital Course :
+Pt was transferred here for further mgmt of airway and large thyroid mass by our IP team .
+IP found endotracheal obstructing tumor and extrinsic compression of the high trachea by thyroid mass .
+After rigid bronchoscopy with removal of the intratracheal tumor component on 2018-04-24 , stat pathology showed anaplastic tumor .
+He was tranferred to the CMED .
+Subsequently extubated and his respiratory Sx are now improved .
+Pt was seen by Rad Onc , who recommended transfer to the East Campus for XRT .
+On the morning of possible radiation , patient and family met with interventional pulmonary team who explained that the most recent CT showed further invasion of the tumor into the trachea .
+After a long discussion , patient and family asked to be made CMO .
+Patient was started on morphine drip and palliative care team was consulted with recommendations to ensure comfort .
+Mr . Davison died approximately 24 hours after decision to be CMO , on 2018-05-01 .
+Discharge Disposition :
+Expired
+Discharge Diagnosis :
+NC
+Discharge Condition :
+NC
+Discharge Instructions :
+NC
+Followup Instructions :
+NC
+John Iris MD 70-363
+Completed by :
+Patricia Rojas MD 73-701 2018-05-06 @ 1434
+Signed electronically by :
+DR. John J. Booker on :
+WED 2018-05-30 5:50 PM
+( End of Report )

@@ -1,0 +1,7 @@
+1	day	days
+3	year	years	yr	yrs
+4	week	weeks	wk	wks
+6	hour	hours	hrs	hr	h.
+8	minute	minutes	min	mins	min.
+9	month	months	mo.	mo
+10	seconds	secs

@@ -1,0 +1,55 @@
+176318078 
+FIH 
+4189699 
+98761/1k47 
+867797 
+6/22/1994 12:00:00 AM 
+MITRAL STENOSIS . 
+Unsigned 
+DIS 
+Report Status : 
+Unsigned 
+ADMISSION DATE : 
+06/22/94 
+DISCHARGE DATE : 
+07/04/94 
+PRINCIPAL DIAGNOSIS : 
+Mitral stenosis . 
+ASSOCIATED DIAGNOSIS : 
+Tricuspid insufficiency , atrial fibrillation , congestive heart failure , chronic obstructive pulmonary disease , pulmonary hypertension . 
+PRINCIPAL PROCEDURE : 
+04/22/94 , mitral valve replacement and tricuspid valve reconstruction . 
+HISTORY OF PRESENT ILLNESS : 
+This 68 year old female had rheumatic fever in the past , and has had chronic atrial fibrillation . 
+She has had progressive heart failure and an evaluation demonstrated worsening mitral stenosis with severe pulmonary hypertension . 
+Because of her deteriorating status , she underwent prior cardiac catheterization , which confirmed severe mitral stenosis with secondary tricuspid valve regurgitation due to pulmonary hypertension . 
+She was referred for valve surgery . 
+PAST MEDICAL HISTORY is remarkable for chronic lung disease due to smoking . 
+She had undergone a previous nasal arterial embolization for treatment of recurrent epistaxis . 
+She had a partial gastrectomy in 1972 . 
+Her MEDICATIONS ON ADMISSION included Coumadin , digoxin , 0.125 , qD , Lasix , 40 , q.i.d. , and Vanceril inhaler . 
+PERTINENT EXAMINATION demonstrated mild elevation of her jugular venous pulse , with prominent V-waves , and systolic and diastolic murmurs . 
+Peripheral pulses were all intact , and there was venous stasis changes on her legs , with some edema . 
+HOSPITAL COURSE : 
+The patient was brought to the Operating Room , on April 22 . 
+She underwent a mitral valve replacement , utilizing a 27 mm . 
+St. Jude prosthesis , and tricuspid valve reconstruction by ring anuloplasty . 
+She weaned from cardiopulmonary bypass with good hemodynamics . 
+She initially awoke after surgery , with good hemodynamics . 
+She was transiently in sinus rhythm , but atrial fibrillation recurred . 
+She was extubated on the third postoperative day , and was initially slightly agitated and confused , largely due to an Intensive Care Unit psychosis . 
+She continued to improve , with mobilization of fluid . 
+She was initially noted to have a slow ventricular response in atrial fibrillation , but this gradually improved over time . 
+She was initially noted to be somewhat anemic , and received transfusions . 
+Coumadin was restarted , and her anticoagulation came into range . 
+She was ultimately discharged with a heart rate in the 90 's , and with resolving edema and a clear chest . 
+Her MEDICATIONS ON DISCHARGE included Lasix , 40 , b.i.d. , potassium , 20 mEq. , b.i.d. , iron , and folic acid replacement , and Coumadin . 
+RIEMUND C. ALL , M.D. 
+TR : 
+dun / bmot 
+DD : 
+7/12/94 
+TD : 
+07/13/94 
+CC : 
+Dr. Ca Shuff . 

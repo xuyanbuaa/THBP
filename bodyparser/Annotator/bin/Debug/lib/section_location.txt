@@ -1,0 +1,8 @@
+discharge_disposition home
+assessment_and_plan home
+plan home
+disposition_plan home
+discharge_medications home
+current_medications hospital
+instructions home
+discharge_instructions home

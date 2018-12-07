@@ -1,0 +1,6 @@
+1	morning	mornings
+2	noon	noons
+3	afternoon	afternoons	
+4	night	nights
+5	evening	evenings
+6	midnight	mid-night	mid night

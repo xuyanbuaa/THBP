@@ -1,0 +1,165 @@
+099147779 WGH
+2346613
+367017
+2170984
+11/17/2004 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Report Status :
+Signed
+DISCHARGE SUMMARY
+NAME :
+BRENOCE , T N
+UNIT NUMBER :
+254-05-39
+ADMISSION DATE :
+11/17/2004
+DISCHARGE DATE :
+11/26/2004
+PRINCIPAL DIAGNOSIS :
+Pneumonia .
+ASSOCIATED DIAGNOSIS :
+1. Pill esophagitis .
+2. Right ventricular hypokinesis .
+OPERATIONS / PROCEDURES :
+Dobutamine stress test , cardiac ultrasound , EGD , chest x-ray , PICC placement .
+The patient is a 62-year-old female with a history of diabetes mellitus , hypertension , COPD , hypercholesterolemia , depression and CHF who was lying in bed on the night prior to admission when she developed left-sided chest pain located in the mid-breast region with some fluttering her chest .
+The patient radiated down her left arm associated with some nausea , no shortness of breath , cough , vomiting , diarrhea .
+She slept through the night , woke with persistent pain .
+She went with her sister &apos;s husband to La Community Hospital where she was given sublingual nitroglycerin with complete relief of pain .
+She refused ambulance to the Emergency Room and was driven to Well General Hospital Emergency Room by her sister .
+She arrived pain free .
+She was given Aspirin , Lopressor and Insulin for hyperglycemia .
+EKG was unchanged compared to the prior EKG several months ago .
+PAST MEDICAL HISTORY :
+Insulin-dependent diabetes mellitus , hypertension , depression , back pain , COPD , allergic rhinitis , GERD , obesity , hyperlipidemia .
+ALLERGIES :
+Codeine , reaction unknown .
+MEDICATIONS :
+Atrovent .
+Aspirin .
+Flonase .
+Quinine Celebrex .
+Compazine .
+Oxybutynin Amitriptyline .
+Zyrtec .
+Prozac .
+Trazodone .
+Humulin 70 units bid .
+Albuterol .
+Lasix 40 PO bid .
+Triamcinolone cream .
+Miconazole cream Flovent .
+Nifedipine ER 60 daily .
+Lisinopril , 30 daily .
+KCl 10 mEq q day .
+Protonix , 40 daily .
+Lipitor , 20 daily .
+Methadone 10 bid .
+FAMILY HISTORY :
+Non-contributory .
+HABITS :
+Tobacco :
+Quit 20 years ago .
+Alcohol :
+Rare drinks per week .
+SOCIAL HISTORY :
+Lives along , takes care of herself .
+Retired .
+Used to work in fast food .
+VITAL SIGNS :
+On admission blood pressure 165/70 .
+temperature 99.8 , pulse 86 , respiratory rate 18 .
+PHYSICAL EXAMINATION :
+Obese , no acute distress .
+Multiple tattoos .
+Skin normal .
+HEENT , ears poor hearing .
+Extraocular movements intact .
+Moist mucous membranes .
+No lymphadenopathy .
+Chest , lungs clear to auscultation with faint wheezes , no rales .
+Cardiac , normal S1 , S2 , no murmurs , rubs or gallops .
+Abdomen soft , nontender , nondistended .
+Positive bowel sounds .
+Neurologic :
+Alert and oriented x3 .
+Cranial nerves II through XII intact .
+Motor and sensory intact .
+Extremities :
+Feet no edema .
+Pulses 2+ PT and DP .
+LABORATORY :
+Unremarkable with normal electrolytes except for glucose of 328 .
+CBC , white count 6.7 , hematocrit 37.4 , platelets 280 .
+Chest x-ray was low lung volumes , no consolidation .
+EKG showed sinus brady at 16 , normal axis , normal intervals , no STT wave abnormalities .
+HOSPITAL COURSE :
+The patient was admitted to Team Four for cardiac monitoring and ruling out for MI .
+Hospital course by system :
+1. Cardiovascular :
+The patient ruled out for MI by cardiac markers .
+The patient was set to go for a dobutamine stress test on 11/16/04 given her history of COPD , but the stress portion was canceled when she was down there due to fever and hypotension .
+The next day , she underwent a cardiac echo ( transthoracic echocardiogram ) .
+This echo showed LV ejection fraction of 50% with no wall motion abnormality .
+However , the right ventricular was diffusely hypokinetic .
+It was suboptimally imaged , so there was no RVSP given .
+The patient also suffered a hypotensive episode while in the endoscopy suite for her EGD on 11/17/04 .
+This responded to fluid bolus .
+The patient was then transferred to Medicine Team D given her tenuous hemodynamic status .
+The patient , several days later 11/23 , underwent another dobutamine stress test .
+This stress test , although complicated by hypotension again , to the 60 &apos;s or 70 &apos;s was completed and there was some mild anterior septal thinning , but no evidence of ischemia and an EF from this test was 76% .
+Clearly , the patient &apos;s hemodynamic vascular status was very sensitive to dobutamine .
+2. Infectious Disease :
+On hospital day #2 , the patient was noted to have increased dyspnea on exertion .
+The next day she developed a fever and she was started on levofloxacin for a potential UTI .
+She continued to have low-grade fevers and on the next day , 11/17/04 , her chest x-ray showed possible new right upper lobe infiltrates .
+She was then started on ceftriaxone and azithromycin .
+Her urine legionella antigen was negative .
+On 11/22/04 , she was noted to have gram-positive cocci in her sputum .
+She was started on vancomycin for this .
+These bacteria turned out to be MRSA and she was continued on her vancomycin .
+She had PICC line placed on the day prior to discharge for home vancomycin administration .
+3. GI :
+The patient had an episode of nausea on the morning of 11/16/04 associated with some cough , apparent emesis .
+GI was consulted for an EGD , however , while she was in the Endoscopy Suite , as mentioned above , she had a hypotensive episode , which responded to some fluid boluses .
+Finally , on the day prior to discharge , she was stabilized to the point that she could have her EGD .
+The EGD did show three esophageal ulcers that were localized and apparent suggestion of pill esophagitis .
+Her stomach and duodenum were normal and it was suggested that she change her Nexium doses to daily and that she also drink plenty of fluids and water with meals , sit upright when she would eat her meals to decrease the chance of pills eroding her esophagus .
+4. Shortness of breath :
+As mentioned above , the patient did develop MRSA pneumonia that was started to be treated with vancomycin and she did also develop an oxygen requirement the day prior to discharge .
+At most , her oxygen requirement was 4-5 liters and on the day prior to discharge , she was satting well on two liters of nasal cannula .
+This was thought to be due to her pneumonia ; however , with her right ventricular hypokinesis , it is also possible that she may have an element of pulmonary hypertension and may warrant further investigation as an outpatient , for example , with chest CT .
+5. Derm :
+Several days prior to discharge , the patient developed some erythematous rash under her left breast and left side that was thought to be due to yeast .
+She was started on some Miconazole Cream .
+The rash was always localized to her left side , sometimes extending down to her leg , but never on the right side .
+The rash appeared to be resolving by the time of discharge .
+MEDICATIONS ON DISCHARGE :
+Tums , 500-1250 mg PO tid .
+Albuterol inhaler .
+Lipitor , 20 daily .
+Prozac , 60 daily .
+Flovent inhaler , 220 mcg bid .
+Atrovent , two puffs qid .
+Ditropan , 5 mg tid .
+Colace , 100 mg tid .
+Aspirin , 325 mg daily .
+Insulin NPH , 36 subcu q AM , 30 subcu q PM .
+Nystatin Mouthwash Swish and Swallow .
+Nexium , 20 mg PO daily .
+Vancomycin 1 gm IV q12h .
+The patient will follow-up with her primary care provider , Dr. Na Fongbain at the Cord Memorial Hospital .
+IEVE MANUAL , MD
+DICTATING FOR :
+Electronically Signed IEVE MANUAL , MD 12/23/2004 11:19
+_____________________________ IEVE MANUAL , MD
+TR :
+mm
+DD :
+11/25/2004
+TD :
+11/25/2004 8:49 P 367017
+cc :
+IEVE MANUAL , MD

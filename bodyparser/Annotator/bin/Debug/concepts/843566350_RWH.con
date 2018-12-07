@@ -1,0 +1,5 @@
+c="headache" 34:7 34:7||t="problem"
+c="headache" 36:0 36:0||t="problem"
+c="head ct" 38:3 38:4||t="test"
+c="migraines" 32:0 32:0||t="problem"
+c="md evaluation" 38:0 38:1||t="treatment"

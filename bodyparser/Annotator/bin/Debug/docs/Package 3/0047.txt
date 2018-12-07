@@ -1,0 +1,108 @@
+**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+ATTENDING :
+**NAME[YYY]
+**NAME[ZZZ]
+ADMISSION DATE :
+**DATE[Aug 21 2007] 00:01:00
+DISCHARGE DATE :
+**DATE[Aug 25 2007]
+The patient is an **AGE[in 80s]- year - old white female with a history of acute inferior wall myocardial infarction on **DATE[Feb 1 1993] .
+She did well until **DATE[Aug 2006] .
+She underwent adenosine myocardial perfusion scan which result revealed no evidence of adenosine-induced myocardial ischemia .
+The patient developed chest pain radiated to the back and shoulder blade with sharp nasal breath ; no diaphoresis , nausea , or vomiting prior to this admission .
+The EKG revealed previous inferior wall myocardial infarction which frequent ventricular premature beats and minor nonspecific ST - T wave change .
+CT scan of the chest done on **DATE[Aug 20 2007] , reveals no definite pulmonary embolism; segmental atelectasis versus scarring of the left lingular and right medial lobe .
+There is a noncalcified 5 - mm lung nodule at the left upper lobe which is a nonspecific finding and recommend to have a chest CT in 4 to 6 months for evaluation for stability .
+The chest x-ray on **DATE[Aug 20 2007] , revealed no other new abnormal-ities .
+The BNP on **DATE[Aug 22 2007] , is slightly elevated at 113 .
+The troponin I on **DATE[Aug 20 2007] , was 0.05 ; on **DATE[Aug 21 2007] , was 0.1 , and started to decline to 0.6 on **DATE[Aug 21 2007] , and 0.08 on **DATE[Aug 22 2007] .
+On **DATE[Aug 21 2007] , she had potassium low at 3.4 , BUN 16 , creatinine 0.9 .
+The patient also has diabetes .
+The blood sugar on **DATE[Aug 25 2007] , was 122 .
+Hemoglobin A1c 6.2 , TSH 2.29 .
+She was treated for non - Q MI with ventricular irritability .
+The patient has history of hypertension , but at admission , she had hypotension .
+The blood pressure was 99/57 on **DATE[Aug 21 2007] .
+She was treated with IV Lasix , Norvasc 10 mg by mouth 2 times a day , albuterol / ipratropium 3 mL delivered by nebulizer 4 times a day , aspirin 81 mg by mouth daily , Lovenox 40 mg sub - Q every day , Advair 1 puff two times a day , levothyroxine 75 mcg by mouth every morning , metformin 500 mg by mouth everyday , nitroglycerin 2% half - inch applied topically every 6 hours , pantoprazole EC 40 mg by mouth every morning , maintain on prednisone 5 mg by mouth daily , Diovan 80 mg by mouth everyday .
+She is on hypoglycemic precaution .
+The patient developed rapid atrial fibrillation , also , anxiety and depression .
+She was digitalized , and Paxil was given .
+The patient had a stress test on **DATE[Aug 23 2007] , revealed nondiagnostic pharmacologic dobutamine stress EKG test with frequent ventricular premature beats and developed atrial flutter with 2 to 1 AV response towards the end of the stress of the exercise .
+Later on **DATE[Aug 23 2007] , the EKG converted into normal sinus rhythm .
+Blood pressure 115/81 , pulse became 85 per minute .
+On **DATE[Aug 21 2007] , echocardiogram was done which revealed normal left ventricular dimension , moderate to severe degree of concentric left ventricular hypertrophy and normal left ventricular systolic function , estimated ejection fraction of 50% to 55% , wall motion abnormalities cannot be evaluated .
+Mild aortic insufficiency , mild mitral insufficiency , mild tricuspid insufficiency without evidence of pulmonary hypertension ; small pericardial effusion noted without hemodynamic compromise .
+On **DATE[Aug 25 2007] , the patient had Lovenox and metformin withheld , and transferred to **INSTITUTION for cardiac catheterization .
+The patient is to follow up after discharge from **INSTITUTION with Dr. **NAME[ZZZ] in 2 weeks .
+DISCHARGE MEDICATIONS :
+1. Tylenol 650 every 4 hour as needed .
+2. Xanax 0.25 mg twice a day .
+3. Aspirin 81 mg once a day .
+4. Lotrimin cream topically apply twice a day .
+5. Lanoxin 0.25 mg IV daily .
+6. Cardizem 30 mg three times a day .
+7. Lovenox 90 mg every 12 hours subcutaneously .
+8. Advair Diskus inhale 1 puff twice a day .
+9. Mucinex 600 mg twice a day .
+10. Synthroid 75 mcg everyday .
+11. Magnesium oxide 400 mg twice a day .
+12. Metformin 500 mg daily with supper .
+The patient is not to take until advised by doctor performing the catheterization .
+13. Lopressor 12.5 mg twice a day .
+14. Nitro paste half inch every 6 hours .
+15. Klor - Con .
+16. Potassium 20 mEq twice a day .
+17. Prednisone 5 mg daily .
+18. Senokot 2 tablets at bedtime as needed for constipation .
+19. Niacin 80 mg daily .
+20. Nexium 40 mg daily .
+21. Hypoglycemic precaution , insulin sliding scale before meal and at bedtime .
+The patient is to be followed up by **INSTITUTION **PLACE Regional team .
+The patient is to have Accu - Chek before meals and at bedtime .
+Further discharge medication per catheterization result .
+No metformin until physician performs the catheterization .
+FINAL DIAGNOSES :
+1. Chest pain .
+2. Non - Q myocardial infarction .
+3. Coronary artery disease , status post myocardial infarction in 1992 .
+4. Hypokalemia .
+5. Diabetes type 2 .
+6. History of hypertension .
+7. Paroxysmal atrial flutter .
+8. Newly developed rapid atrial flutter .
+9. Depression and anxiety .
+The patient developed paroxysmal atrial fibrillation after IV dobutamine .
+The patient was discharged by transfer to **INSTITUTION for cardiac catheterization on **DATE[Aug 25 2007] .
+_________________________
+**NAME[YYY]
+**NAME[ZZZ] , M.D.
+DICTATED BY :
+**NAME[XXX M. ZZZ] , M.D.
+**INITIALS
+D :
+**DATE[Aug 30 2007] 09:32:06
+T :
+**DATE[Aug 30 2007] 10:33:31
+R :
+**DATE[Aug 30 2007] 16:49:20/rs
+Job ID :
+367506/**ID-NUM
+&lt;start header&gt;**INSTITUTION
+Cardiology
+Discharge Summary
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT# :
+**ID-NUM
+Page 4 of 4
+&lt;end header&gt;
+*** Dictated By :
+044675-**NAME[ZZZ , CCC M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Aug 31 2007] 04:26:50 PM

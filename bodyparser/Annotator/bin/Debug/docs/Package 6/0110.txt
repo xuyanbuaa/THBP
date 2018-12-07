@@ -1,0 +1,65 @@
+158656269
+CTMC
+02692537
+322365
+7/8/2000 12:00:00 AM
+chest pain
+DIS
+Admission Date :
+07/08/2000
+Report Status :
+Discharge Date :
+07/09/2000
+****** DISCHARGE ORDERS ******
+CLOZLUIN , NOSHIN 699-77-12-2 K97
+Room :
+18J-512
+Service :
+MED
+DISCHARGE PATIENT ON :
+07/09/00 AT 04:00 PM CONTINGENT UPON Attending evaluation
+WILL D/C ORDER BE USED AS THE D/C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL #3 ( ACETAMINOPHEN W / CODEINE 30MG ) 1-2 TAB PO Q4H PRN pain ALLOPURINOL 300 MG PO QD COLACE ( DOCUSATE SODIUM ) 100 MG PO BID HYDROCHLOROTHIAZIDE 25 MG PO QD LEVOFLOXACIN 500 MG PO QD Starting Today ( 07/09 )
+Instructions :
+continue through 7/16/00
+FLAGYL ( METRONIDAZOLE ) 500 MG PO TID
+Instructions :
+through 7/16/00
+Food / Drug Interaction Instruction
+Give with meals
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+dr. mandessquarc , No Known Allergies
+ADMIT DIAGNOSIS :
+chest pain unclear etiology
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) chest pain
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+*** 07/09/00 ***
+80 yo woman recently diagnosed with metastatic squamous cell lung CA .
+Mets to spine , femur .
+On XRT .
+Tumor invasive of pleura and rib .
+Admitted after acute onset left chest pain .
+Transferred today from Ez Ephtro Health Center on LMWH for R / O PE vs pneumonia vs tumor invasion .
+Following enzymes to rule out unstable angina ( no EKG changes ) .
+v / q at outside hospital read as low prob. leni &apos;s here neg. d/c&apos;ed on levo / flagyl for presumed post-obstructive pneumonia .
+ADDITIONAL COMMENTS :
+1. Continue with medications as prescribed , including antibiotics ( levofloxacin / flagyl ) through 7/16/00 .
+2. If you have further chest pain , shortness of breath , fevers , or other symptoms which concern you , call your doctor .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+ISNIFF , DALA TAN , M.D. ( EP01 )
+07/09/00 02:54 PM
+****** END OF DISCHARGE ORDERS ******

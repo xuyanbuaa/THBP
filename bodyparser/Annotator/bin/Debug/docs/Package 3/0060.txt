@@ -1,0 +1,95 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Pt c/o Bilat upper arm pain .
+Vital signs
+**DATE[Apr 25 2007] 8:00:00 AM .
+BP : systolic 149 , diastolic 99 .
+Pulse : 109 beats per min , regular .
+Resp : 18 breaths / min .
+Physical Exam
+General Appearance : NAD .
+Cardiovascular : IRRR - Rate 88 .
+Respiratory :
+Fine crackles in bases ; neg. wheezes .
+Gastrointestinal :
++ BS , soft , distended .
+Musculoskeletal :
++ 2 B LE edema ankle to thigh .
++ 2 B UE edema , greater RUE .
+Neurological :
+AAO .
+Speech clear and appropriate .
++ infusaport  .
+Impression and Plan
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+Pallative Care assisting with the adjustment of pain meds - Oxycontin 70 mg Q 8 hrs and prn IV Morphine .
+Within the last 12 hrs ( 9 p to 8 a ) , Pt has used 44 mg of IV Morphine .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime D/c 'd - completed full course .
+IV hydrocortisone - Cont to taper .
+HEENT - Group A Strep Throat - Completed 10 day Amoxil course .
+Otalgia / inc. hearing loss - ENT c/s - Floxin Otic - completed course .
+Improved hearing .
+Cards - A fib - Inc. Cardizem .
+RN called today and stated with activity Pt 's pulse rate inc. to 150 s .
+Discussed with Dr. **NAME[ZZZ] .
+FEN - Soft diet .
+GI - Hepatic encephalopathy - Lactulose BID .
+Monitor ammonia .
+Renal - **INITIALS - Daily dosing of IV Lasix ( no IV Lasix today ) - monitor CXR .
+Appreciate Renal c/s - Renal US - IMPRESSION :
+1. ECHOGENIC KIDNEYS COMPATIBLE WITH RENAL PARENCHYMAL DISEASE , WHICH CORRELATES WITH RECENT ABDOMINAL MR FINDINGS .
+2. NO HYDRONEPHROSIS .
+3. SMALL TO MODERATE PELVIC ASCITES .
+On phosLo .
+Sodium bicarb prn b/c of concern of the sodium .
+As per Renal continue to hold diuretics as pulm allows , she will need to follow - up with Renal upon D/C .
+No need for HD today .
+Replace potassium and mag and increase free water .
+Neuro - Diffuse weakness of ext - CTH negative .
+PT / OT .
+May need rehab upon D/C .
+Vasc - RUE swelling and pain - RUE doppler prelim neg .
+Proph - SQ Heparin .
+ID - Leukocytosis - probably from steroids .
+CXR noted and blood and urine cultures no growth .
+C-diff neg .
+Taper IV Steroids .
+? secondary to SSC .
+Disposition - Pending .
+Pt does not want to go to SNF .
+Could consider Rehab ( ie Montefiore ) for 1 wk .
+Consider PM&amp ; R consult once Pt closer to D/c .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Pallative care willing to set-up family meeting for disposition .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Apr 25 2007] 15:28 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Apr 25 2007] 15:28 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Apr 25 2007] 15:28 )

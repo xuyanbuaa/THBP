@@ -1,0 +1,102 @@
+**INSTITUTION
+GENERAL MEDICINE
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 17 2007]
+DISCHARGE DATE :
+**DATE[Jun 05 2007]
+ADDENDUM
+The patient was to be discharged from the hospital on **DATE[May 23 2007] or **DATE[May 24 2007] .
+He went to IR for a PICC line placement for outpatient antibiotics .
+While on venogram , a subclavian thrombus was visualized .
+At that time , we started the patient on a heparin drip and monitored his INR .
+We wanted to reach an INR of 2.0 prior to discharge .
+We thought that we would be able to send the patient home with Lovenox and Coumadin .
+However , the patient developed acute renal failure .
+His creatinine had increased to 1.8 .
+For that reason , we maintained the patient on heparin and Coumadin firmly .
+As mentioned , his creatinine had increased to 1.8 .
+We got a renal ultrasound that was normal .
+We continued to hydrate the patient .
+However , his creatinine remained elevated .
+We consulted Renal Service to help us with his evaluation .
+Their recommendation was , if okay with Infectious Disease , to discontinue the Bactrim to see if he would have a drop in his creatinine .
+Once off the Bactrim , his creatinine slowly trended back to normal .
+As part of his evaluation , he did have a urine eosinophil sent and this was negative .
+On **DATE[May 23 2007] , once his creatinine was back to normal , we spoke with Renal , and they said that it was okay for us to start him on Lovenox .
+It will be important that we watch his BUN and creatinine while he is still on the Lovenox .
+While here , the patient continued to have this persistent abdominal pain .
+He did not have any fevers or chills at this time , however , had continued nausea .
+We did an abdominal film on **DATE[May 28 2007] , and he had stool throughout his GI track .
+He was put on a bowel regime with good outcome .
+We also had General Surgery evaluate the patient as well .
+We had a CT scan done on **DATE[May 29 2007] , that showed just a resolving abscess .
+The spleen , kidney , and pancreas and the visualized bowel were normal .
+Because this abdominal pain really never went away , we reconsulted GI .
+They reported that with CGD you can sometimes have granulomatous infiltration of the GI tract .
+It is somewhat reported in about 33% of the patients with CGD .
+They said that this can only be confirmed through a colonoscopy with biopsy .
+His last colonoscopy was in **DATE[May 2006] , and was normal except for showing some internal hemorrhoid .
+A repeat colonoscopy was done on **DATE[Jun 1 2007] , that was normal .
+A biopsy was taken at this time and is still pending .
+Their recommendation was to allow the patient to advance his diet .
+On **DATE[May 30 2007] , the patient developed fever to 38.6 .
+It was an isolated fever .
+At that time , we really did not have an etiology .
+We did blood cultures on that day and they were negative x 3 days .
+We also had a second set of cultures done on **DATE[Jun 2 2007] , and these were negative x 1 day .
+We did really not have a reason for his fever , and he has been afebrile in the past 48 hours .
+For final recommendations by Infectious Disease , we discontinued his vancomycin on **DATE[Jun 2 2007] .
+We kept the Zosyn and then on **DATE[Jun 3 2007] , discontinued the Zosyn , and we will start ceftriaxone .
+He will resume his rifampin , which was started on **DATE[Jun 2 2007] .
+He would not require any IV antibiotics at discharge .
+Abdominal pain :
+After the colonoscopy , the patient said that he had increased pain after this procedure .
+We discussed this with General Surgery .
+They evaluated the patient and ordered a CT scan of the abdomen and pelvis to rule out any free air or bleeding .
+This was negative .
+GI recommended another abdominal film that showed a gas - filled colon that is expected following a colonoscopy .
+The patient had decreasing white count since admission .
+As expected with his infection , his white count was 10.6 on admission .
+However , after his antibiotics , his white count came down between 4 and 5 .
+Around **DATE[Jun 1 2007] , his white count dropped from 4.4 down to 2.3 .
+At the same time , his absolute neutrophils had gone from the 2 to 3 range , on **DATE[Jun 3 2007] , down to 0.80 .
+This may have been caused by the vancomycin or the Zosyn .
+The recommendation is to see if the absolute neutrophil count increases after the patient is offered the vancomycin and Zosyn for a day or two .
+We have placed the patient in neutropenic precautions until we see this level increase .
+FOLLOWUP APPOINTMENTS :
+1. Primary care physician , Dr. **NAME[RRR] in 9 South Montefiore on **DATE[Jun 27 2007] , at 10:30 a.m. , **PHONE .
+2. CT scan is changed to **DATE[Jun 27 2007] , at 12:46 .
+3. Dr. **NAME[QQQ] on **DATE[Jun 27 2007] , at 1:30 ( the CT scan appointment had changed to ensure the patient has a CT scan prior to seeing Dr. **NAME[QQQ] ) .
+NOTATION :
+The patient had received Compazine during this stay for nausea .
+However , after having the Compazine , the patient felt very anxious and felt palpitations .
+We changed him back to the Phenergan that he was on and will not want a substitution for the Compazine .
+A completed list of the discharge medications on the day of discharge will be added to this .
+___________________________________
+**NAME[YYY M ZZZ]
+Dictator :
+**NAME[WWW M. XXX] , C.R.N.P.
+SAA/s
+D :
+**DATE[Jun 03 2007] 17:44:02
+T :
+**DATE[Jun 04 2007] 02:57:56
+R :
+**DATE[Jun 07 2007] 07:40:19/clo
+Job ID :
+374172 /**ID-NUM
+Cc:
+&lt;start footer&gt;
+&lt;END FOOTER&gt;
+*** Dictated By :
+-**NAME[XXX , PPP M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 28 2007] 03:51:58 PM

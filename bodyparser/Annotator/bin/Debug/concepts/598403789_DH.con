@@ -1,0 +1,4 @@
+c="evaluation" 22:1 22:1||t="test"
+c="treatment" 22:3 22:3||t="treatment"
+c="hematuria" 21:8 21:8||t="problem"
+c="hematuria" 23:16 23:16||t="problem"

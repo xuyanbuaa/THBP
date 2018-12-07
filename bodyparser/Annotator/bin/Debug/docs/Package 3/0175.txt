@@ -1,0 +1,111 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Feb 10 2007]
+Discharged :
+**DATE[Feb 17 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSES :
+PRIMARY DIAGNOSIS :
+Left buttock hematoma .
+SECONDARY DIAGNOSES :
+1. Multiple myeloma , stage IIIB immunoglobulin M lambda .
+2. Hypertension .
+3. History of atrial fibrillation .
+4. History of hyperlipidemia .
+5. History of diverticulitis .
+STUDIES / PROCEDURES :
+1. Hematoma evacuation by orthopedic surgery , Dr. **NAME[VVV] was done on **DATE[Feb 12 2007] .
+Irrigation and debridement of the left buttock hematoma .
+2. Bilateral lower extremity Dopplers were done on **DATE[Feb 13 2007] , showing no evidence of DVT in either leg .
+3. Lower extremity MRI of the left leg showing changes consistent with a partially evacuated hematoma .
+No specific features of abscess , although superinfection could not be excluded on the basis of that imaging study .
+There was moderate , strandy edema or hemorrhage within the adductor muscles and the posterior compartment .
+Also , multiple foci of marrow replacement within the pelvis was seen , most likely related to the known multiple myeloma without pathologic fracture .
+Chest x-ray on **DATE[Feb 11 2007] , showed no active disease .
+**INSTITUTION ADMISSION :
+This is a **AGE[in 50s]- year - old man with a past medical history significant for stage IIIB immunoglobulin M lambda multiple myeloma who was admitted on **DATE[Feb 10 2007] , for an intramuscular hematoma while taking Lovenox after a bone marrow biopsy .
+Bone marrow biopsy was done on **DATE[Feb 5 2007] .
+HOSPITAL COURSE :
+1. Hematoma .
+On admission , the patient has severe pain and limited range of motion at his left hip secondary to the left buttock hematoma .
+Initially , the anticoagulation with Lovenox was stopped .
+Pain was initially controlled with MS Contin and IV Dilaudid for breakthrough pain .
+However , later , his pain required a Dilaudid PCA for optimal control .
+The patient was seen by Dr. **NAME[VVV] from orthopedics on **DATE[Feb 11 2007] , and then taken to the OR on
+**DATE[Feb 12 2007] , for evacuation of the hematoma .
+His postoperative course was complicated by :
+2. Series of fevers on day 1 postoperatively .
+These were worked up with lower extremity Dopplers which were negative ; and MRI of the lower extremity which was also negative for any sort of abscess .
+Dr. **NAME[UUU] from infectious diseases was also consulted , and intravenous antibiotics with Zosyn and vancomycin were also initiated .
+However , all cultures were negative .
+By postoperative day 2 to 3 , all of the fevers had resolved .
+Therefore , the fever was likely due to postoperative atelectasis which is the most common cause of day 1 postoperative fever .
+This was treated with incentive spirometry .
+3. Infectious diseases .
+As stated above , there was a question of an infected hematoma .
+However , the MRI of the leg did not show any sort of abscess .
+Dr. **NAME[UUU] from infectious diseases was consulted .
+The patient was treated with IV Zosyn and vancomycin for 6 and 5 days respectively .
+Cultures from the Hemovac and blood cultures all remained negative .
+There was no other explanation for the fever .
+There was no UTI .
+The chest x-ray did not show any pneumonia .
+On discharge , he was put on Augmentin for approximately 9 more days .
+4. Multiple myeloma .
+This was diagnosed in **DATE[Nov 2006] with a presentation of back pain and serum viscosity of 15 .
+He received DT - PACE x 1 cycle with refractory disease , then 3 cycles of Velcade , thalidomide , and dexamethasone .
+However , the thalidomide was held for two cycles secondary to atrial fibrillation .
+The long - term plan is for autologous stem cell transplant .
+This will be addressed as an outpatient by Dr. **NAME[ZZZ] .
+On this admission , his IgM was still high at 6240 .
+Dr. **NAME[VVV] requests that chemotherapy with Velcade be held until after his office appointment in approximately 2 weeks in order to monitor the progress of the evacuation of the hematoma prior to restarting chemotherapy .
+5. Cardiovascular. Dr. **NAME[TTT] with cardiology was consulted for clearance prior to autologous stem cell transplant .
+The patient had not been in atrial fibrillation since thalidomide had been discontinued and a recent stress test from an outside hospital was negative for ischemia and had normal wall motion .
+Therefore , Dr. **NAME[TTT] cleared Mr. **NAME[CCC] for stem cell transplant once these acute issues have resolved .
+His atenolol was continued throughout hospitalization .
+DISCHARGE MEDICATIONS :
+1. Vitamin C 500 mg p.o. daily .
+2. Atenolol 25 mg p.o. daily .
+3. Lipitor 40 mg p.o. nightly .
+4. Neurontin 300 mg p.o. q.8 h .
+5. Dilaudid 1 mg p.o. q.4 h. p.r.n. pain .
+6. MS Contin 60 mg p.o. q.12 h .
+7. Protonix 40 mg p.o. daily .
+8. Senna two tablets p.o. nightly .
+9. Bactrim DS one tablet p.o. b.i.d. Monday , Wednesday , and Friday .
+10. Lovenox 40 mg subcutaneously daily .
+11. Augmentin 875 mg p.o. b.i.d. for 9 days .
+The decision to restart Lovenox was discussed with Dr. **NAME[VVV] 's resident , and it was determined that prophylactic doses of Lovenox were safe for now .
+DISCHARGE INSTRUCTIONS :
+1. Diet , heart healthy .
+2. Activity as tolerated .
+DISPOSITION :
+Discharged to home .
+CONDITION :
+Fair to good .
+Home occupational and physical therapy via **INSTITUTION Health .
+PICC line care via Chartwell .
+FOLLOWUP APPOINTMENTS :
+1. Dr. **NAME[VVV] orthopedics , scheduled for **DATE[Feb 29 2007] at 4:15 p.m.
+Phone number **PHONE .
+2. Dr. **NAME[ZZZ] .
+The patient was instructed by Dr. **NAME[ZZZ] to call the office on Friday **DATE[Feb 19 2007] , to make a followup appointment for Wednesday **DATE[Feb 24 2007] .
+______________________________
+**NAME[WWW XXX]
+HS Job # 861176 / 38373 / 32010
+SHY # **ID-NUM
+D :
+**DATE[Feb 21 2007] 15:47
+T :
+**DATE[Feb 22 2007] 14:42
+**CARBON-COPY

@@ -1,0 +1,102 @@
+100469881 EH
+00989464
+822862
+06/09/1998 12:00:00 AM
+OCCIPITAL CEREBROVASCULAR ACCIDENT
+Signed
+DIS
+Admission Date :
+06/09/1998
+Report Status :
+Signed
+Discharge Date :
+06/12/1998
+PRINCIPAL DIAGNOSES :
+1) EXTENSIVE POSTERIOR CIRCULATION INFARCTION .
+2) ASPIRATION PNEUMONIA .
+HISTORY OF PRESENT ILLNESS :
+The patient is an 82 year-old right handed gentleman who has a past medical history of hypertension and tobacco use presented to the emergency room with acute change in mental status .
+He was well until the evening prior to presentation to the emergency room when he complained of headache across the forehead .
+On the day of presentation , he was then found by his daughter lying on his bed groaning , being relatively unresponsive and unable to speak .
+The family reported one episode of vomiting at home .
+PHYSICAL EXAMINATION :
+The patient was afebrile , heart rate 73 , blood pressure 158/53 , respiratory rate 16-20 , oxygen saturation 97% on three liters .
+General :
+The patient was somnolent , breathing comfortably , occasionally coughing .
+Neck was supple with full range of motion .
+No bruits were heard .
+Chest was clear to auscultation but with poor air entry .
+Heart sounds were regular with one out of six holosystolic murmur at the left lower sternal border .
+Abdomen was soft , non-tender , bowel sounds present .
+Extremities were without clubbing , cyanosis or edema .
+Neurological examination revealed a patient who was intermittently alert , opening eyes to voice , following simple commands , but without any speech .
+Pupils were 4 mm reactive to 2 mm bilaterally .
+There was no pupillary defect .
+Dolls eye was negative .
+There was a possible right gaze preference and the patient did not move his eyes .
+Corneals were present bilaterally .
+Gag was present weakly .
+Face was symmetrical .
+Tongue was midline .
+The patient was moving the right side spontaneously , but could not hold arm or leg up for any length of time .
+There was only minimal movement on the left side .
+On sensory testing , the patient withdrew all extremities to pain .
+Reflexes were 2+ and symmetrical all over .
+The left toe was upgoing , the right toe was downgoing .
+LABORATORY :
+Laboratory data revealed a sodium of 139 , potassium 3.4 , chloride 101 , bicarbonate 28 , BUN 11 , creatinine 1.2 , glucose 151 .
+AST was 20 , ALT 12 , alkaline phosphatase 80 , bilirubin 0.5. CK was 113 .
+Thyroid function tests were normal .
+Troponin I was 0.05 .
+Total protein was 8 , albumin 4.3 , globulin 3.7 , calcium 9.9 , phosphate 2.7 , magnesium 2.0. White blood cell count was 7 , hemoglobin 14.1 , hematocrit 43.6 , platelet count 241 .
+Erythrocyte sedimentation rate was 41 .
+PT was 12.3 , PTT 27.1. An EKG showed sinus bradycardia at 53 with a normal axis , first degree atrioventricular block , biphasic T-waves in V1 to V3 without any acute changes .
+A chest x-ray shows left lower lobe consolidation .
+The head CT scan revealed a large right occipital infarct without midline shift , but positive mass effect on the temporal horn , on the right ventricle and some effacement of the sulci in the right parietal area .
+HOSPITAL COURSE :
+The patient was admitted to a telemetry bed and started on heparin .
+Around 4:00 AM the next day , an acute decompensation in respiratory status was noted .
+Lung examination at that point showed good air entry , no wheezing , coarse breath sounds throughout .
+Neurologically , the patient was not following commands .
+Eyes were closed .
+He was moving the right arm and leg spontaneously , though less than before .
+Withdrawal to pain was still present .
+Both plantars were upgoing .
+A blood gas at this point showed a pH of 7.49 , pO2 61 , pCO2 of 33 on 100% non-rebreather mask .
+EKG showed sinus tachycardia .
+The patient &apos;s temperature was 102 degrees .
+A repeat CAT scan of the head was performed .
+This showed continued evolution of the right posterior cerebral artery infarction now extending into the right cerebellar hemisphere .
+There was also a high density adjacent to the right cerebellar infarction suggesting the presence of hemorrhage .
+At this point , the patient was transferred to the intensive care unit .
+An MRI and MRA of the head was arranged to evaluate the extent of his stroke and the posterior circulation .
+The MRI showed infarct of the cerebellar hemispheres bilaterally , the right occipital lobe , the right thalamus and bilateral pons .
+The MRA of the intracranial circulation demonstrated gross patency of the internal carotid arteries bilaterally and the basilar arteries .
+The left vertebral artery was not visualized .
+There was a dominant right vertebral artery .
+There was mildly reduced flow in the branches of the right middle cerebral artery compared to the left .
+There was visualization of flow within both posterior cerebral arteries .
+Clinically , the patient continued to deteriorate .
+Neurosurgery was consulted , however the neurosurgeons felt that there was no surgical option , since even in the case of cerebellar swelling , there would be no improvement from decompensation .
+The patient was therefore treated conservatively with fluid restriction and blood pressure management .
+Heparin was discontinued because of the risk of intercerebral hemorrhage .
+The aspiration pneumonia was treated with Cefotaxime and Metronidazole .
+The patient &apos;s family was involved and they decided to opt for DNR / DNI in view of the poor prognosis .
+The patient passed away at 6:45 AM on June 12 , 1998 .
+CONDITION ON DISCHARGE :
+Deceased .
+DISCHARGE ORDERS :
+None .
+Dictated By :
+GREGSIS STREETS , M.D. SQ51
+Attending :
+CHLINO B. SHAM , M.D. NI76 LN647/8356
+Batch :
+57390
+Index No. TCVBBUJ1Y
+D :
+07/09/98
+T :
+07/10/98
+CC :
+1. NATA NELMI PAIN , M.D. , Sonsantna .

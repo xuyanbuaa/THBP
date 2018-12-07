@@ -1,0 +1,209 @@
+Admission Date :
+2018-08-02
+Discharge Date :
+2018-08-08
+Date of Birth :
+1941-03-03
+Sex :
+F
+Service :
+MEDICINE
+Allergies :
+Penicillins / Codeine / Heparin Agents / Levofloxacin
+Attending : Faye B. Jones , M.D.
+Chief Complaint : rectal bleeding
+Major Surgical or Invasive Procedure : colonoscopy egd
+GI bleeding study
+History of Present Illness :
+Patient is a 77 year old female with a past medical history significant for GI bleeding secondary to arteriovenous malformations , who presents with maroon stool and a hematocrit drop .
+Three days ago began to develop black stools .
+There was no clear blood in the toilet bowl .
+In addition , she developed nausea and decreased PO intake .
+She had a cough productive of white sputum and felt warm , although she did not record her temperature .
+At dialysis on day of admission , she related these symptoms for the first time and had a bloody bowel movement .
+Concerned , the staff sent her directly to the Nantucket Cottage Hospital .
+In the Deanna , her temperature was 96.5 , HR 51 , BP 112/60 , RR 18 , and oxygen saturation was 98% on ambient air .
+Her hematocrit was measured at 23.5 , while her baseline hematocrit is in the low 30 s.
+An NG lavage was performed and there was bilious return .
+Rectal examination was notable for guiaiac positive maroon stool .
+She was type and crossed and transfused two units of packed red blood cells .
+IV PPI was given and the GI team was consulted and she was scheduled for colonoscopy and EGD on the morning of 6/8 .
+She was transferred to the CMED CCU for observation .
+Past Medical History :
+DM2 on insulin
+CRI 03-30 HTN and DM nephropathy , with baseline creatinine 4-4.5
+Chronic GI bleeding : documented AVMs
+Anemia w/ baseline hct 27-30
+Thrombocytopenia
+Coagulopathy , HIT in 2014
+Cardiomyopathy
+MRSA endocardiitis ( 01-28 )
+CAD ; status post coronary artery bypass graft times two and status post myocardial infarction in 2001 and 2000 .
+Asthma
+Hypothyroidism
+Osteoarthritis
+Paroxysmal atrial fibrillation
+PUD , Barrett 's Esophagus
+CHF EF 50%
+Social History :
+Primarily Togolese speaking , wheelchair bound and lives alone but cared for entirely by her daughter .
+She denies EtOH , tobacco , and drugs .
+Patient has 8 children , 40 grandchildren and one great-grandaughter .
+Family History :
+CAD and DM
+Physical Exam :
+T : 97.2 BP : 127/57 HR : 68 RR : 11 O2saturation : 97% on ambient air
+Gen :
+Pleasant , well appearing heavy set woman laying in bed .
+HEENT :
+Slight conjunctival pallor .
+No scleral icterus .
+Slightly dry mucous membranes .
+NECK :
+Supple .
+No JVD .
+CV :
+RRR .
+Systolic murmur in right upper sternal border .
+Normal S1 and S2 .
+No rubs or Andringa appreciated .
+LUNGS :
+Crackles in lower lung fields .
+No wheezes or rhonci appreciated .
+ABD :
+Slightly hyperactive bowel sounds throughout .
+Soft .
+Nontender and nondistended .
+No guarding or rebound .
+Liver edge not palpated .
+No splenomegaly appreciated .
+Guaiac positive maroon stool in Deanna .
+EXT :
+Warm and well perfused .
+No clubbing or cyanosis .
+No lower extremity edema , bilaterally .
+2+ dorsalis pedis and radial pulse on left .
+No radial pulse on right .
+AV fistula on right .
+Pertinent Results :
+2018-08-07 12:56 AM BLOOD WBC - 4.0 RBC - 3.54 * Hgb - 11.6 * Hct - 32.9 * MCV - 93 MCH - 32.8 * MCHC - 35.2 * RDW - 18.5 * Plt Ct - 65 *
+2018-08-02 12:29 PM BLOOD Hct - 23.5 *#
+2018-08-02 04:40 PM BLOOD WBC - 3.2 * RBC - 2.49 *# Hgb - 8.4 *# Hct - 24.5 *# MCV - 98 MCH - 33.7 * MCHC - 34.3 RDW - 18.5 * Plt Ct - 69 *
+2018-08-06 04:52 AM BLOOD PT - 14.7 * PTT - 28.9 INR ( PT )- 1.3 *
+2018-08-07 12:56 AM BLOOD UreaN - 27 * Creat - 4.1 * Na - 130 * K - 3.7 Cl - 94 * HCO3 - 27 AnGap - 13
+2018-08-06 04:52 AM BLOOD Glucose - 129 * UreaN - 24 * Creat - 3.4 * Na - 134 K - 3.2 * Cl - 96 HCO3 - 29 AnGap - 12
+2018-08-02 04:40 PM BLOOD Glucose - 187 * UreaN - 21 * Creat - 2.0 *# Na - 139 K - 3.2 * Cl - 96 HCO3 - 35 * AnGap - 11
+2018-08-07 12:56 AM BLOOD Calcium - 8.0 * Phos - 3.5 Mg - 1.8
+Cardiology Report ECG Study Date of 2018-08-02 5:40:48 PM
+Sinus bradycardia with markedly prolonged P-R interval and Wenckebach type
+atrio-ventricular conduction delay .
+Right bundle-branch block .
+Indeterminate frontal plane QRS axis .
+Compared to the previous tracing of 2017-10-12 multiple abnormalities as previously noted persist without major change .
+Read by : Dunn , Rachel Finch
+Intervals Axes
+Rate PR QRS QT/QTc P QRS T
+57 0 154 670-32166 -37
+2018-08-03 5:40 pm SEROLOGY/BLOOD
+Source :
+Line-central .
+** FINAL REPORT 2018-08-06 **
+HELICOBACTER PYLORI ANTIBODY TEST ( Final 2018-08-06 ) :
+NEGATIVE BY EIA .
+( Reference Range-Negative ) .
+GI bleed study - IMPRESSION :
+Active radiotracer activity in the right lower quadrant in a serpingneous f fashion suggestive of distal small bowel .
+EGD - Impression :
+Angioectasias in the fundus
+Angioectasias in the antrum
+Angioectasias in the proximal jejunum and mid jejunum
+Angioectasia in the duodenum
+Otherwise normal small bowel enteroscopy to mid jejunum
+Recommendations :
+No site of active bleeding was seen .
+The fundal AVMs are a potential site of bleeding although do not explain the extent of bleeding .
+Consider endoscopic argon plasma therapy
+Proceed with colonoscopy .
+Colonoscopy -
+Impression :
+Blood in the colon
+Grade 1 external hemorrhoids
+Angioectasia in the colon
+Diverticulosis of the colon
+Otherwise normal colonoscopy to cecum
+Brief Hospital Course :
+Blood loss anemia from GI bleeding - the bleeding was likely from an AVM .
+EGD , colonoscopy and tagged scan results as above .
+eventhough uptake was noted in the rt LQ , no clear site of bleeding was noticed on colonoscopy .
+hence , no intervention was performed .
+she was transfused with 5 units of PRBC in the ICU andsent to the Lahey Clinic - North Shore .
+Her hematocrit remained stable for 4 days prior to discharge .
+No further bleeding noted .
+GI consult team followed pt in hospital .
+On discussion with Dr Leigh and Dr White from GI - they recommended that she follow with Dr. Taylor for consideration of argon photocoagulation as out-patient .
+Given the innumerable number of AVM 's , it is diffcult to assess which the culprit lesion is and GI may start APL from the fundus of stomach .
+Patient to get CBC checked with PCP this week as below .
+ASA was held and may be restarted if Hct stable in clinic at the PCP 's discretion .
+Chronic thrombocytopenia was noted , however the patient did not require platelet transfusions .
+Has a h/o HIT .
+The metoprolol was held during acute bleeding phase and restarted prior to discharge as her BP stabilized .
+Other medical problems stable .
+Dialysis was continued 3 / week .
+I personally talked with Dr Pannell at the time of discharge to update him with the hospital events .
+Medications on Admission :
+- Atorvastatin 80 mg QD
+- Hydroxyzine HCl 25 mg Tablet PO Q4-6H PRN for itching
+- Levothyroxine 175 mcg PO qd
+- Albuterol 90 mcg 1-2 Puffs INH q6hr PRN
+- Nitroglycerin 0.3 mg Tablet PRN
+- Metoprolol Tartrate 12.5 mg BID
+- B Complex - Vitamin C - Folic Acid 1 mg Capsule QD
+- Insulin NPH 75-25 20units qAM and humalog sliding scale
+Discharge Medications :
+1. Atorvastatin 80 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+2. Albuterol 90 mcg / Actuation Aerosol Sig : 1-2 Puffs Inhalation Q6H ( every 6 hours ) as needed .
+3. Levothyroxine 175 mcg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+4. Hydroxyzine HCl 25 mg Tablet Sig : One ( 1 ) Tablet PO Q4-6H ( every 4 to 6 hours ) as needed .
+5. B-Complex with Vitamin C Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+6. Menthol - Cetylpyridinium Cl 2 mg Lozenge Sig : One ( 1 ) Lozenge Mucous membrane PRN ( as needed ) .
+7. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q12H ( every 12 hours ) .
+8. Nitroglycerin 0.3 mg Tablet , Sublingual Sig : One ( 1 ) Sublingual as needed as needed for chest pain .
+9. Insulin
+Continue to take the insulin as you were taking prior to the hospital visit
+10. Outpatient Lab Work
+CBC ( to be checked by Dr Pannell 444-1034 on 2018-08-10 )
+11. Metoprolol Tartrate 25 mg Tablet Sig : 0.5 Tablet PO BID ( 2 times a day ) .
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+Acute blood loss anemia from rectal bleeding
+Thrombocytopenia - chronic
+Secondary diagnosis -
+HTN
+DM type 1
+CKD stage 5
+Hypothyroidism
+Asthma
+Coronary artery disease
+Discharge Condition: stable .
+Discharge Instructions :
+Weigh yourself every morning , call MD if weight > 3 lbs .
+Adhere to 2 gm sodium diet
+Do not take the aspirin unless you see Dr Pannell .
+Continue to take the insulin as you were taking prior to hospital visit .
+Keep your appointments .
+Please see your doctor ( Dr Pannell ) on Friday 2018-08-10 for a blood test ( cbc ) .
+He has asked you call the clinic Friday morning for a same day appointment .
+Continue the dialysis three times a week .
+Return to the hospital if you notice bleeding or any other symptoms of concern to you .
+Followup Instructions :
+Provider :
+Kim Phone : 512 0199 Date / Time : 2018-08-17 9:30
+Gastroenterology - 9092 N. Eighth Cir. , Wisecup Rose - 1st floor .
+Provider : Michelle Susan , MD Phone : ( 544 ) 439-6335 Date / Time : 2018-08-14 8:20
+Primary doctor - Dr Shirley , James M. 444-1034 - please see your doctor Mary Powell 2018-08-10 for a blood test ( cbc ) .
+Dialysis as scheduled .
+Ruby Charles MD 75-829
+Completed by : William Charles MD 75-829 2018-08-08 @ 0822
+Signed electronically by : DR. Stoll Delacy on : Sandra 2018-08-09 4:36 PM
+( End of Report )

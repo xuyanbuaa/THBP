@@ -1,0 +1,81 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP - CODE
+**NAME[AAA , BBB]
+**ID-NUM
+**ID-NUM
+A4B/442
+SERVICE OF :
+**NAME[ZZZ YYY] JR **NAME[XXX]
+DATE OF ADMISSION :
+**DATE[Sep 09 2007]
+DATE OF DISCHARGE :
+**DATE[Sep 14 2007]
+PROVISIONAL DIAGNOSIS :
+Left knee osteoarthritis .
+SECONDARY DIAGNOSES :
+Hypertension , history of PE , myasthenia gravis , GERD , constipation , asthma , and obesity .
+OPERATIONS AND NONSURGICAL PROCEDURES :
+Left total knee arthroplasty by Dr. **NAME[XXX] .
+CONSULTS :
+**NAME[UUU TTT] , D.O.
+BRIEF HISTORY :
+The patient is a **AGE[in 60s]- year - old male who has had a longstanding history of osteoarthritis in his left knee .
+He has failed to respond to conservative treatments such as NSAID s and corticosteroid injections .
+The patient 's arthritis has been progressive and interfering with his ADLs .
+So , he has elected to undergo the surgery and the remainder of the history and physical is per admission without any changes or deletions .
+HOSPITAL COURSE :
+The patient was admitted and underwent the above procedure , had a spinal anesthetic and a regional block .
+There were no complications .
+He was sent to the recovery room in stable condition .
+On postoperative day 1 , the patient complained of some knee pain .
+Otherwise , comfortable .
+Dressing is clean and dry .
+Calf intact .
+Calves were soft and nontender .
+Neurovascular is intact .
+LABS :
+Stable .
+The patient is doing well .
+We will have him out of bed with PT / OT and weightbearing as tolerated and DVT prophylaxis .
+We will discontinue the PCA and discontinue the Foley .
+Per day 2 , the patient is comfortable and afebrile .
+Complains of some constipation .
+The wounds are clean and dry .
+No erythema .
+Calves are soft and nontender .
+Neurovascular is intact .
+The patient is doing well .
+We will continue with current therapy and Coumadin .
+Throughout the remainder of the hospital course , the patient continued to do well .
+The wound remained clean and dry .
+Calves were soft and nontender .
+Neurovascular was intact .
+By postoperative day 4 , he was flexing his knee to 60 degrees and ambulating approximately 120 feet .
+He was straight leg raising and bending his knee to 80 degrees by day 5 .
+This patient was discharged to home with the following instructions .
+MEDICATIONS :
+1. Coumadin 5 mg 1 p.o. daily or as directed .
+2. Lovenox 30 mg subcutaneously q.12 h. for a week .
+3. Vicodin 1 or 2 p.o. q.4 h. p.r.n. for pain .
+4. Imuran 25 mg 1 p.o. daily and 50 mg 1 p.o. b.i.d.
+5. Nexium 40 mg 1 p.o. daily .
+6. Hydrochlorothiazide 12.5 mg 1 p.o. daily .
+7. Ferrous sulfate 325 mg p.o. b.i.d.
+GENERAL INSTRUCTIONS :
+The patient is to weight bear as tolerated .
+We will watch him for signs of infections such as increased redness , warmth , drainage , any foul odor from the incision , any calf pain or tenderness .
+Contact the office .
+Otherwise will follow up with Dr. **NAME[SSS] in the office in approximately 2 weeks .
+DICTATED BY :
+**NAME[RRR QQQ] , PA-C
+___________________
+**NAME[ZZZ M. XXX] , PPP]. , M.D.
+Dict :
+**DATE[Sep 26 2007] 12:34:24
+Tran :
+**DATE[Sep 26 2007] 15:33:52
+FPH/as/363180/**ID-NUM/**ID-NUM
+R :
+**DATE[Sep 26 2007] 15:33:52/as
+**CARBON-COPY

@@ -1,0 +1,76 @@
+116752045
+CTMC
+20515082
+422603
+12/23/1991 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+12/23/1991
+Report Status :
+Signed
+Discharge Date :
+01/02/1992
+ADMISSION DIAGNOSIS :
+ABDOMINAL AORTIC ANEURYSM .
+HISTORY OF PRESENT ILLNESS :
+Patient is a 64 year old white male with a past medical history of smoking , coronary artery disese , hypertension , and hypercholesterolemia with a l0 cm abdominal aortic aneurysm .
+Patient presented to his private medical doctor in Gewestster with transient calf pain on walking less than fifty yards .
+Abdominal aortic aneurysm was discovered on examination and patient was referred to Retelk County Medical Center .
+He was admitted on 10/17/06 and echocardiogram done on 11/13/09 revealed poor left ventricular function and cardiac catheterization was done on admission which showed three vessel disease .
+Patient was referred to Cardiology and underwent a three vessel coronary artery bypass graft on 11/25/09 .
+His post-operative course was complicated by an E. coli urinary tract infection and transient acute renal failure with increasing creatinine .
+Patient &apos;s renal function returned to normal over several days , however .
+The patient &apos;s last ultrasound of his aorta revealed a l0 cm aneurysm and he presented at the time of admission for an abdominal aortic aneurysm repair .
+PAST MEDICAL HISTORY :
+As above .
+Myocardial infarction also in l983 and l988 , congestive heart failure in l989 , diverticulitis in l978 , and spontaneous pneumothorax in l956 .
+He had a coronary artery bypass graft times three as mentioned above .
+CURRENT MEDICATIONS :
+He came in on Carafate , Enteric Coated Aspirin , Albuterol Inhaler , Atrovent Inhaler , Procan SR , Mevacor , and Digoxin .
+ALLERGIES :
+He is allergic to Penicillin , Inderal , and also to Procan .
+Patient has a seventy pack year history of smoking which he quit ten years ago and he has previously had problems with alcohol .
+PHYSICAL EXAMINATION :
+On admission was remarkable for an abdomen which was soft and non-tender .
+There was a pulsatile mass felt in the right upper quadrant near the midline .
+He had dopplerable lower extremity pulses on the left and on the right , they were palpable .
+HOSPITAL COURSE :
+Patient was admitted and taken to the Operating Room the next day on 12/24/09 where patient underwent an abdominal aortic aneurysm repair .
+In his post-operative course , patient was sent to the unit and was put on perioperative Vancomycin .
+Post-operatively , patient was found to have frequent aberrant atrial premature beats and some rare ventricular premature beats .
+His lungs were found to have decreased breath sounds with a question of fluid overload .
+There was a question of whether to start him on Quinidine versus beta blockers .
+An echocardiogram was obtained which showed moderate left ventricular dysfunction with hypokinetic and akinetic areas throughout the left and right ventricle .
+Patient was loaded with Quinidine and then started on a maintenance dose .
+Patient converted to normal sinus rhythm once on Quinidine .
+Patient was discharged from the unit on 12/30/09 and was sent to the floor .
+His digoxin was found to be elevated so his Digoxin was held for four days while levels slowly came down .
+Patient was restarted on Digoxin just prior to discharge .
+Patient also was found to have elevated LDH , alkaline phosphatase , and amylase prior to admission .
+Lipase was within normal limits .
+Ultrasound was obtained of the biliary tree which demonstrated no abnormalities .
+Patient was also found to have several complaints of awaking in the middle of the night with tachypnea and some bilateral chest pain associated with breathing .
+Serial EKG and CK were obtained which were negative .
+A chest X-Ray demonstrated some pulmonary edema .
+An arterial blood gas at that time showed pO2 of 68 , saturation of 95% , a pH of 7.5l , pCO2 of 37 , a bicarbonate of 37 , and a pCO2 of 3l with a +7 base .
+Patient &apos;s chest X-Ray , as mentioned above , showed pulmonary edema .
+Patient was aggressively diuresed with resolution of symptoms .
+DISPOSITION :
+DISCHARGE MEDICATIONS :
+Patient is being sent home on Ecotrin one q.d. , Digoxin 0.l25 mg every three days , Quinidine 648 mg q.a.m. and 324 mg q.p.m. and q.h.s. , Mevacor 20 mg p.o. q.d. , Carafate one gram p.o. q.i.d. , Colace l00 mg p.o. t.i.d. , Lasix 80 mg p.o. q.d. , Potassium 20 mEq p.o. q.d. , and iron supplements .
+Patient has follow-up with Dr. Merkel and with his private medical doctor .
+EV956/4659 RISHAN M. MERKEL , M.D. BS9
+D :
+01/02/92
+Batch :
+3669
+Report :
+F6644X53
+T :
+01/02/92
+Dicatated By :
+RAMA R. KOTEOBE , M.D.
+cc :
+1. DWAINCO L. MERKEL , M.D.

@@ -1,0 +1,5 @@
+c="inr" 13:23 13:23||t="test"
+c="inr" 13:15 13:15||t="test"
+c="warfarin" 13:20 13:20||t="treatment"
+c="warfarin" 13:4 13:4||t="treatment"
+c="inr" 12:3 12:3||t="test"

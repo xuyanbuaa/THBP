@@ -1,0 +1,8 @@
+c="ibuprofen" 41:0 41:0||t="treatment"
+c="chest pain" 35:7 35:8||t="problem"
+c="ekg" 39:0 39:0||t="test"
+c="cp standardized" 33:0 33:1||t="problem"
+c="cardiac enzymes" 39:9 39:10||t="test"
+c="cxr" 39:4 39:4||t="test"
+c="lt arm/ chest pain" 37:0 37:3||t="problem"
+c="ddimer" 39:7 39:7||t="test"

@@ -1,0 +1,13 @@
+1.1.1	pod	pod.
+1.1.2	postop day	post-op day	postoperative day	post-operative day	postoperatively day	post-operatively day	postop days	post-op days	postoperative days	post-operative days	postoperatively days	post-operatively days	op day	op days	operative day	operative days
+1.1.3	postop night	post-op night	postoperative night	post-operative night	postoperatively night	post-operatively night	op night
+1.1.4	postop morning	post-op morning	postoperative morning	post-operative morning	postoperatively morning	post-operatively morning	op morning
+1.1.5	postop evening	post-op evening	postoperative evening	post-operative evening	postoperatively evening	post-operatively evening	op evening
+1.1.6	postop afternoon	post-op afternoon	postoperative afternoon	post-operative afternoon	postoperatively afternoon	post-operatively afternoon	op afternoon
+1.1.7	postop noon	post-op noon	postoperative noon	post-operative noon	postoperatively noon	post-operatively noon	op noon
+1.2	hospital day	hd	h.d.	hospital days	hsp day	hsp
+1.3	day of life
+2	transfer	day of transfer	time of transfer
+3	delivery	day of delivery	time of delivery
+4	presentation
+5	evaluation	evaluate

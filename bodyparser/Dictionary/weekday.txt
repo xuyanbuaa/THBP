@@ -1,0 +1,7 @@
+1	sunday	sun	sun.
+2	monday	mon	mon.
+3	tuesday	tu	tu.	tue	tue.	tues	tues.
+4	wednesday	wed	wed.
+5	thursday	th	th.	thu	thu.	thur	thur.	thurs	thurs.
+6	friday	fri	fri.
+7	saturday	sat	sat.

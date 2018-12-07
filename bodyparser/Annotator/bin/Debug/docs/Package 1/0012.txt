@@ -1,0 +1,180 @@
+Progress **INSTITUTION
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 40s] years
+Sex :
+Female
+DOB :
+**DATE[Dec 1 1963]
+Author :
+**NAME[XXX , WWW VVV]
+Health Status
+Allergy / reaction profile : penicillin
+Current Medications :
+Current medication administration orders
+Dextrose 5% with 0.9% NaCl 1000 mL , 1000 mL , IV , Routine , **DATE[May 26 07] 0:00:00 , 80 mL / hr , Administer Over : 12.5 HR
+pantoprazole ( Protonix ) ( PANTOPRAZOLE 40MG TABLET EC ) , 40 mg , Ec tab , By Mouth , Daily , Routine , **DATE[May 26 07] 9:00:00
+acetaminophen ( Tylenol ) ( ACETAMINOPHEN 325 MG CAPLET ) , 650 mg , Caplet , By Mouth , Q6H , PRN , For Pain , Mild ( 1-3 ) , Routine , **DATE[May 25 07] 21:30:00
+insulin regular ( Regular Insulin Sliding Scale Low ) ( INSULIN HUMAN REG 100 U / ML 10 ML VIAL ) , 2 - 12 Unit ( s ) , Injection , subQ , ACandHS , Routine , **DATE[May 25 07] 22:00:00
+metoprolol ( Lopressor ) ( METOPROLOL TART 25MG TAB ) , 25 mg , Tab , By Mouth , BID , Routine , **DATE[May 25 07] 21:21:00 , Special Instructions : hold for SBP&lt ; 100 or HR&lt ; 60
+aspirin ( ASPIRIN 81 MG ENTERIC COATED ) , 81 mg , Ec tab , By Mouth , Daily , Routine , **DATE[May 26 07] 9:00:00
+aspirin ( ASPIRIN BUFFERED 325 MG TABLETS ( 2 ) ) , 162 mg , Tab , By Mouth , Daily , STAT , **DATE[May 25 07] 19:40:00
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , PRN , Other ( enter in comments ) , Routine , **DATE[May 25 07] 18:30:00
+Normal Saline Flush ( SODIUM CHLORIDE 0.9% FLUSH 10 ML SYR ) , 1 mL , Solution , IV , Q8H , Routine , **DATE[May 25 07] 19:00:00
+nystatin topical ( nystatin topical 100000 u / gm powder ) ( NYSTATIN 100000 U / GM 15 GM POWDER ) , 1 Application , Powder , Topically , TID , Routine , **DATE[May 26 07] 9:00:00
+lisinopril ( LISINOPRIL 20 MG TABLET ) , 20 mg , Tab , By Mouth , Daily , Routine , **DATE[May 26 07] 9:00:00 , Special Instructions : hold for SBP&lt ; 100
+sertraline ( Zoloft ) ( SERTRALINE 100 MG TABLET ) , 100 mg , Tab , By Mouth , Daily , Routine , **DATE[May 25 07] 22:00:00
+quetiapine ( Seroquel ) ( QUETIAPINE FUMARATE 100 MG TABLET ) , 300 mg , Tab , By Mouth , BID , Routine , **DATE[May 25 07] 21:28:00
+insulin glargine ( INSULIN GLARGINE ) , 40 Unit ( s ) , Injection , subQ , BID , Routine , **DATE[May 25 07] 21:36:00
+Current prescriptions / home medications
+nystatin topical ( nystatin topical 100000 u/gm ointment ) , See Instructions #30 gm
+0 Refill ( s )
+0 Tot. Refills
+omeprazole ( Prilosec 20 mg oral enteric coated capsule ) , 1 cap ( s ) By Mouth Daily #30
+2 Refill ( s )
+2 Tot. Refills
+metformin ( metformin 1000 mg oral tablet ) , 1 tab ( s ) By Mouth BID
+0 Refill ( s )
+0 Tot. Refills
+metformin ( metformin 1000 mg oral tablet ) , 1 tab ( s ) By Mouth BID
+0 Refill ( s )
+0 Tot. Refills
+lisinopril ( lisinopril 20 mg oral tablet ) , 1 tab ( s ) By Mouth Daily #30
+1 Refill ( s )
+1 Tot. Refills
+sertraline ( Zoloft 100 mg oral tablet ) , 1 tab ( s ) By Mouth Daily
+0 Refill ( s )
+0 Tot. Refills
+quetiapine ( Seroquel 300 mg oral tablet ) , 2 tab ( s ) By Mouth Daily
+0 Refill ( s )
+0 Tot. Refills
+insulin glargine ( insulin glargine 100 u / ml subcutaneous solution ) , 75 Unit ( s ) subQ 1-2 x / D #20 mL
+1 Refill ( s )
+1 Tot. Refills
+insulin glargine ( insulin glargine 100 u / ml subcutaneous solution ) , 75 Unit ( s ) subQ 1-2 x / D
+0 Refill ( s )
+0 Tot. Refills
+acetaminophen - hydrocodone ( Vicodin 500 mg - 5 mg oral tablet ) , 1 tab ( s ) By Mouth Q4H #10 tab ( s )
+0 Refill ( s )
+0 Tot. Refills
+Problem list
+All Problems
+Hypertension NOS ( ICD - 9 - CM 401.9 )
+Depression , major NOS ( ICD - 9 - CM 296.00 )
+Diabetes mellitus NOS ( ICD - 9 - CM 250.0 )
+Internal hemorrhoids NOS ( ICD - 9 - CM 455.0 ) rectal polyps
+Past Medical Hx
+Hypertension NOS ( ICD - 9 - CM 401.9 )
+Depression , major NOS ( ICD - 9 - CM 296.00 )
+Diabetes mellitus NOS ( ICD - 9 - CM 250.0 )
+Internal hemorrhoids NOS ( ICD - 9 - CM 455.0 ) rectal polyps
+Results Review
+General results
+Today 's results :
+ALLRESLTSECT
+**DATE[May 26 2007] 6:00 AM
+Oral intake 0 mL
+IV fluid intake 80 mL
+Urine count 1
+Voided 1000 mL
+Stool count 0
+**DATE[May 26 2007] 5:00 AM
+IV fluid intake 80 mL
+**DATE[May 26 2007] 4:25 AM
+Current weight conversion 142.9 kg
+Weight 314.40 lb
+Weight Method Bedscale
+**DATE[May 26 2007] 4:00 AM
+Temperature Conversion 36.0 Deg C
+Temperature 96.8 Deg F
+Temperature Site Oral
+Pulse 78 BPM
+Respiratory Rate 20
+O2 Saturation 95 %
+Systolic BP 135 mmHg
+Diastolic BP 67 mmHg
+BP Site Left Arm
+IV fluid intake 80 mL
+**DATE[May 26 2007] 3:00 AM
+IV fluid intake 80 mL
+**DATE[May 26 2007] 2:15 AM
+Na 135 mEq / L
+K 3.6 mEq / L
+Cl 98 mEq / L
+CO2 29 mEq / L
+Anion Gap 8.0
+BUN 11 mg / dL
+Cr 0.7 mg / dL
+Glucose 145 mg / dL High
+Ca 9.6 mg / dL
+Troponin I 0.17 ng / mL High
+( Modified )
+WBC 12.6 X10E+09 / L High
+RBC 4.42 X10E+12 / L
+Hgb 12.3 gm / dL
+Hct 36.4 %
+MCV 82.3 fL Low
+MCH 27.9 pg
+MCHC 33.9 gm / dL
+RDW 13.5 %
+MPV 6.0 fL Low
+Platelets 400 X10E+09 / L
+Neutrophils 62 %
+Lymphs 32 %
+Monocytes 5 %
+Eosinophils 1 %
+Basophils 1 %
+ABS Neutrophils 7.8 X10E+09 / L
+ABS Lymphs 4.0 X10E+09 / L High
+ABS Monocytes 0.6 X10E+09 / L
+Abs Eos , auto 0.2 X10E+09 / L
+ABS Basophils 0.1 X10E+09 / L
+TSH 4.10 uIU / mL
+**DATE[May 26 2007] 1:55 AM
+Pain scale ( emar ) 5
+**DATE[May 26 2007] 1:27 AM
+Pulse 83 BPM
+Respiratory Rate 20
+O2 Saturation 95 %
+Systolic BP 134 mmHg
+Diastolic BP 46 mmHg
+BP Site Left Arm
+Pain scale 0
+Subjective episode of CP o/n - BP 173/86 ; reproducible CP on exam .
+No further episodes of CP .
+Pt asking about her irregular periods .
+Has not had pap recently
+Physical Examination
+Heart
+Rate : normal .
+Rhythm : normal .
+Precordium : normal .
+Heart sounds : normal .
+Murmurs : systolic intensity Grade II / VI .
+Edema
+Bilateral lower extremities : pretibial 2 + .
+Respirations
+Rate : normal .
+No distress .
+Lungs : normal
+Abdomen
+Soft .
+Bowel sounds : normal .
+Not rigid .
+No tenderness .
+No mass .
+Liver : normal
+Plan
+Hypertension ( ICD9 401.9 , Working , Problem ) on BB , asa , lisinopril with improved BP since admission .
+cardio c/s for elev trop / abnormal EKG - recommend BP control ; no stress test echo / LE dopplers pending
+DIABETES MELLITUS ( ICD9 250 , Working , Problem ) fasting BS 130-140 s .
+Pt had been npo for possible stress test .
+may start heart healthy diet - lantus will need to be increased to home dose after pt eats
+Diarrhea - for months - lytes nml.
+colonoscopy from 9/06 reviewed - 2 polyps found irregular menses - pt to schedule outpt appt for gyne exam - due for annual pap also
+Perform by **NAME[XXX , WWW CCC] ( on **DATE[May 26 2007] 10:08 )
+Sign by **NAME[XXX , WWW CCC] ( on **DATE[May 26 2007] 10:08 )
+VERIFY by **NAME[XXX , WWW CCC] ( on **DATE[May 26 2007] 10:08 )

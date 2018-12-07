@@ -1,0 +1,5 @@
+c="pelvic exam" 33:0 33:1||t="test"
+c="perianal and perivaginal pruritis" 31:0 31:3||t="problem"
+c="positive" 38:3 38:3||t="problem"
+c="the lab tests" 37:13 37:15||t="test"
+c="hemmoroids" 29:3 29:3||t="problem"

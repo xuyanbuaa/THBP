@@ -1,0 +1,72 @@
+129714460
+CTMC
+30735304
+279659
+8/31/1992 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Admission Date :
+08/31/1992
+Report Status :
+Signed
+Discharge Date :
+09/07/1992
+HISTORY OF PRESENT ILLNESS :
+The patient is a 37-year-old white male with AIDS complicated by recurrent pseudomonas infections presently on Ceftazidime and Aztrenam complicated by MAI who comes in with fever , chills and blood cultures positive for candida species .
+The patient has multiple AIDS illnesses including MAI who has multiple admissions for pseudomonas pneumonia .
+His most recent admission was on 08/23/92 to 08/25/92 with fever and chills .
+He was again treated with IV Ceftazidime for presumed pseudomonal pneumonia and discharged home on IV antibiotics which he is presently on .
+The patient did well at home with decreasing fever and good appetite until the night prior to admission when he developed fever and chills .
+Concurrent blood cultures grew out candida species at HCHP .
+The patient &apos;s baseline O2 saturation is 92% on three liters .
+He has a left arm graft placed for access three weeks ago which is used for blood drawing and IV medications .
+He notes no tenderness , erythema , warmth or exudate from the passport site .
+Medications at the time of admission include Dapsone 50 mg p.o. on Monday , Wednesday and Friday , Ceftazidime 1 gram IV q. 8 hours , Cipro 750 mg p.o. b.i.d. , Acyclovir 400 mg p.o. q. day , Megastrol 80 mg p.o. t.i.d. and G-CSF 150 micrograms subcu b.i.d.
+PHYSICAL EXAMINATION :
+At the time of admission , his temperature was 101 , blood pressure 110/60 , pulse 96 , respirations 16 .
+O2 saturation on three liters was 96% .
+HEENT exam was unremarkable .
+The neck was supple .
+No lymphadenopathy or thyromegaly .
+Chest revealed bilateral basilar rales .
+Cardiovascular exam has a normal S1 and S2 without murmurs .
+The abdomen was soft , nontender , nondistended .
+The liver was approximately 8.0 cm .
+The extremities had no clubbing , cyanosis or edema .
+Neurological exam was alert and oriented x three .
+Nonfocal .
+LABORATORY DATA :
+Notable on admission were BUN and creatinine of 8.0 and 0.7 .
+Sodium 134 , ALT 18 , AST 27 , LDH 221 , white count 2.05 , hematocrit 23 , platelet count 137,000 .
+The differential showed 45 polys , 6 bands , 8 lymphs , 32 monos .
+Urinalysis was negative .
+Sputum gram stain showed no polys and no bacteria .
+AFB stain was negative .
+Chest X-ray was consistent with an old chest X-ray on 08/08/92 showing a resolving left lower lobe and lingular infiltrate and resolution of the right mid lung infiltrate .
+HOSPITAL COURSE :
+By problems :
+1. Infectious Disease .
+The patient was started on Amphotericine at .6 mg / kg for a total of 250 mg for positive blood cultures for candida .
+The passport in his left arm was pulled and will be replaced if needed after the Amphotericine is completed .
+The patient will continue on his antibiotics for pseudomonas pneumonia to complete the fourteen day course which was completed on 09/06/92 .
+The patient was continued on his admission medications .
+2. Hematology .
+The patient was continued on his G-CSF with an increase in his white count to 8 from 1.8 .
+The patient required multiple blood transfusions for a low hematocrit .
+DISPOSITION :
+MEDICATIONS at the time of discharge are G-CSF 300 micrograms subcu q. day , Acyclovir 200 mg p.o. b.i.d. , Erythromycin 500 mg p.o. b.i.d. , Dapsone 50 mg p.o. Monday , Wednesday and Friday , Imodium 1-2 tablets p.o. q. 6 hours p.r.n. , Nystatin 5 cc swish and swallow q.i.d. , Serax 50 mg p.o. q. 6 hours p.r.n. and Kay-Ceil 40 mEq p.o. b.i.d.
+The patient needs to have his blood drawn the day after discharge to check a potassium and magnesium which he has been wasting secondary to Amphotericine .
+He will probably need potassium and magnesium replacement .
+He will need follow up lytes drawn throughout the week .
+CR887/2594 TRANGCA FERCI CHIRDSTEN , M.D. UO2
+D :
+09/07/92
+Batch :
+5346
+Report :
+P4722W3
+T :
+09/09/92
+Dicatated By :
+LANETTE SC , M.D.

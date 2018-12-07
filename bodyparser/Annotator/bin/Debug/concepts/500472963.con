@@ -1,0 +1,4 @@
+c="perforation" 24:17 24:17||t="problem"
+c="treatment" 23:3 23:3||t="treatment"
+c="evaluation" 23:1 23:1||t="test"
+c="abd pain" 22:8 22:9||t="problem"

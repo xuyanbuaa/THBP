@@ -1,0 +1,101 @@
+Admission Date :
+2010-08-30
+Discharge Date :
+2010-09-06
+Date of Birth :
+1946-01-08
+Sex :
+M
+Service :
+Cardiothoracic
+HISTORY OF PRESENT ILLNESS :
+This is a 64-year-old man with a history of coronary artery disease , endocarditis status post coronary artery bypass grafting and mitral valve replacement on 2010-08-13 .
+He was transferred to Erich Lindemann Mental Health Center from the rehabilitation center where he had been discharged to on 2010-08-25 following his CABG/MVR .
+At the rehabilitation center the patient developed shortness of breath .
+A chest x-ray done at that time revealed a left-sided infiltrate versus effusion .
+He was transferred to Mass. Eye & Ear Infirmary for treatment .
+At the time he complained of no chest pain , weakness or cough , although he is intermittently short of breath .
+He had been anticoagulated during his stay at rehabilitation for atrial fibrillation .
+PAST MEDICAL HISTORY :
+1. Significant for coronary artery disease status post CABG/MVR .
+2. Endocarditis .
+3. Rectal cancer .
+4. Atrial fibrillation .
+ALLERGIES :
+The patient has no known drug allergies .
+MEDICATIONS ON TRANSFER :
+1. Amiodarone 200 mg q.d.
+2. Lasix 20 mg b.i.d.
+3. Potassium chloride 20 mEq b.i.d.
+4. Ampicillin 2 grams q. 4 hours .
+5. Albuterol and Atrovent p.r.n.
+6. Aspirin 325 q.d.
+7. Coumadin 5 q.d.
+8. Nystatin swish and swallow 5 cc t.i.d.
+9. Colace 100 b.i.d.
+10. Percocet 5/325 , 1-2 tablets q. 4 hours p.r.n.
+LABORATORY DATA :
+White count 12.6 , hematocrit 28.9 , platelet count 259 , PT 21.4 , PTT 40.2 , INR 3.0 , sodium 137 , potassium 4.2 , chloride 100 , CO2 27 , BUN 26 , creatinine 1.3 , glucose 120 .
+Chest x-ray shows a large left pleural effusion .
+PHYSICAL EXAMINATION :
+On admission vital signs were temperature 100.1 , heart rate 83 and sinus rhythm , blood pressure 108/50 , respiratory rate 25 , oxygen saturation 97% on three liters .
+Generally he was a pleasant man with mild respiratory distress .
+Lungs had decreased breath sounds on the left .
+Cardiac examination showed regular rate and rhythm , S1 and S2 .
+Chest incision was with Steri-Strips , open to air , clean and dry .
+Abdomen was soft and nontender , nondistended , with positive bowel sounds .
+Extremities had bilateral pedal edema .
+Right leg wound had Steri-Strips , open to air , clean and dry .
+HOSPITAL COURSE :
+The patient was admitted to Vencor Hospital .
+He was given fresh frozen plasma to correct his INR and a left chest tube was placed .
+Over the first 12 hours the chest tube drained 2,500 cc .
+On hospital day two the patient was transferred from the cardiac surgery recovery unit to 07-02 for continuing care .
+He remained hemodynamically stable .
+His chest tube drainage reduced significantly after the first 24 hours and on hospital day three his chest tube was discontinued .
+Over the next several days the patient remained in the hospital to reassess for recurrent pleural effusion .
+On 09-02 it was decided that the patient was stable and ready to be transferred back to rehabilitation , however case management was unable to get authorization from the patient 's insurance company and he remained in the hospital throughout the holiday weekend awaiting insurance authorization for transfer back to rehabilitation .
+At this time the patient 's physical examination is as follows :
+Vital signs were temperature 97.8 , heart rate 80 and sinus rhythm , blood pressure 140/82 , respiratory rate 18 ,
+O2 saturation 96% on room air .
+Weight on admission was 64 kg , at discharge was 51.6 kg .
+Laboratory data showed an hematocrit of 31.6 , PT 13 , INR 1.2 , potassium 4.5 , BUN 18 , creatinine 0.9 .
+He was alert and oriented x 3 , moved all extremities , followed commands .
+Respiratory examination was clear to auscultation bilaterally .
+Cardiac showed a regular rate and rhythm , S1 and S2 .
+Sternum was stable .
+Incisions had Steri-Strips , open to air , clean and dry .
+Abdomen was soft , nontender , nondistended , with normal active bowel sounds .
+Extremities were warm and well perfused with no edema .
+Right lower extremity incision with Steri-Strips , open to air , clean and dry .
+DISCHARGE MEDICATIONS :
+1. Colace 100 mg b.i.d.
+2. Aspirin 325 mg q.d.
+3. Nystatin swish and swallow , 5 cc q. 8 hours .
+4. Ampicillin 2 grams IV q. 6 through 09-08 .
+5. Amiodarone 200 mg q.d.
+6. Percocet 5/325 , 1-2 tablets q. 6 hours p.r.n.
+7. Milk of Magnesia 30 cc q.h.s. p.r.n.
+CONDITION ON DISCHARGE :
+Good .
+DISPOSITION :
+He is to be discharged to rehabilitation .
+FOHintonP :
+He is to see Dr. les Dina in one month , Dr. Bennett in one month and Dr. Duval in one month .
+Russell von der Hassler , M.D.
+47-736
+Dictated By :
+Leonard S. Perdue , M.D.
+MEDQUIST36
+D :
+2010-09-06
+08:54
+T :
+2010-09-06
+09:17
+JOB# :
+92751
+Signed electronically by :
+DR. Gene au Holden on :
+FRI 2010-10-01 3:26 PM
+( End of Report )

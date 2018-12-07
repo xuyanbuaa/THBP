@@ -1,0 +1,91 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX  , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o SCA admitted to MICU **DATE[Apr 8 07] with c/o cough + green sputum , abd pain , N/V
+Past Medical History :
+SCA
+Hepatitis C
+ICH **DATE[Mar 2004]
+Chronic Pain
+Subjective / Events Overnight :
+Pt c/o back pain - requesting pain med .
+Vital signs
+**DATE[Apr 17 2007] 8:00:00 AM .
+BP : systolic 132 , diastolic 63 .
+Pulse :
+107 beats per min .
+Resp :
+24 breaths / min .
+Physical Exam
+General Appearance :
+Middle aged AA female in NAD .
+Cardiovascular :
+S1 , S2 , M .
+IRRR .
+Monitor :
+Afib rate 88 currently .
+Respiratory :
+Scattered rhonchi .
+Gastrointestinal :
++**PLACE , ND .
+Musculoskeletal :
++ 1/2 B LE edema .
+Skin :
+Warm and dry .
+Neurological :
+Wax / wane mentation improved today although Pt states she feels " confused " .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 17 2007] 1:53 PM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Apr 17 2007] 4:00 AM
+Na 142 mEq / L
+K 4.1 mEq / L
+Cl 111 mEq / L High
+CO2 22 mEq / L
+Anion Gap 9.0
+BUN 39 mg / dL High
+Cr 3.7 mg / dL Critical High
+GFR ( estimated ) 16.00 mL / min / 1.73 m2 Low
+( Modified )
+Impression and Plan
+Plan
+Heme - h/o SCA .
+Admitted in crisis .
+On Aranesp .
+Attending adjusted analgesia - Morphine sulfate 4 mg IV every 2 hrs prn .
+Pulmonary - h/o asthma - Duonebs prn ; PNA - Cefepime D/c 'd - completed full course .
+IV hydrocortisone .
+HEENT - Group A Strep Throat - Amoxil Day #4 .
+Otalgia / inc. hearing loss - ENT c/s - Floxin Otic .
+Cards - A fib - Cardizem ( when BP parameters allow ) .
+FEN - IVF s -D5W and 2 amp bicarb at 30 cc / h .
+**DATE[Mar] appetite .
+Diuretics on hold .
+GI - Hepatic encephalopathy - Lactulose .
+Monitoring ammonia level .
+Renal - **INITIALS - IVF s ; diuretics on hold .
+Disposition - d/c to home when medically stable .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX  , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )
+Sign by **NAME[XXX  , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )
+VERIFY by **NAME[XXX  , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )

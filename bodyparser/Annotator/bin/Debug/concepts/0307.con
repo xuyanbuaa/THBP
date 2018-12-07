@@ -1,0 +1,6 @@
+c="healthcare - associated pneumonia" 8:8 8:11||t="problem"
+c="acute myocardial ischemia" 3:1 3:3||t="problem"
+c="acute myocardial ischemia" 9:8 9:10||t="problem"
+c="hyperlipidemia" 6:1 6:1||t="problem"
+c="hypertension" 5:1 5:1||t="problem"
+c="healthcare - associated pneumonia" 2:1 2:4||t="problem"

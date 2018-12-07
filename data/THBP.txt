@@ -1,0 +1,114 @@
+1	head
+1.1	skull
+1.1.1	jaw
+1.1.1.1	tooth
+1.2	brain
+1.3	face
+1.3.1	ear	otic	hearing
+1.3.2	eye	vision
+1.3.3	nose	nasal
+1.3.4	oropharynx
+1.3.4.1	mouth
+1.3.4.2	pharynx
+1.4	cranial cavity
+2	neck
+2.1	thyroid	thyroid gland
+2.2	trachea
+2.3	throat
+3	chest
+3.1	left chest
+3.2	right chest
+3.1	heart	cardic	coronary	coronary artery
+3.1.1	left heart
+3.1.2	right heart
+3.2	lung
+3.2.1	left lung
+3.2.2	right lung
+3.3	breast
+3.3.1	left breast
+3.3.2	right breast
+3.4	pleura
+3.4.	left pleura
+3.4.2	right pleura
+4	abdomen	abd	abdn	peritoneal cavity	abdominal cavity	enterocoelia
+4.1	upper abdomen
+4.1.1	left upper abdomen	left upper quadrant
+4.1.2	right upper abdomen	right upper quadrant
+4.2	lower abdomen
+4.2.1	left lower abdomen	left lower quadrant
+4.2.2	right lower abdomen	right lower quadrant
+4.3	liver
+4.3.1	left liver
+4.3.2	right liver
+4.4	kidney
+4.4.1	left kidney
+4.4.2	right kidney
+4.5	stomach
+4.6	bowel
+4.6.1	large intestine	colon
+4.6.2	small intestine
+4.6.3	rectum
+4.6.3.1	anus
+4.7	gallbladder
+4.8	pancreas	pi
+4.9	spleen
+4.10	adrenal gland	adrenal
+4.10.1	left adrenal gland	left adrenal
+4.10.2	right adrenal gland	right adrenal
+4.11	urinary bladder	bladder
+4.12	appendix
+5	pelvis
+5.1	uterus
+5.2	oophoron
+5.2.1	left oophoron
+5.2.2	right oophoron
+5.3	salpinx
+5.3.1	left salpinx
+5.3.2	right salpinx
+5.4	peritoneum
+5.5	vagina
+5.5.1	hymen
+5.6	penis	male genitalia
+5.7	urethra	urinary tract	ureter	ovary
+5.8	anus
+6	back
+6.1	spine
+7	hip	breech
+7.1	left hip	left breech
+7.2	right hip	right breech
+8	extremity	ext	extrm
+8.1	upper extremity	arm	ue
+8.1.1	left upper extremity	left arm	lue
+8.1.2	right upper extremity	right arm	rue
+8.1.3	hand
+8.1.4	shoulder
+8.1.5	elbow
+8.1.6	axilla
+8.2	lower extremity	leg	le
+8.2.1	left lower extremity	left leg	lle
+8.2.2	right lower extremity	right leg	rle
+8.2.3	thigh
+8.2.4	calf
+8.2.5	foot
+8.2.6	knee
+8.2.6.1	left knee
+8.2.6.2	right knee
+8.2.7	ankle
+8.2.7.1	right ankle
+8.2.7.2	left ankle
+9	trunk	body	limb
+9.1	vessel	blood
+9.1.1	artery
+9.1.2	vein	venous
+9.1.2.1	deep vein	deep venous
+9.2	muscle
+9.3	joint
+9.4	lymph
+9.5	bone
+9.5.1	bone marrow
+9.5.2	vertebrae
+9.6	skin
+9.6.1	cellulite	cellulitis
+9.7	body fluid
+9.8	nerve	neuro
+9.9	immune system

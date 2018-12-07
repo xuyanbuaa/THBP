@@ -1,0 +1,77 @@
+Discharge Summary
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB] S
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Male
+DOB :
+**DATE[Jan 12 1957]
+Author :
+**NAME[XXX , WWW]
+Discharge Information
+Discharge Summary Information
+Admission date :
+**DATE[May 26 07]
+Discharge date :
+**DATE[May 28 07]
+Primary reason for admission : chest pain .
+Admission Diagnoses
+1. 35 pack year smoking history ; quit **DATE[Mar 07]
+2. h/o pericarditis :
+**INSTITUTION s ICU , 1987 ( ?- bacteremia after teeth cleaning - no medical records found to verify )
+3. Psoriatic arthritis
+4. C. diff :
+5/05 ; refractory x 9 months
+5. Oral HSV
+6. Bus accident **DATE[Apr 82] with subsequent trauma surgery
+Discharge Diagnoses - as above plus :
+7. CAD s/p inferior STEMI , s/p stent to mid RCA
+Procedures
+1. LHC ( **DATE[May 26 07] ) with bare metal stent to mid RCA .
+LM : no significant disease
+LAD : no significant disease ; small D1 with 60% ostial
+Circ : no significant disease
+RCA : mid occlusion s/p 3x20 mm Liberte bare metal stent with mild 20% residual stenosis proximal to stent ; distal PDA occlusion consistent with distal embolization
+EF :
+50%
+Inferior hypokinesis extending from mid ventricle toward the base .
+Hospital Course
+**AGE[in 50s] yo CM who was transferred from **INSTITUTION s Hospital after presenting with chest pain and ST elevations on EKG .
+The patient reported waking up with chest pain on the morning of admission .
+Chest pain was described as substernal chest tightness with radiation to the neck and was associated with moderate shortness of breath as well as diaphoresis .
+The patient had his son call the EMS .
+At the OSH , the patient was placed on a heparin drip and a nitroglycerin drip and was transferred to our facility for further care .
+Upon arrival to our facility , the patient was underwent a left heart cath with PCI and was then admitted to the CCU where he remained until the following afternoon .
+Following the LHC , the patient remained hemodynamically stable .
+The patient was treated with Integrilin for 18 hours post - cath , heparin drip , aspirin , plavix and lipitor as well as minimal beta - blockade due to low blood pressure .
+Serial troponins were followed until they peaked and trended down ; troponin peak was 59.94 .
+Recommend addition of an ACEI to medication regimen in future as blood pressure tolerates .
+Risk factor modification was discussed with the patient , including need for low cholesterol diet , exercise and continuation of smoking cessation .
+The patient 's outpatient medical regimen was continued with the exception of lovastatin , which was changed to lipitor - the patient is on prozac for depression , valtrex or oral HSV and voltaren for arthritis .
+Discharge Medications
+1. Aspirin 81 mg po daily
+2. Plavix 75 mg po daily
+3. Lipitor 40 mg po Qhs
+4. Metoprolol 12.5 mg po bid
+5. Prozac 40 mg po daily
+6. Valtrex 500 mg po daily
+7. Voltaren
+Instructions
+1. Diet : cardiac .
+2. Activity : as per cardiac rehab evaluation and recommendations .
+Follow - Up
+1. Cardiology :
+Dr. **NAME[ZZZ] , 2 - 4 weeks
+2. Cardiac Rehab :
+**NAME[VVV] 's Gym , 1 week
+3. PCP :
+2 - 4 weeks .
+Perform by **NAME[XXX , WWW]
+( on **DATE[Jun 08 2007] 07:45 )
+Sign by **NAME[XXX , WWW]
+( on **DATE[Jun 08 2007] 07:45 )
+VERIFY by **NAME[XXX , WWW]
+( on **DATE[Jun 08 2007] 07:45 )

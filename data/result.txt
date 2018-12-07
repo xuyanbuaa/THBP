@@ -1,0 +1,43 @@
+baseline
+precision = 0.838683
+recall = 0.603673
+F1 = 0.702032
+
+*********************************************
+baseline + normalization
+precision = 0.868563
+recall = 0.669431
+F1 = 0.756106
+
+*********************************************
+baseline + distance
+precision = 0.861597
+recall = 0.671209
+F1 = 0.754579
+
+*********************************************
+baseline + frequency
+precision = 0.862351
+recall = 0.686611
+F1 = 0.764512
+
+*********************************************
+baseline + distance + frequency
+precision = 0.865185
+recall = 0.691943
+F1 = 0.768927
+
+*********************************************
+baseline + normalization + distance
+precision = 0.884615
+recall = 0.790284
+F1 = 0.834793
+
+*********************************************
+baseline + normalization + distance + frequency
+precision = 0.890909
+recall = 0.841825
+F1 = 0.865672
+
+*********************************************
+

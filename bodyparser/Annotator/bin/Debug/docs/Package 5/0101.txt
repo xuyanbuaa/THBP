@@ -1,0 +1,129 @@
+Admission Date :
+2015-05-13
+Discharge Date :
+2015-05-20
+Date of Birth :
+1813-05-16
+Sex :
+F
+Service :
+CME
+HISTORY OF PRESENT ILLNESS :
+This is a 104 year old female patient with a history of chronic obstructive pulmonary disease , coronary artery disease , hypertension and cerebrovascular accident who presents with shortness of breath and cough .
+The patient states that she has no idea why she was brought to the Emergency Department and denies any symptoms .
+She reports an occasional nonproductive cough that she has had "for years" and feels that she has been experiencing alternating chills and feeling hot .
+A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and cough for one day with chills but no fever .
+She has been recently evaluated as an outpatient for bradycardia .
+She was seen by her cardiologist , Dr. Clements and had a Holter monitor on 2015-05-01 , that showed first degree AV block with a rate that ranged between 35 to 53 beats per minute .
+In the Emergency Department , the patient was given nebulizer treatment , started on antibiotics for presumed chronic obstructive pulmonary disease exacerbation .
+She was noted to have lateral ST depressions and given Aspirin .
+She continues to deny chest pain , palpitations , shortness of breath , fevers , nausea , vomiting , abdominal pain , bright red blood per rectum , melena , dysuria , urinary frequency and urgency .
+PAST MEDICAL HISTORY :
+Chronic obstructive pulmonary disease with asthmatic component .
+Hypothyroidism .
+Gastroenteritis .
+Anxiety .
+Insomnia .
+Hypertension .
+Osteoporosis .
+History of cerebrovascular accident with residual right sided weakness .
+Scoliosis .
+Coronary artery disease .
+History of kidney mass .
+History of lower gastrointestinal bleed .
+Status post total abdominal hysterectomy , bilateral salpingo- oophorectomy .
+Left cataract .
+Bradycardia followed by outpatient cardiologist with a Holter monitor on 2015-05-01 , with first degree AV block and a heart rate ranging between 35 to 53 beats per minute .
+ALLERGIES :
+Penicillin , Erythromycin , Valium , Compazine ,
+Demerol , Percodan .
+MEDICATIONS ON ADMISSION:
+1. Levothyroxine 50 mcg p.o. once daily .
+2. Combivent two puffs four times a day .
+3. Flovent two puffs four times a day .
+4. Protonix 40 mg once daily .
+5. Lisinopril 5 mg p.o. once daily .
+6. Norvasc 5 mg twice a day .
+7. Lasix 40 mg once daily .
+8. Senna one once daily .
+9. Dulcolax 10 mg once daily p.r.n.
+10 .
+TUMS 500 mg twice a day .
+SOCIAL HISTORY :
+The patient lives at Norwood in assisted living section .
+She has a 24 hour caregiver .
+The patient quit smoking fifty years ago but previously was a heavy smoker , though states that she never inhaled .
+The patient denies use of alcohol or drugs .
+PHYSICAL EXAMINATION :
+Temperature 98.1 , blood pressure
+144/38 , heart rate 41 , respiratory rate 20 , oxygen saturation
+94 percent in room air and 96 percent on three liters .
+In general , a well appearing elderly female in no acute distress .
+Skin is warm and dry with decreased skin turgor .
+Head , eyes , ears , nose and throat examination - The pupils are equal , round and reactive to light and accommodation .
+Extraocular movements are intact .
+Dry mucous membranes .
+The oropharynx is clear .
+Neck is supple , full range of motion , no jugular venous distension or lymphadenopathy .
+The heart was bradycardic with regular rhythm , no murmurs , rubs or gallops .
+Lungs - diffuse expiratory wheezes with bibasilar rales , left over right .
+The abdomen revealed normoactive bowel sounds , soft , nontender , nondistended .
+Rectal is guaiac positive per Emergency Department .
+Extremities - no cyanosis or clubbing , one plus bilateral lower extremity edema with right worse than left .
+Neurologically , the patient is awake , alert and oriented times three .
+LABORATORY DATA :
+White blood cell count was 8.5 ( 80 percent neutrophils , 13 percent lymphocytes ) , hematocrit 27.4 , platelet count 277,000 .
+Sodium 133 , potassium 4.8 , chloride
+94 , bicarbonate 24 , blood urea nitrogen 39 , creatinine 2.0 , glucose 111 .
+CK 152 , CK MB 3.0 , troponin 0.04.
+INR 1.1.
+Chest x-ray showed equivocal retrocardiac opacity .
+Electrocardiogram showed sinus bradycardia at 40 beats per minute .
+First degree AV block with PR interval 220 , left axis deviation , right bundle branch block with a left anterior fascicular block , 0.1103 N. Fifth Cir. depressions in
+V4 through V6 .
+HOSPITAL COURSE :
+Shortness of breath - Though the patient denied shortness of breath on admission , a progress note from
+Norwood nursing facility suggested that the patient had been having shortness of breath and cough for approximately one day with difficulty ambulating , needing to travel in a wheelchair .
+The patient was afebrile on admission with a normal white blood cell count but had significant wheezing and rales on physical examination with a possible left lower lobe opacity seen on chest x-ray .
+The etiology of the patient 's shortness of breath was considered a likely chronic obstructive pulmonary disease exacerbation and the patient was started on Albuterol and Atrovent nebulizers .
+The patient was also started on Doxycycline given the concern for pneumonia on chest x-ray .
+She was also continued on steroids given evidence of severe airway obstruction .
+The patient 's shortness of breath was also considered possibly related to a coronary event and she was admitted for rule out myocardial infarction .
+The patient 's enzymes were cycled and were negative .
+The patient 's electrocardiogram performed on hospital day number two was concerning for 2:1 heart block and the cardiology consult service was contacted for evaluation .
+The patient was taken to the Coronary Care Unit late on hospital day number two and received a temporary wire .
+The following day the patient received a permanent dual chamber rate responsive pacemaker .
+The patient was transferred back to the general medicine service where she continued to exhibit signs of chronic obstructive pulmonary disease exacerbation and nebulizers , steroids and antibiotics were continued .
+The patient 's respiratory status improved throughout the remainder of her hospitalization and oxygen was eventually weaned .
+Once the patient was transferred out of the Coronary Care Unit , she appeared to have an element of heart failure in addition to her chronic obstructive pulmonary disease .
+She was given 20 mg of intravenous Lasix with impressive urine output and improvement in her overall fluid status .
+The patient was eventually restarted on her outpatient dose of Lasix once her renal function improved to baseline and remained hemodynamically stable throughout the remainder of her hospitalization .
+Heart block - As noted previously , the patient 's electrocardiogram was significant for a 2:1 heart block and cardiology consult service was contacted for evaluation .
+The patient received a temporary pacing wire on the evening of hospital day number two and on hospital day number three received a dual chamber pacemaker .
+Renal - The patient was admitted with a creatinine of 1.8 , considered likely secondary to hypovolemia .
+Her calculated fractional excretion of sodium was 0.13 percent suggesting a prerenal cause .
+The patient 's creatinine improved to 1.1 with hydration .
+Once the patient 's creatinine had improved to baseline , her Lasix and ace inhibitor were restarted and the patient 's creatinine was noted to be stable .
+Gastrointestinal - The patient was admitted with a history of gastrointestinal bleed with guaiac positive stools on admission .
+Her hematocrit was noted to trend down after transfusion of one unit of packed red blood cells on admission .
+Given guaiac positive stools and her history of gastrointestinal bleed in addition to use of steroids for chronic obstructive pulmonary disease exacerbation , the gastroenterology consult service was contacted .
+The results of that consultation and potential esophagogastroduodenoscopy are pending at the time of dictation .
+Hypertension - The patient had moderate control of her blood pressure throughout her admission .
+Her calcium channel blocker and ace inhibitor were continued .
+Hematology - As noted previously , the patient 's hematocrit was noted to drop after transfusion with one unit of packed red blood cells on admission .
+Given guaiac positive stools and the patient 's history of gastrointestinal bleed , gastroenterology consult service was contacted for possible esophagogastroduodenoscopy and/or colonoscopy .
+The results of this consultation are pending at the time of dictation .
+The remainder of the Hubbard Regional Hospital hospital course , discharge diagnoses , medications and follow-up will be dictated at the time of discharge .
+Justin Q. Yagi , M.D. 12AKK
+Dictated By:Miriam H Hines , M.D.
+MEDQUIST36
+D :
+2015-05-18 11:24:17
+T :
+2015-05-18 14:58:16
+Job# :
+21080
+Signed electronically by :
+DR. Jose M. Rosales on :
+MON 2015-07-27 9:58 AM
+( End of Report )

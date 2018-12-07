@@ -1,0 +1,82 @@
+pe||pulmonary embolism
+JVD||jugular venous distention
+uti||urinary tract infection
+brbpr||bright red blood per rectum
+SOB||shortness of breath
+cp||chest pain
+nad||no appreciable disease
+cv||cardiovascular
+m/r/g||murmurs, rubs, gallops
+gi||gastrointestinal
+CAD||coronary artery disease 
+hba1c||hemoglobin a1c
+CBC||complete blood count
+inr||insulin receptor
+ptt||partial thromboplastin time
+monos||mononucleosis
+ANC||The absolute neutrophil count, the number of white blood cells (WBCs) that are neutrophils.
+N/V||Nausea/Vomiting 
+CVA||Cerebrovascular accident
+mm||mucous membrane
+CTAB||stands for 'lungs clear to auscultation bilaterally'
+CABG||coronary artery bypass graft
+basos||basophils
+pt||Prothrombin time
+bun||blood urea nitrogen
+bso||Bilateral salpingo-oophorectomy. Excision of both ovaries
+cta||computed tomographic angiography
+NPH||normal pressure hydrocephalus
+bp||Blood Pressure
+dfa||direct fluorescent antibody
+LIMA||left internal mammary artery 
+ESR||erythrocyte sedimentation rate
+ALT||Alanine transaminase
+vt||Ventricular tachycardia
+AST||aspartate aminotransferase
+NKA||no known allergies
+et||esophageal temperature
+POV||periovarian veins
+pda||posterior descending artery
+asa||acetylsalicylic acid
+dvt||Deep Vein Thrombosis
+meta||metamyelocyte
+mvr||mitral valve replacement
+microcyte||an abnormally small erythrocyte
+ID||Infectious Disease
+MRA||Magnetic resonance angiography
+sca||Sudden Cardiac Arrest
+ue||upper extremity
+ext||extremities
+fen||Fluids , electrolytes and nutrition
+tvh||Total vaginal hysterectomy
+PNA||Pneumonia 
+vasc||Vascular
+rue||Right upper extremity
+pud||peptic ulcer disease 
+EOMI||Extraocular Movements Intact 
+pearl||pupils equal and reacting to light
+op||olfactory peduncle
+mmm||malignant melanoma 
+cvs||Chorionic villus sampling
+rrr||regular rate and rhythmcn
+cn||cranial nerves
+sx||surgery/symptom
+dm||diabetes mellitus
+CPR||Cardiopulmonary resuscitation
+rle||right lower extremity
+le||lower extremity
+mi||myocardial infarction
+ICD||Implantable cardiac defibrillator
+jvp||jugular venous pressure 
+ada||anterior descending artery
+her2||epidermal growth factor receptor 2
+CHF||Congestive heart failure
+LBBB||left bundle branch block
+dre||digital rectal exam
+svg||saphenous vein graft
+uc||ulcerative colitis
+COPD||Chronic Obstructive Pulmonary Disease
+FVC||forced vital capacity
+cri||chronic renal insufficiency 
+sss||sick sinus syndrome
+ich||intracerebral hemorrhage

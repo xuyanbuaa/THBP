@@ -1,0 +1,151 @@
+Admission Date :
+2012-03-23
+Discharge Date :
+2012-03-26
+Date of Birth :
+1972-06-27
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : George XL Patrick , M.D.
+Chief Complaint :
+mental status change
+Major Surgical or Invasive Procedure :
+intubation
+History of Present Illness :
+39 year old male w/ h/o low back pain on chronic narcotics presents after being found unresponsive at home .
+His daughter awoke him at 7 a.m. , reports he said he felt " cold and shivery ," vomited several times , then drove her to school .
+According to his wife , he came home and went to sleep .
+When she tried to awaken him at 11 a.m. , she was unable to do so and called EMS .
+She did not notice any blood / urine / emesis / stool in the bed .
+EMS found him with agonal respirations and pinpoint pupils .
+FS 420 .
+He received 1 mg IV Narcan ( numerous bottles of oxycontin , percocet were found in room ); his pupils dilated to ~ 8 mm and he became combative / agitated .
+He was then intubated for airway protection ( etomidate / succinate ); it was a traumatic intubation 
+and one of his teeth was chipped .
+He was transported to Hallmark Health System Monica , where ABG 7.14/82/44 while bagging on 100% FiO2 .
+Wife reports that he drank a large amt of alcohol ( 12 bottles of beer ) night PTA .
+For 2 days PTA , he has expressed a wish to kill himself ( no clear plan , but fixing things around the house " so things will be ready when I 'm gone ").
+In Monica , pt received charcoal , 500 mg IV levofloxacin , 500 mg IV metronidazole for presumed aspiration pna .
+Past Medical History :
+chronic LBP , HTN , anxiety , depression , L arm surgeries ( hardware in place )
+Social History :
+lives with wife and daughters .
+On disability secondary to work-related back injury .
+Heavy EtOH ( 12 beers several times a week ).
+Smokes ~ 1 pk / week .
+No other known drug use other than Oxycontin / percocet .
+Family History :
+No family history of heart disease or cancer
+Physical Exam :
+PE : Tc 98.7 , pc 88 , bpc 120/60 , AC 600/20 , FiO2 100% , PEEP 10
+Gen : young male , intubated , sedated , in hard collar .
+HEENT : Pupils pinpoint , equal , anicteric , normal conjunctiva , intubated , OGT in place , OMMM , normocephalic , atraumatic
+Cardiac : RRR , I/VI SM at apex , no R/G appreciated
+Pulm : coarse breath sounds throughout
+Abd : mildly distended , hypoactive BS , soft , no HSM
+Ext : trace LE edema at ankles , extremities cool w/ 2+ radial , 1+ DP/PT pulses .
+Well-healed scars over dorsal / lateral distal LUE
+Neuro : DTR 3+ upper and lower extremities , symmetric bilaterally .
+Toes equivocal bilaterally .
+(+) gag
+Pertinent Results :
+EKG NSR @ 92 bpm , nl axis , borderline QT ( QTc 0.442 ), J Pt elevtation V3 , TWF II , III , avF , I , avL ( no prior EKG for comparison )
+2012-03-23 03:39 PM
+TYPE - ART PO2 - 122 * PCO2 - 38 PH - 7.43 TOTAL CO2 - 26 BASE XS - 1
+2012-03-23 03:39 PM
+LACTATE - 2.0
+2012-03-23 01:30 PM URINE
+HOURS - RANDOM
+2012-03-23 01:30 PM URINE
+bnzodzpn - POS barbitrt - NEG opiates - NEG cocaine - NEG amphetmn - NEG mthdone - NEG
+2012-03-23 01:30 PM URINE
+COLOR - Straw APPEAR - Clear SP Barajas - 1.015
+2012-03-23 01:30 PM URINE
+BLOOD - SM NITRITE - NEG PROTEIN - 30 GLUCOSE - 1000 KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 6.0 LEUK - NEG
+2012-03-23 01:30 PM URINE
+RBC - 03-10 * WBC - 0-2 BACTERIA - FEW YEAST - NONE EPI - 0
+2012-03-23 01:30 PM URINE
+MUCOUS - FEW
+2012-03-23 12:22 PM
+PO2 - 44 * PCO2 - 82 * PH - 7.14 * TOTAL CO2 - 30 BASE XS -- 4
+2012-03-23 12:22 PM
+GLUCOSE - 296 * LACTATE - 4.8 * NA+ - 140 K+ - 5.2 CL -- 101
+2012-03-23 12:20 PM
+UREA N - 20 CREAT - 1.1
+2012-03-23 12:20 PM
+ALT(SGPT) - 30 AST(SGOT) - 38 LD(LDH) - 217 CK(CPK) - 1152 * ALK PHOS - 52 AMYLASE - 426 * TOT BILI - 0.4
+2012-03-23 12:20 PM
+LIPASE - 22
+2012-03-23 12:20 PM
+CK-MB - 45 * MB INDX - 3.9 cTropnT -< 0.01
+2012-03-23 12:20 PM
+ALBUMIN - 4.4
+2012-03-23 12:20 PM
+ASA - NEG ETHANOL - NEG ACETMNPHN - NEG bnzodzpn - NEG barbitrt - NEG tricyclic - NEG
+2012-03-23 12:20 PM
+WBC - 8.9 RBC - 3.93 * HGB - 12.1 * HCT - 36.7 * MCV - 93 MCH - 30.8 MCHC - 33.0 RDW - 13.0
+2012-03-23 12:20 PM
+NEUTS - 84.7 * LYMPHS - 13.1 * MONOS - 1.5 * EOS - 0.3 BASOS - 0.4
+2012-03-23 12:20 PM
+PLT COUNT - 227
+2012-03-23 12:20 PM
+PT - 14.1 * PTT - 21.0 * INR(PT) - 1.2
+2012-03-23 12:20 PM
+FIBRINOGE - 375
+2012-03-26 04:30 AM BLOOD WBC - 6.9 RBC - 3.28 * Hgb - 9.8 * Hct - 29.0 * MCV - 89 MCH - 29.7 MCHC - 33.6 RDW - 13.1 Plt Ct - 206
+2012-03-26 04:30 AM BLOOD Plt Ct - 206
+2012-03-26 04:30 AM BLOOD Glucose - 88 UreaN - 10 Creat - 0.7 Na - 143 K-3.6 Cl - 108 HCO3 - 28 AnGap - 11
+2012-03-26 04:30 AM BLOOD Calcium - 8.5 Phos - 3.1 Mg - 1.9
+2012-03-25 04:00 AM BLOOD calTIBC - 237 * Ferritn - 534 * TRF - 182 *
+Brief Hospital Course :
+A : 39 year old male w/ HTN , chronic LBP on narcotics presents after being found unresponsive at home .
+P :
+1) Unresponsiveness : This is likely due todrug overdose ( known oxycontin use , (+) BNZ on tox screen ).
+Ddx : cardiac ischemia ( no ischemic EKG changes noted ), seizure w/ post-ictal state , CVA ( head CT neg ).
+His cardiac enzymes include only elevated CK , but not Shaffer , Juan he ruled out for MI .
+His mental status gradually improved from 03-23 to 03-24 .
+He was able to communicate appropriately as his level of narcotic medications waned in his blood .
+He was able to maintain a stable mental level for extubation on 03-24 .
+As of 3/21 , he was alert , appropriate and answers questions and follows command on exam .
+2) Pulmonary infiltrates : THere was initially concern that he was developing ARDS from aspiration pneumonia in the setting of being found unconscious .
+He was intubated and was on mechanical ventilation from 9/13-10/11 , but he was started on levofloxacin 
+and flagyl for total of 4 days .
+ON 03-26 , his antibiotics were started as this most likely represent a transiet aspiration episode and not ARDS .
+3) Airway protection : He was intubated in the field for airway protection
+He was extubated on 03-24 and was weaned off oxygen slowly from 03-24 to 03-26 without significant event .
+4) Hypertension : He was restarted on his atenolol and verapamil once his blood pressure stabilized on 03-25 .
+5) Depression : He was restarted on his paxil on 03-25 and was given 1:1 sitter for suicidal ideation leading up to his suicide leading up to this admission .
+He has not had further episodes while he was in the hospital .
+- plan to restart Paxil when taking PO
+6) Hyperglycemia : Although he has no known history of  diabetes , his elevated FS noted in field with glycosuria prompted fingerstick check but he has not required insulin coverage .
+7) High amylase : He was admitted on 03-23 with elevated amylase but non-elevated lipase .
+This likely is not concerning of pancreatic process .
+His amylase trended down .
+He was restarted on regular diet on 4/14-4/17 after his extubation
+8) Anemia - He was admitted with borderline anemia with Fe studies suggestive of anemia of chronic disease and his hct decreased in the setting fluid resucitation .
+His hct has stabilized and improved to close to 30 at the time of 3/21 .
+He reports that his primary physician is aware of his anemia and was in the process of followup .
+Medications on Admission :
+Oxycontin
+Percocet
+Paxil
+Gabapentin
+Atenolol
+Discharge Disposition :
+Extended Care
+Discharge Diagnosis :
+benzodiazipine overdose
+Discharge Condition :
+stable
+Discharge Instructions :
+please take your medications and call your doctor if you experience chest pain , abdominal pain or shortness of breath or any thoughts of hurting yourself or anyone else .
+Followup Instructions :
+please call your primary doctor Edmund Starke once your are discharge from the hospital
+Clemmie Shawn MD 65-948
+Completed by : Michael Melvin Kinzer MD 51-991 2012-03-26 @ 1709
+Signed electronically by : DR. Justin Pappas on: MON 2012-05-07 4:52 PM
+( End of Report )

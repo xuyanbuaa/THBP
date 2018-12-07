@@ -1,0 +1,5 @@
+c="**DATE[Oct 20 2007" 11:0 11:2||t="time"||normalization=(2007,10,20,100,100,100)
+c="**DATE[Aug 2007]" 18:9 18:10||t="time"||normalization=(2007,8,100,100,100,100)
+c="before discharge" 62:18 62:19||t="time"||normalization=(100,100,100,100,100,100)||normalization=(2007,10,20,100,100,100)
+c="**DATE[Oct 20 2007 15:39" 68:0 68:3||t="time"||normalization=(2007,10,20,15,39,100)
+c="**DATE[Oct 22 2007 04:10" 70:0 70:3||t="time"||normalization=(2007,10,22,4,10,100)

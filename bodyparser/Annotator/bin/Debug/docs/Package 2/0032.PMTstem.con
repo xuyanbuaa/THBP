@@ -1,0 +1,91 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o @sca@ admitted to MICU **DATE[Apr 8 07] with c/o @cough@ + @green sputum@ , @abd pain@ , @n/v@
+Past Medical History :
+@sca@
+@hepatitis c@
+@ich@ **DATE[Mar 2004]
+@chronic pain@
+Subjective / Events Overnight :
+Pt c/o @back pain@ - requesting @@pain med@@ .
+@@@vital signs@@@
+**DATE[Apr 17 2007] 8:00:00 AM .
+@@@bp@@@ : @@@systolic@@@ 132 , @@@diastolic@@@ 63 .
+@@@pulse@@@ :
+107 beats per min .
+@@@resp@@@ :
+24 breaths / min .
+Physical Exam
+General Appearance :
+Middle aged AA female in @nad@ .
+Cardiovascular :
+S1 , S2 , @m@ .
+@irrr@ .
+Monitor :
+@@@afib rate@@@ 88 currently .
+Respiratory :
+@scattered rhonchi@ .
+Gastrointestinal :
++**PLACE , ND .
+Musculoskeletal :
+@+ 1/2 b le edema@ .
+Skin :
+Warm and dry .
+Neurological :
+@wax / wane mentation@ improved today although Pt states she feels " @confused@ " .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 17 2007] 1:53 PM
+Discharge Plan
+DP
+( Preliminary )
+**DATE[Apr 17 2007] 4:00 AM
+@@@na@@@ 142 mEq / L
+@@@k@@@ 4.1 mEq / L
+@@@cl@@@ 111 mEq / L @high@
+@@@co2@@@ 22 mEq / L
+@@@anion gap@@@ 9.0
+@@@bun@@@ 39 mg / dL @high@
+@@@cr@@@ 3.7 mg / dL @critical high@
+@@@gfr ( estimated )@@@ 16.00 mL / min / 1.73 m2 @low@
+( Modified )
+Impression and Plan
+Plan
+Heme - h/o @sca@ .
+Admitted in @crisis@ .
+On @@aranesp@@ .
+Attending adjusted @@analgesia@@ - @@morphine sulfate@@ 4 mg IV every 2 hrs prn .
+Pulmonary - h/o @asthma@ - @@duonebs@@ prn ; @pna@ - @@cefepime@@ D/c 'd - completed @@full course@@ .
+@@iv hydrocortisone@@ .
+HEENT - @group a strep throat@ - @@amoxil@@ Day #4 .
+@otalgia@ / inc. @hearing loss@ - ENT c/s - @@floxin otic@@ .
+Cards - @a fib@ - @@cardizem@@ ( when @@@bp parameters@@@ allow ) .
+FEN - @@ivf s@@ @@-d5w@@ and @@2 amp bicarb@@ at 30 cc / h .
+**DATE[Mar] appetite .
+@@diuretics@@ on hold .
+GI - @hepatic encephalopathy@ - @@lactulose@@ .
+Monitoring @@@ammonia level@@@ .
+Renal - **INITIALS - @@ivf s@@ ; @@diuretics@@ on hold .
+Disposition - d/c to home when medically stable .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )
+Sign by **NAME[XXX , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )
+VERIFY by **NAME[XXX , WWW] M
+( on **DATE[Apr 17 2007] 15:51 )

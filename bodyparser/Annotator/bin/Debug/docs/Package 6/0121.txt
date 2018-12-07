@@ -1,0 +1,204 @@
+Admission Date :
+2013-11-11
+Discharge Date :
+2013-11-13
+Date of Birth :
+1938-06-09
+Sex :
+M
+Service :
+CMED
+Allergies :
+No Drug Allergy Information on File
+Attending : Leroy F Stalnaker , M.D.
+Chief Complaint :
+Left sided weakness , slurred speech .
+Major Surgical or Invasive Procedure :
+Intubation and mechanical ventilation .
+History of Present Illness :
+Patient is a 75 year old right handed male with past medical history of coronary artery disease s/p NQWMI 02-25 , s/p LAD angioplasty and stent 05-26 , dementia , hyperlipidemia , aortic stenosis , atrial fibrillation on coumadin who presented from his CMED CSRU doctor 's office wtih acute onset left sided weakness and dysarthria .
+Patient was in his usual state of health until around 12:15 on day of admission .
+Was at this doctor 's office and complained of severe headache .
+Thereafter , wife noted development of left sided weakness , facial droop , slurring of speech .
+Sent to Hahnemann General Hospital for evaluation emergently .
+Tom course :
+Arrived at Hahnemann General Hospital at 12:30 .
+Finger stick blood glucose 120 .
+Rest of vitals BP 112/70 , HR 60 .
+Blood pressure up to 230 s systolic .
+Seen emergently by stroke team .
+Initial NIH stroke scale of 33 .
+Head CT showed large right intracerebral hemorrhage .
+Intubated for airway protection at 13:35 after Fentanyl , Etomidate , Vecuronium and Succhinylcholine given .
+Started on Labetalol and then Nipride drip for BP control ; discontinued as goal BP in 130-160 s.
+Received 10 mg SC Vitamin K and 2 units FFP while in Gary .
+Pupils noted to be fixed and dilated at 14:10 .
+Loaded with Dilantin and 50 grams Mannitol .
+Transferred to intensive care unit .
+Past Medical History :
+1. Atrial fibrillation , on coumadin
+2. Coronary artery disease status post NQWMI 02-25 , s/p LAD angioplasty and stent 05-26 . Known non-dominant 90% RCA lesion not intervened upon .
+3. Dementia
+4. Mild-moderate aortic stenosis
+5. Hyperlipidemia
+6. Colon cancer
+7. Obstructive sleep apnea
+8. Anxiety
+9. Diabetes mellitus , on oral medications
+Social History :
+Married .
+Lives with wife .
+One son , in area .
+Social alcohol .
+No tobacco , drug use .
+Family History :
+Non-contributory .
+Physical Exam :
+PHYSICAL EXAM ( Examined off of Propofol ):
+Tc : 96.7
+BP : 120/48
+HR : 61
+RR : 14
+O2Sat. : 100% , ventilated .
+Gen : WD/WN male , comfortable appearing , intubated , not sedated .
+HEENT : NC/AT .
+Anicteric .
+MMM .
++Endotracheal tube .
+Neck : Supple .
+No masses or LAD .
+No JVD .
+No thyromegaly .
+No carotid bruits .
+Lungs : Coarse breath sounds anterolaterally .
+Cardiac : Irregularly irregular .
+S1/S2 .
+No M/R/G .
+Abd : Soft , NT , ND , +NABS .
+No rebound or guarding .
+No HSM .
+Extrem : Warm and well-perfused .
+No C/C/E .
+Neuro :
+Mental status :
+No response to voice , sternal rub .
+Grimaces to nasal tickle .
+Cranial Nerves :
+Pupils fixed at 7 mm bilaterally .
+Very weak flicker of inner canthus on left with corneal stimulation .
+No oculocephalic reflex .
+Left facial droop .
+No gag provoked , but biting ETT at times .
+Tongue midline .
+Motor :
+Normal bulk .
+Increased tone x4 with LEs > UEs .
+No withdrawal to noxious stimuli .
+Bilateral feet externally rotated .
+Sensation :
+No withdrawal to noxious stimuli .
+Reflexes :
+Absent in LUE , left ankle .
+Striking left patellar tendon results in sustained clonus of left leg .
+Toes upgoing bilaterally .
+02-27 RUE , absent right ankle .
+Coordination :
+Unable to assess .
+Gait :
+Unable to assess .
+Pertinent Results :
+2013-11-11 12:39 PM
+WBC - 9.1 RBC - 4.29 * HGB - 14.1 HCT - 38.7 * MCV - 90 MCH - 32.8 * MCHC - 36.4 * RDW - 14.7
+2013-11-11 12:39 PM
+PLT COUNT - 147 *
+2013-11-11 12:39 PM
+PT - 20.0 * PTT - 32.4 INR ( PT )- 2.5
+2013-11-11 12:39 PM
+GLUCOSE - 101 UREA N - 25 * CREAT - 1.0 SODIUM - 142 POTASSIUM - 4.2 CHLORIDE - 106 TOTAL CO2 - 27 ANION GAP - 13
+2013-11-11 12:39 PM
+CK ( CPK )- 200 *
+2013-11-11 12:39 PM cTropnT -< 0.01
+2013-11-11 12:39 PM
+CK-MB - 7
+2013-11-11 09:45 PM
+CK ( CPK )- 196 *
+2013-11-11 09:45 PM
+CK-MB - 3 cTropnT -< 0.01
+2013-11-12 03:30 AM BLOOD CK ( CPK )- 312 *
+2013-11-12 03:30 AM BLOOD CK-MB - 5 cTropnT -< 0.01
+2013-11-11 01:55 PM URINE BLOOD - SM NITRITE - NEG PROTEIN - 100 GLUCOSE - NEG KETONE - NEG BILIRUBIN - NEG UROBILNGN - NEG PH - 6.5 LEUK - NEG
+2013-11-12 11:16 AM BLOOD ASA - NEG Ethanol - NEG Acetmnp - NEG Bnzodzp - NEG Barbitr - NEG Tricycl - NEG
+2013-11-12 10:17 AM URINE bnzodzp - NEG barbitr - NEG opiates - NEG cocaine - NEG amphetm - NEG mthdone - NEG
+CT head without contrast 2013-11-11 :
+FINDINGS :
+There is a large region of high attenuation within the right frontal lobe and the region of the right basal ganglia .
+This is consistent with intraparenchymal hemorrhage , more likely hypertensive in etiology .
+No significant subarachnoid or intraventricular hemorrhage is appreciated .
+There is mass effect present with shift of the normally midline structures towards the left .
+There is also left sided subfalcine herniation .
+There is no hydrocephalus .
+The visualized osseous structures and paranasal sinuses are unremarkable .
+IMPRESSION :
+Large intraparenchymal hemorrhage within the right frontal lobe .
+This most likely relates to hypertensive hemorrhage , as opposed to a ruptured right middle cerebral artery aneurysm .
+Brief Hospital Course :
+Patient was a 75 year old right handed male with past medical history of atrial fibrillation on coumadin , coronary artery disease , hyperlipidemia , dementia with sudden onset left sided weakness , dysarthria .
+Head CT demonstrated a large right intracerebral hemorrhage , centered around basal ganglia and putamen .
+We felt this was likely secondary to hypertension .
+While still in the emergency department , he had rapid decompensation necessitating intubation for airway protection .
+Examination post intubation but off intubations showed clinical evidence of elevated intracranial pressure and brainstem compression .
+The overall prognosis was guarded .
+He was admitted to the Neurology / Neurosurgery ICU .
+He was loaded with Mannitol and Dilantin in the emergency room .
+He was evaluated by the Neurosurgery service and they did not feel a surgical intervention or ventriculary drain was warranted .
+After arrival in the ICU , patient was followed with neuro checks every 1 hour .
+Sedation was held to allow for frequent exams .
+Head of bed was kept at 30 degrees .
+Labetalol continuous infusion was titrated for systolic blood pressure of 130-160 .
+Mannitol and Dilantin were continued .
+After lengthy discussion , the patient 's wife opted to make him DNR on afternoon of 2013-11-11 .
+Overnight , fresh frozen plasma was given for goal INR of < 1.4 .
+On serial exams by neurology and ICU attendings in the morning on 2013-11-12 , patient had no clinical signs of brainstem activity .
+Namely , he was unresponsive .
+Pupils were fixed and dilated .
+No corneal , gag , oculocephalic , and oculovestibular reflexes were elicited .
+He was not overbreathing his ventilator .
+At this point , patient was felt to have clinical signs consistent with brain death .
+Plans were made to proceed with apnea testing .
+However , after discussion with patient 's wife , this was postponed with test planned on 2013-11-13 .
+Full medical care and managment continued overnight 11/9-11/20/2002 .
+At approximately 06:00 on 2013-11-13 , the patient became bradycardic .
+He lapsed first into a junctional rhythm and then had very infrequent ventricular escape beats on telemetry .
+Finally , he went asystolic .
+He was not resuscitated as per previous conversations with his wife .
+Ronald was pronounced dead at 06:59 am .
+The patient 's wife was notified .
+The attending was notified as well .
+Medications on Admission :
+1. Coumadin
+2. Lipitor
+3. Toprol XL
+4. ASA
+5. Zoloft
+6. Glucophage
+7. Aricept
+8. Namenda
+9. Artificial Tears
+Discharge Medications :
+Not applicable .
+Discharge Disposition :
+Extended Care
+Facility :
+Patient deceased .
+Discharge Diagnosis :
+Not applicable; patient deceased .
+Discharge Condition :
+Not applicable .
+Discharge Instructions :
+Not applicable .
+Followup Instructions :
+Not applicable .
+William William MD , PHD 13-279
+Completed by : Barbara Josephine MD 21-547 2013-11-15 @ 1413
+Signed electronically by : DR. Exie Culbreath on : MON 2013-11-18 10:06 AM
+( End of Report )

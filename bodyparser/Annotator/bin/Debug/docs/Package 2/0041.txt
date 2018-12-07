@@ -1,0 +1,119 @@
+Admission Date :
+2012-11-21
+Discharge Date :
+2012-11-28
+Date of Birth :
+1975-05-29
+Sex :
+F
+Service :
+Transplant
+HISTORY OF PRESENT ILLNESS :
+This is a 37-year-old female who presents on an elective basis for a living-related kidney transplant .
+The patient has a history of end-stage renal failure secondary to type 1 diabetes with a baseline creatinine of around 5 .
+She is receiving a kidney from her sister .
+The patient has a history of hypertension , coronary artery disease , and insulin-dependent diabetes for 32 years .
+She is status post myocardial infarction in April of this year and subsequently underwent coronary artery bypass surgery .
+She present electively on the morning of her surgery with no recent changes in her medical problems .
+PAST MEDICAL HISTORY :
+1. Sarcoidosis since 2001 .
+2. She is status post cholecystectomy .
+3. Status post tubal ligation .
+4. Status post left arteriovenous graft placement for hemodialysis .
+5. Insulin-dependent diabetes mellitus times 32 years .
+6. Hypertension .
+7. Coronary artery disease , status post myocardial infarction in 2012-05-06 .
+8. End-stage renal disease , on hemodialysis for 1.5 years .
+ALLERGIES :
+Allergies include AMOXICILLIN and CODEINE .
+MEDICATIONS ON ADMISSION:
+1. Insulin by sliding-scale , NPH insulin 16 units in the morning and 6 units in the evening .
+2. Lipitor 20 mg p.o. q.d.
+3. Zoloft 50 mg p.o. t.i.d.
+4. Reglan 10 mg p.o. t.i.d.
+5. Lopressor 50 mg p.o. b.i.d.
+6. Aspirin 81 mg p.o. q.d.
+7. Multivitamin 1 p.o. q.d.
+8. Remeron p.o. q.d.
+SOCIAL HISTORY :
+She is a half to one pack per day smoker for 10 years who quit approximately one week prior to her admission .
+She denies alcohol use .
+PHYSICAL EXAMINATION ON ADMISSION :
+Physical examination at the time of admission revealed she was in no acute distress .
+Blood pressure was 150/79 , a pulse of 81 .
+She is legally blind .
+She was without any adenopathy .
+Her chest was clear to auscultation .
+Heart had a normal S1 and S2 , with no murmurs , gallops or rubs .
+Her abdomen was soft with well-healed incisions .
+There was no organomegaly .
+Extremities were without edema .
+She had a functioning arteriovenous fistula with a thrill and a bruit in her left arm .
+HOSPITAL COURSE :
+The patient was admitted to the preoperative holding area and taken electively to the operating room .
+She underwent a living-related renal transplant in the right iliac fossa .
+The operation was somewhat technically difficult secondary to a short segment of ureter which was anastomosed over a stent to the bladder .
+Otherwise , there were difficulties , and estimated blood loss was minimal .
+She was taken postoperatively to the recovery room already making a large amount of urine .
+Intraoperatively , for immunosuppression she received thymoglobulin and Solu-Medrol .
+She was started on Prograf and CellCept in the postoperative period .
+She was also maintained on Bactrim postoperatively and did not require ganciclovir , as she and her sister were cytomegalovirus negative .
+The patient 's initial postoperative course was relatively uneventful .
+Her creatinine , which was 5 initially postoperatively , slowly dropped over the next few days until eventually reaching a low of 1 .
+She did receive pamidronate on postoperative day one and received a total of four doses thymoglobulin .
+Her steroid doses were slowly tapered over her hospital course , and her Prograf level was adjusted to maintain therapeutic values between 10 and 15 .
+She continued to make good urine over the first few days and had her urine losses replaced with intravenous fluids .
+On postoperative day three , the patient had an episode of shortness of breath that was evaluated by both the Renal and surgical residents .
+It was found that she was in acute pulmonary edema and required transfer to the Surgical Intensive Care Unit .
+Her blood pressure at the time of this incident was in the range of 200/120 .
+Her electrocardiogram showed no specific ST changes , but there was some loss of her R wave progression laterally .
+Serial enzymes were drawn , and Cardiology was consulted .
+With blood pressure control via a nitroglycerin drip and fluid restriction , the patient quickly improved and a had a relatively short stay in the Intensive Care Unit .
+Throughout this time , her creatinine continued to drop , and there was no apparent deleterious effect on her transplant from this episode .
+Her beta blocker was progressively increased , and her nitroglycerin drip was weaned down .
+Two days after this event , she underwent an echocardiogram which was significant for slightly depressed left ventricular systolic function with severe posterior wall hypokinesis .
+This was a change from her prior echocardiogram and demonstrated evidence of a small myocardial infarction .
+Clinically , she did much better and her blood pressure was optimized prior to discharge .
+She was transferred out of the Intensive Care Unit on postoperative day five and was stable on the floor for the next two days .
+DISCHARGE DISPOSITION :
+She was set to be discharged to home on 11-28 , on postoperative day seven .
+MEDICATIONS ON DISCHARGE:
+1. Prograf 4 mg p.o. b.i.d. ( this may change depending on her most recent Prograf level which will be drawn on the morning of 11-28 ) .
+2. Prednisone 20 mg p.o. q.d.
+3. CellCept 1 mg p.o. b.i.d.
+4. Bactrim 1 single-strength tablet p.o. q.d.
+5. Zantac 150 mg p.o. b.i.d.
+6. NPH insulin 16 units q.a.m. and 6 units q.p.m.
+7. Zoloft 175 mg p.o. q.d.
+8. Colace 100 mg p.o. b.i.d.
+9. Reglan 10 mg p.o. t.i.d.
+10. Percocet one to two tablets p.o. q.4-6h. p.r.n.
+11. Lopressor 125 mg p.o. b.i.d.
+12. Aspirin 81 mg p.o. q.d.
+13. Cardizem-CD 180 mg p.o. q.d.
+DISCHARGE FOLLOWUP :
+Follow-up appointments should be with Dr. Jones and Dr. Yost in the Transplant Clinic .
+Furthermore , she needs a follow-up appointment with Dr. Miller of Cardiology within the next two weeks .
+DISCHARGE STATUS :
+The patient was discharged to home .
+CONDITION AT DISCHARGE :
+Condition was good .
+DISCHARGE DIAGNOSES :
+Status post living-related renal transplant with perioperative small myocardial infarction .
+Christina Kinde , MD
+46-131
+Dictated By:Lillian U Walley , M.D.
+MEDQUIST36
+D :
+2012-11-27
+18:32
+T :
+2012-11-28
+12:49
+JOB# :
+09180
+( cclist )
+Signed electronically by :
+DR. Thomas Rosier on :
+FRI 2012-12-07 3:33 PM
+( End of Report )

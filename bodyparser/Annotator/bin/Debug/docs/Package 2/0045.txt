@@ -1,0 +1,206 @@
+Admission Date :
+2018-12-04
+Discharge Date :
+2018-12-12
+Date of Birth :
+1984-02-13
+Sex :
+F
+Service :
+OBSTETRICS/GYNECOLOGY
+Allergies :
+Ciprofloxacin / Flagyl
+Attending :
+Ana K Warren , M.D.
+Chief Complaint :
+Pelvic organ prolapse
+Major Surgical or Invasive Procedure :
+total vaginal hysterectomy; combined anterior-posterior colporrhaphy with posterior mesh; subpubic urethral sling; sacrospinous colpopexy exploratory laparotomy
+Reexploration of vaginal surgical area pelvic angiography
+History of Present Illness :
+34 yo G3P3 with pelvic organ prolapse after her second delivery; after her third delivery it became much worse .
+She feels like "everything is falling out."
+She urinates frequently , but occasionally the urine is very slow to start .
+She is unable to run without losing urine .
+The prolapse is especailly large and uncomfotable when she tries to move her bowels and it is easier for her to do sowhile standing rather than sitting .
+She has deep pain in intercourse .
+Past Medical History :
+Medical
+Chronic back pain : several discs and spondylolisthesis
+Surgical
+Left salpingo oophorectomy 2002 for torsion; coloposcopy and cryotherapy 2001; appendectomy; T + A
+Ob
+3 FTNDs
+Social History :
+Occasional EtOH
+1ppd tobacco
+Family History :
+Mother had breast cancer
+Physical Exam :
+112 #
+138/94
+Gen :
+NAD
+Heart :
+RRR , no murmurs
+Lungs :
+Clear to percussion and auscultation
+Breast :
+Negative
+Abdomen :
+Negative
+Pelvic
+Ext gen :
+negative
+Support :
+Anterior wall prolapses 3 cm past the hymen with loss of urine on valsalva; cervix 1cm above the hymen; posterior prolapse only to the hymen but 3.4 cm of perineal descent .
+Vagina :
+Negative
+Cervix :
+Negative
+Uterus :
+Anterior , tender on motion
+Adnexa :
+Right not palpable , left absent
+Rectal :
+Neg
+Pertinent Results :
+RADIOLABLED RED CELL STUDY 12-05
+IMPRESSION :
+No evidence of acute bleed in the abdomen or pelvis .
+PELVIC ARTEROGRAM 12-05
+FINDINGS :
+Images demonstrate diffusely small caliber vasculature consistent with shock .
+There is luminal irregularity seen in segments of both the left and right external iliac arteries consistent with spasm .
+Specifically , no extravasation of contrast , obstruction of blood flow , AV fistulization or intimal injury was observed .
+Thus , no embolotherapy was embarked upon .
+IMPRESSION :
+No active bleeding was observed .
+PATHOLOGY uterus , tubes , ovaries 12-04
+1. Uterus and cervix , hysterectomy ( A-E ):
+A. Secretory endometrium .
+B. Cervix with squamous metaplasia .
+C. Unremarkable myometrium .
+D. One intrauterine device , gross description .
+2. Vaginal epithelium ( F ):
+Squamous mucosa and skin with no significant pathologic change .
+2018-12-04 06:37PM BLOOD
+WBC - 20.0* RBC - 3.31* Hgb - 10.2*# Hct - 31.2*
+MCV - 95 MCH - 30.9 MCHC - 32.7 RDW - 13.6 Plt Ct - 297
+2018-12-04 08:48PM BLOOD
+Hct - 19.5*#
+2018-12-05 01:46AM BLOOD
+WBC - 20.0* RBC - 3.96* Hgb - 12.5 Hct - 34.4*#
+MCV - 87# MCH - 31.5 MCHC - 36.4*# RDW - 13.6 Plt Ct - 89*#
+2018-12-05 09:45AM BLOOD
+WBC - 12.7* RBC - 3.17* Hgb - 9.9* Hct - 27.6*
+MCV - 87 MCH - 31.3 MCHC - 35.9* RDW - 14.2 Plt Ct - 104*
+2018-12-06 04:09AM BLOOD
+WBC - 12.1* RBC - 3.73* Hgb - 11.3* Hct - 31.5*
+MCV - 84 MCH - 30.2 MCHC - 35.8* RDW - 15.4 Plt Ct - 91*
+2018-12-07 12:15AM BLOOD
+Hct - 28.7*
+2018-12-08 06:30AM BLOOD
+Hct - 27.9*
+2018-12-10 04:45AM BLOOD
+WBC - 12.6* RBC - 3.53* Hgb - 10.5* Hct - 30.1*
+MCV - 85 MCH - 29.8 MCHC - 35.0 RDW - 14.6 Plt Ct - 308#
+2018-12-04 06:37PM BLOOD
+PT - 13.0 PTT - 26.1 INR ( PT ) - 1.1
+2018-12-05 02:03PM BLOOD
+PT - 13.2* PTT - 24.2 INR ( PT ) - 1.1
+2018-12-06 04:09AM BLOOD
+PT - 11.6 PTT - 23.8 INR ( PT ) - 1.0
+2018-12-04 06:37PM BLOOD
+Glucose - 146* UreaN - 12 Creat - 0.6 Na - 140
+K - 4.1 Cl - 108 HCO3 - 21* AnGap - 15
+2018-12-06 04:09AM BLOOD
+Glucose - 96 UreaN - 5* Creat - 0.4 Na - 139
+K - 3.1* Cl - 108 HCO3 - 26 AnGap - 8
+2018-12-08 09:20PM BLOOD
+UreaN - 4* Creat - 0.3* Na - 140 K - 4.0 Cl - 108
+HCO3 - 27 AnGap - 9
+2018-12-04 06:37PM BLOOD
+Calcium - 7.9* Phos - 4.5 Mg - 1.5*
+2018-12-06 01:03PM BLOOD
+Calcium - 7.3* Phos - 2.3* Mg - 1.7
+2018-12-07 06:30AM BLOOD
+Calcium - 7.5* Mg - 1.6
+2018-12-08 09:20PM BLOOD
+Calcium - 7.5* Phos - 2.7 Mg - 1.9
+2018-12-04 10:53PM BLOOD
+Type - ART pO2 - 229* pCO2 - 44 pH - 7.26* calTCO2 - 21 Base XS - -6 Intubat - INTUBATED Vent - CONTROLLED
+2018-12-05 09:09AM BLOOD
+Type - ART Temp - 37.2 Rates - /12 Tidal V - 560
+PEEP - 5 FiO2 - 50 pO2 - 176* pCO2 - 42 pH - 7.35 calTCO2 - 24 Base XS - -2
+Intubat - INTUBATED Vent - SPONTANEOU
+Brief Hospital Course :
+The patient was taken to the operating room on 2018-12-04 for TVH , sacrospinous fixation , SPARC , anterior and posterior repair with mesh , cystoscopy; for pelvic organ prolapse .
+There were no intraoperative complications and the surgical field was hemostatic at the conclusion of the case ( see operative report for full description ) .
+The patient tolerated the procedure well and was stable in the PACU and admitted to the CMED CCU floor for routine care .
+At 1645 12-04 , the patient was noted to be hypotensive to 70/40
+HR 84 with symptoms of lightheadedness while lying supine .
+There was no active bleeding noted at the surgical site on examination .
+A STAT HCT drawn at this time was 31.2 .
+The patient was re-evalutated at 2000 and was found to be tacchycardic to 115 with BP 104/50 using a manual cuff .
+Urine output during the prior two hours had been 50cc and 24cc .
+A STAT HCT drawn at this time was 19.5 .
+The clinical picture was concerning for a post-operative hematoma .
+The ICU was alerted to the patient 's disposition and the operating room was activated for urgent re-exploration .
+The patient was taken to the OR on POD#0 for re-exploration with incision at 2243 .
+Exploratory laparotomy revealed hemoperitonium and approximately 1 L of blood was evacuated .
+There was approximately 500cc of retroperitoneal clot .
+Despite laparotomy and re-exploration through the vaginal cuff , no source for the bleeding could be found .
+At the conclusion of the case , the patient continued to bleed , allbeit at a less brisk pace .
+The endotracheal tube was left in place .
+Intraoperatively , the patient recieved 5u PRBC .
+IR was consulted to identify the bleeding vessel with angiography , then perform embolization .
+Tagged cell and angiographic studies performed immediately after re-exploration on 12-05 did not indetify active bleeding and no emobolization was indicated .
+THe patient was stable and remained intubated .
+The patient was admitted to the ICU for further care .
+The patient 's ICU course was uneventful .
+There was no evidence of continued bleeding and her HCT remained stable around 30 .
+The pt self-extubated on POD #1 .
+The patient developed a low grade fever to 100.1 on POD#1 which persisted to POD#2 and imperic treatment with gent/clinda was started .
+The patient was stable for transfer to the CMED floor on POD#3 .
+Antibiotics were discontinued on POD#8 and pt remained afebrile thereafter .
+On POD#9 , the patient was afebrile , tolerating a regular diet , ambultating without difficulty and voiding spontaneously .
+She was discharged home with follow-up in two weeks .
+Medications on Admission :
+Zoloft 100mg QD
+Ritalin 0.5mg BID
+Loraze3pam 0.5mg BID
+Percocet 5/325 QHS
+Allergies :
+Cipro , Flagyl
+Discharge Medications :
+1. Ibuprofen 600 mg Tablet Sig : One ( 1 ) Tablet PO Q6H ( every 6 hours ) as needed .
+Disp : *60 Tablets*
+Refills : *1*
+2. Oxycodone-Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+Disp : *60 Tablet( s )*
+Refills : *0*
+3. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Disp : *60 Capsule( s )*
+Refills : *2*
+Continue home meds .
+Discharge Disposition :
+Home
+Discharge Diagnosis :
+pelvic organ prolapse stress urinary incontinence retroperitoneal bleed hemoperitoneum
+Discharge Condition :
+stable
+Discharge Instructions :
+No heavy lifting for 6 weeks
+No abdominal exercises for 6 weeks
+Nothing in the vagina for 6 weeks
+Keep stools soft
+Followup Instructions :
+Please call Dr. Lewis office for an appointment in 2 weeks .
+Adam Saundra MD 46-863
+Completed by :
+Michael KNIGHT MD 21-317 2018-12-16 @ 1245
+Signed electronically by :
+DR. Wanda Detz on :
+TUE 2018-12-18 8:13 AM
+( End of Report )

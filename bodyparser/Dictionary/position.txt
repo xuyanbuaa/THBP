@@ -1,0 +1,22 @@
+apex
+border
+midline
+diagonal
+left	l	lle	lue
+right	r	rle	rue
+mid	middle	central
+distal
+proximal
+bilateral	bilaterally	ble	bue	both	bilat
+lateral	laterally
+high
+low
+upper
+lower
+anterior	front	frontal
+posterior
+inner	intra	internal	medial	medially
+extra	external
+inferior
+distal
+proximal

@@ -1,0 +1,7 @@
+c="eval" 33:0 33:0||t="test"
+c="overwhelming" 44:5 44:5||t="problem"
+c="symptoms" 44:1 44:1||t="problem"
+c="risperdal" 42:2 42:2||t="treatment"
+c="ptsd" 38:0 38:0||t="problem"
+c=".5 risperdal" 40:0 40:1||t="treatment"
+c="b and w" 43:0 43:2||t="treatment"

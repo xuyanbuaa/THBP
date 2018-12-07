@@ -1,0 +1,12 @@
+1	january	jan	jan.
+2	february	feb	feb.
+3	march	mar	mar.
+4	april	apr	apr.
+5	may	may.
+6	june	june.	jun	jun.
+7	july	jul	jul.
+8	august	aug	aug.
+9	september	sep	sep.	sept	sept.
+10	october	oct	oct.
+11	november	nov	nov.
+12	december	dec	dec.

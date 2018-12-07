@@ -1,0 +1,4 @@
+c="pneumonia" 23:17 23:17||t="problem"
+c="treatment" 22:3 22:3||t="treatment"
+c="evaluation" 22:1 22:1||t="test"
+c="wheezes" 21:8 21:8||t="problem"

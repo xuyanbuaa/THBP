@@ -1,0 +1,4 @@
+c="evaluation" 22:1 22:1||t="test"
+c="found down" 21:8 21:9||t="problem"
+c="treatment" 22:3 22:3||t="treatment"
+c="syncope" 23:17 23:17||t="problem"

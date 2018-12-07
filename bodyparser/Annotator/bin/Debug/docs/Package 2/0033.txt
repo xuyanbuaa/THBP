@@ -1,0 +1,139 @@
+Admission Date :
+2019-06-25
+Discharge Date :
+2019-07-01
+Date of Birth :
+1950-04-19
+Sex :
+M
+Service :
+CARDIOTHORACIC
+Allergies :
+Penicillins / Norvasc / Verapamil
+Attending : Christopher Q Thompson , M.D.
+Chief Complaint :
+preop w/ for knee surgery revealed cardiac dz , asymptomatic
+Major Surgical or Invasive Procedure :
+CABGx4 ( 06-26 )
+History of Present Illness :
+69yoM with OA having workup for knee replacements found to be in Afib , had stress test that was positive followed by cardiac catheterization which revealed severe 3VD .
+Then referred for CABG
+Past Medical History :
+HTN
+chol
+AFib
+OA needs bilat arthroplasty
+CRI
+Social History :
+Lives with wife .
+Remote Timothy , quit 1990 . + ETOH ( 1-2 drinks / Rivero )
+Family History :
+Brother died 64 / MI
+Physical Exam :
+Admission
+VS T 98  HR 74  BP 136/88  RR 18
+Gen NAD
+Neuro A&Ox3 , nonfocal
+Chest CTA bilat
+CV irreg-irreg , no M/R
+Abdn soft , NT/ND/+BS
+Ext warm no edema
+Discharge
+T99.9  HR 70AF  BP 120/69  RR 20 O2sat 94%RA
+Neuro A&Ox3 MAE , non focal exam
+Pulm CTAB
+CV irreg irreg , sternum stable incision CDI
+Abdm soft , NT/ND/+BS
+Ext warm 2+ edema
+Pertinent Results :
+2019-06-25 04:10 PM
+GLUCOSE - 97 UREA N - 44 * CREAT - 2.0 * SODIUM - 143 POTASSIUM - 4.1 CHLORIDE - 107 TOTAL CO2 - 27 ANION GAP - 13
+2019-06-25 04:10 PM
+ALT(SGPT) - 19 AST(SGOT) - 19 LD(LDH) - 153 ALK PHOS - 58 TOT BILI - 0.4
+2019-06-25 04:10 PM
+ALBUMIN - 4.3
+2019-06-25 04:10 PM
+%HbA1c - 5.7
+2019-06-25 04:10 PM
+TSH - 1.2
+2019-06-25 04:10 PM
+WBC - 7.0 RBC - 3.92 * HGB - 12.6 * HCT - 36.4 * MCV - 93 MCH - 32.1 * MCHC - 34.6 RDW - 13.6
+2019-06-25 04:10 PM
+PLT COUNT - 207
+2019-06-25 04:10 PM
+PT - 11.8 PTT - 22.4 INR(PT) - 1.0
+2019-07-01 07:30 AM BLOOD WBC - 8.7 RBC - 3.18 * Hgb - 10.4 * Hct - 30.4 * MCV - 96 MCH - 32.7 * MCHC - 34.3 RDW - 13.5 Plt Ct - 303
+2019-07-01 07:30 AM BLOOD Plt Ct - 303
+2019-07-01 07:30 AM BLOOD PT - 14.4 * PTT - 24.2 INR(PT)- 1.3 *
+2019-06-30 06:45 AM BLOOD Glucose - 99 UreaN - 40 * Creat - 1.9 * Na - 137 K - 4.1 Cl - 99 HCO3 - 28 AnGap - 14
+CHEST ( PORTABLE A P)
+2019-06-30 11:26 AM
+CHEST ( PORTABLE AP )
+Reason : Effusion ? Pntx ?
+UNDERLYING MEDICAL CONDITION :
+69 year old man with s/p Off Pump CABG
+REASON FOR THIS EXAMINATION :
+Effusion ? Pntx ?
+PORTABLE CHEST ON 2019-06-30 AT 11:39
+INDICATION : CABG with chest tube in place .
+COMPARISON : 2019-06-29 .
+FINDINGS : Left chest tube remains in place with some density adjacent to the tip , but there is no significant interval change vs . prior .
+Specifically , there is no pneumothorax and no interval development of effusion .
+Cardiac silhouette and mediastinal contours are stable .
+IMPRESSION : No change vs . prior .
+DR. James A Roberts
+Brief Hospital Course :
+69 yo M with known Atrial fibrillation and coronary artery disease admitted preop for transition fro Coumadin to Heparin .
+Brought to the OR on 06-26 for CABG , please see OR report for details .
+In summary pt had off pump CABGx4 with LIMA-LAD , SVG OM-Y graft - Diag , SVG-PDA .
+Pt tolerated surgery well and was transferred to CT CMED ICU .
+He did well in immediate post-op period was extubated and on POD1 he was transferred to the step down floor .
+On POD2 his chest tubes and epicardial pacing wires were removed and his Coumadin was restarted .
+Over the next several days his activity was advanced on POD5 it was decided he was stable and ready to be discharged home with visiting nurses .
+Medications on Admission :
+Atenolol 200 '
+HCTZ 25 '
+Lisinopril 20 '
+Ultram 50 '
+Prilosec 20 '
+Zocor 40 '
+Levitra / prn
+Warfarin 4 '
+Discharge Medications :
+1. Metoprolol Tartrate 25 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a Ellis ).
+Disp :* 60 Tablet (s)* Refills :* 2 *
+2. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO once a Leukhardt for 2 weeks .
+Disp :* 14 Tablet (s)* Refills :* 0 *
+3. Potassium Chloride 10 mEq Tablet Sustained Release Sig : Two ( 2 ) Tablet Sustained Release PO once a Sine for 2 weeks .
+Disp :* 28 Tablet Sustained Release (s)* Refills :* 0 *
+4. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a Costa ).
+Disp :* 60 Capsule (s)* Refills :* 2 *
+5. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ).
+Disp :* 30 Tablet , Delayed Release ( E.C. )(s)* Refills :* 2 *
+6. Warfarin 2 mg Tablet Sig : Two ( 2 ) Tablet PO once a Avrett : target INR 1.5-2 .
+Disp :* 60 Tablet (s)* Refills :* 2 *
+7. Oxycodone - Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO every 4-6 hours as needed for pain .
+Disp :* 50 Tablet (s)* Refills :* 0 *
+8. Simvastatin 40 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ).
+Disp :* 30 Tablet (s)* Refills :* 2 *
+9. Prilosec 20 mg Capsule , Delayed Release ( E.C. ) Sig : One ( 1 ) Capsule , Delayed Release ( E.C. ) PO once a Gray .
+10. Ultram 50 mg Tablet Sig : One ( 1 ) Tablet PO Q6 hrs / PRN .
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+s/p off pump CABGx4 LIMA-LAD ,Y SVG-OM-Diag, SVG-PDA ( 06-26 ) PMH : HTN , chol , AF , OA , CRI , s/p bilat knee surgery
+Discharge Condition :
+good
+Discharge Instructions :
+Keep wounds clean and dry .
+OK to shower , no bathing or swimming .
+Take all medications as prescribed
+Call for any fever , redness or drainage from wounds .
+Followup Instructions :
+Wound clinic in 2 weeks
+Dr Anderson in 2-3 weeks
+Dr Brown in 4 weeks
+Ada Jordan MD 62-102
+Completed by : MARK Eugene NP 80-AUO 2019-07-01 @ 1417
+Signed electronically by : DR. Elizabeth P. Fernandez on : TUE 2019-07-30 8:03 AM
+( End of Report )

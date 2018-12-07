@@ -1,0 +1,148 @@
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\Annotator.exe
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\CRFTimeExtraction.exe
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\TimeExtractor.exe
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\OpenNLP.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\stanford-parser.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\OldDataStorer.exe
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\SharpEntropy.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\SharpWordNet.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.Runtime.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.Runtime.JNI.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.AWT.WinForms.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\Annotator.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\CRFTimeExtraction.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\TimeExtractor.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\OpenNLP.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\OpenNLP.xml
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\OldDataStorer.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\SharpEntropy.pdb
+E:\research\TimeParser\WindowsFormsApplication2\bin\Debug\SharpWordNet.pdb
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\research\TimeParser\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\research\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\research\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\research\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.exe
+E:\research\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.pdb
+E:\research\TimeParser\DIC\bin\Debug\Annotator.exe
+E:\research\TimeParser\DIC\bin\Debug\CRFTimeExtraction.exe
+E:\research\TimeParser\DIC\bin\Debug\TimeExtractor.exe
+E:\research\TimeParser\DIC\bin\Debug\OpenNLP.dll
+E:\research\TimeParser\DIC\bin\Debug\stanford-parser.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\research\TimeParser\DIC\bin\Debug\OldDataStorer.exe
+E:\research\TimeParser\DIC\bin\Debug\SharpEntropy.dll
+E:\research\TimeParser\DIC\bin\Debug\SharpWordNet.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.Runtime.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.Runtime.JNI.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.AWT.WinForms.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\research\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\research\TimeParser\DIC\bin\Debug\Annotator.pdb
+E:\research\TimeParser\DIC\bin\Debug\CRFTimeExtraction.pdb
+E:\research\TimeParser\DIC\bin\Debug\TimeExtractor.pdb
+E:\research\TimeParser\DIC\bin\Debug\OpenNLP.pdb
+E:\research\TimeParser\DIC\bin\Debug\OpenNLP.xml
+E:\research\TimeParser\DIC\bin\Debug\OldDataStorer.pdb
+E:\research\TimeParser\DIC\bin\Debug\SharpEntropy.pdb
+E:\research\TimeParser\DIC\bin\Debug\SharpWordNet.pdb
+E:\research\TimeParser\DIC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\research\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\research\TimeParser\DIC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\research\TimeParser\DIC\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.exe
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\Annotator.exe
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\CRFTimeExtraction.exe
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\TimeExtractor.exe
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\OpenNLP.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\OldDataStorer.exe
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\stanford-parser.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Core.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\SharpEntropy.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\SharpWordNet.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.Runtime.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Text.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Util.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Security.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.Runtime.JNI.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Media.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.AWT.WinForms.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Beans.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Naming.dll
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\Annotator.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\CRFTimeExtraction.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\TimeExtractor.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\OpenNLP.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\OpenNLP.xml
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\OldDataStorer.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\SharpEntropy.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\bin\Debug\SharpWordNet.pdb
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.exe
+H:\research\anatomical recognizer\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.exe
+E:\research\normalization\TimeParser\DIC\bin\Debug\WindowsFormsApplication2.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\Annotator.exe
+E:\research\normalization\TimeParser\DIC\bin\Debug\CRFTimeExtraction.exe
+E:\research\normalization\TimeParser\DIC\bin\Debug\TimeExtractor.exe
+E:\research\normalization\TimeParser\DIC\bin\Debug\OpenNLP.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\OldDataStorer.exe
+E:\research\normalization\TimeParser\DIC\bin\Debug\stanford-parser.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\SharpEntropy.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\SharpWordNet.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.Runtime.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.Runtime.JNI.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.AWT.WinForms.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\research\normalization\TimeParser\DIC\bin\Debug\Annotator.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\CRFTimeExtraction.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\TimeExtractor.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\OpenNLP.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\OpenNLP.xml
+E:\research\normalization\TimeParser\DIC\bin\Debug\OldDataStorer.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\SharpEntropy.pdb
+E:\research\normalization\TimeParser\DIC\bin\Debug\SharpWordNet.pdb
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\research\normalization\TimeParser\DIC\obj\x86\Debug\WindowsFormsApplication2.pdb

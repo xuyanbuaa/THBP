@@ -1,0 +1,189 @@
+Admission Date :
+2016-03-31
+Discharge Date :
+2016-04-01
+Date of Birth :
+1965-10-09
+Sex :
+M
+Service :
+MEDICINE
+Allergies :
+Vicodin
+Attending : Richard S. Humphries , M.D.
+Chief Complaint : chest pain
+Major Surgical or Invasive Procedure :
+Cardiac Catheterization
+History of Present Illness :
+50 yo male , h/o CAD s/p stent to LAD in 2011 , Hypercholesterolemia , DM , cocaine abuse , presenting with chest pain .
+He states he had onset of this pain today ; described as anterior chest pain with radiation to right shoulder , 09-26 , was increasing over the course of 45 minutes to 1 hour ( occurred after arrested ).
+He states that he also felt SOB and diaphoretic but denies n/v/palpitations .
+He reports that the pain was increasing in intensity .
+He was brought to Providence Behavioral Health Hospital where he was found to have positive urine cocaine , EKG with new 2-7392 W. Second Cr. elevations in the anterior leads ( v2-5 ) and some ST depressions in II , III , AvF .
+He was given lopressor 5 mg x 2 ( 3rd dose given by medflight , 5 mg morphine , ativan , nitro gtt , heparin , and integrillin .
+Pain was 12-28 at time of transfer .
+In the cath lab , he was found to have hazy plaque in LAD ( prior stent ) , 80% hazy plaque in circumflex , and a totally occluded PLB ( with collaterals ) .
+1 cypher stent was place in the LAD while 2 were placed in Lcx .
+Right system was not intervened upon , for the PLB was unable to be crossed by wire .
+He was transferred to the CCU for observation .
+Past Medical History :
+1. CAD , s/p MI in 2011 with stenting of LAD
+2. Hypercholesterolemia
+3. DM
+Social History :
+Lives with friend
+History of cocaine use , most recent use day of admission
+Etoh use , 01-21 drinks / day , most recently on day of admission
+Former smoker , quit 4 yrs ago , 30 pack year history
+Arrested on day of admission for soliciting prostitute ( undercover police officer ) , currently in police custody
+Family History :
+No CAD in 1st degree relatives .
+Robert sudden death
+Physical Exam :
+VS : 94.1 130/81 71 21 99% 4L NC
+Gen : somnolent , pleasant male , lying in bed
+HEENT : PERRL , some dried blood on lips , tongue
+Neck : no LAD , ? enlarged parotid glands bilaterally
+CV : RRR , nl s1/s2 , with S4 , no m/r
+Lungs : CTA bilaterally , no w/r/r
+Abdomen : protuberant , nt/nd , nabs
+Right groin : with sheath in place
+Extr : DP/PT 2+ bilaterally , no c/c/e
+Pertinent Results :
+Catheterization on 2016-03-31 :
+HEMODYNAMICS RESULTS BODY SURFACE AREA :
+1.87 m2
+HEMOGLOBIN :
+14 gms %
+FICK
+** PRESSURES
+RIGHT ATRIUM { a/v/m } 18/17/13
+RIGHT VENTRICLE { s/Ruben } 45/18
+PULMONARY ARTERY { s/d/m } 45/22
+PULMONARY WEDGE { a/v/m } 21/22/20
+AORTA { s/d/m } 97/66/81
+** CARDIAC OUTPUT
+HEART RATE { beats/min } 88
+RHYTHM SINUS
+O2 CONS. IND { ml/min/m2 } 125
+A-V O2 DIFFERENCE { ml/ltr } 32
+CARD. OP/IND FICK { l/mn/m2 } 7.3/3.9
+** RESISTANCES
+SYSTEMIC VASC. RESISTANCE 745
+**% SATURATION DATA ( NL )
+SVC LOW 81
+PA MAIN 81
+AO 98
+OTHER HEMODYNAMIC DATA :
+The oxygen consumption was assumed .
+** ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+** RIGHT CORONARY
+1) PROXIMAL RCA : NORMAL
+2) MID RCA : NORMAL
+2A) ACUTE MARGINAL : NORMAL
+3) DISTAL RCA : NORMAL
+4) R-PDA : NORMAL
+4A) R-POST-LAT : DISCRETE 100
+4B) R-LV : NORMAL
+** ARTERIOGRAPHY RESULTS MORPHOLOGY % STENOSIS COLLAT. FROM
+** LEFT CORONARY
+5) LEFT MAIN : NORMAL
+6) PROXIMAL LAD : ULCERATED
+6A) SEPTAL-1 : NORMAL
+7) MID-LAD : NORMAL
+8) DISTAL LAD : NORMAL
+9) DIAGONAL-1 : NORMAL
+10) DIAGONAL-2 : NORMAL
+12) PROXIMAL CX : DISCRETE 80
+13) MID CX : NORMAL
+13A) DISTAL CX :NORMAL
+14) OBTUSE MARGINAL - 1 : NORMAL
+15) OBTUSE MARGINAL - 2 : NORMAL
+16) OBTUSE MARGINAL - 3 : NORMAL
+Proximal LAD with hazy ulceration , proximal circumflex with 80% hazy , totally occluded PLB with collaterals
+1 cypher stent placed in LAD , 2 cypher stents placed in Left
+Circ
+Echo :
+2016-03-31 :
+" Conclusions :
+1. The left ventricular cavity is moderately dilated .
+There is severe global left ventricular hypokinesis to akinesis with some sparing of basal wall motion .
+Overall left ventricular systolic function is severely depressed .
+2. The mitral valve leaflets are mildly thickened .
+Trivial mitral regurgitation is seen ."
+2016-03-31 10:40 PM
+GLUCOSE - 180 * UREA N - 10 CREAT - 0.8 SODIUM - 142 POTASSIUM - 3.7 CHLORIDE - 104 TOTAL CO2 - 30 * ANION GAP - 12
+2016-03-31 10:40 PM
+CK ( CPK )- 137
+2016-03-31 10:40 PM
+CK-MB - 4 cTropnT -< 0.01
+2016-03-31 10:40 PM
+CALCIUM - 8.6 PHOSPHATE - 3.4 MAGNESIUM - 1.7
+2016-03-31 10:40 PM
+WBC - 9.1 RBC - 4.08 * HGB - 12.7 * HCT - 35.7 * MCV - 88 MCH - 31.0 MCHC - 35.4 * RDW - 12.7
+2016-03-31 10:40 PM
+PLT COUNT - 253
+Brief Hospital Course :
+1. CAD : presented with anginal symptoms and EKG changes ( STEMI ) , with cardiac catheterization revealing lesions in LAD , LcX , and PLB .
+Unclear if hazy lesions significant or if this was cocaine induced vasospasm .
+LAD and LCX were stented , but PLB could not be crossed by guidewire ( were collaterals ) .
+- continue ASA , statin , Plavix ; will hold BB given recent cocaine use ( ? can consider labetalol if necessary ) , Integrillin for 18 hours
+- CK negative .
+TN WNL .
+- post cath check normal
+2. CHF : EF 25% on Echo , states he takes lasix at home
+- Started lisinopril .
+- Consider repeat Echo in 1 month and Quincy Medical Center - V/ICD per discretion of primary cardiologist .
+- kept euvolemic and monitored for signs of overload
+- Low Na diet with 1 liter fluid restriction
+- may need to diurese based on clinical status , swan numbers
+3. Rhythm : No ectopy post cath/MI
+4. DM : on metformin at home , will hold given cath / dye adn cover with SSI
+5. Cocaine use : last use this morning , no BB given this ; considered using CCB / phentolamine if chest pain recurs .
+-- Will discuss beta-blocker risks and benefits with primary cardiologist
+-- Pt advised of medical risks of using cocaine
+6. EtOH use : unclear how much , monitor on CIWA for signs of withdrawal , ativan prn
+-- CIWAs were 0 throughout admission
+7. Hyperlipidemia : on lipitor 80 .
+LDL 79 , HDL 51
+8. Social : in police custody , with 24 hr guard , handcuffed to bed
+9. FEN : cardiac diet , watch for aspiration given somnolent status at this time , ck and replete Mg/K/Ca aggressively
+10. Code : FULL
+11. Dispo : back to prison; ? extradition to Hawaii
+Medications on Admission :
+Lipitor 80
+Coreg
+ASA 81 mg
+Lasix
+Glucophage
+ALL : Vicodin -? rash
+Discharge Medications :
+1. Please continue your previous diabetes medications
+2. Aspirin 325 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) .
+3. Clopidogrel Bisulfate 75 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+4. Multivitamin Capsule Sig : One ( 1 ) Cap PO DAILY ( Daily ) .
+5. Pantoprazole Sodium 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q24H ( every 24 hours ) .
+6. Atorvastatin Calcium 80 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+7. Lisinopril 5 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+Discharge Disposition :
+Extended Care
+Facility :
+Oak BluffsCorrectional Facility
+Discharge Diagnosis :
+Cocaine Abuse
+ST Elevation Myocardial Infarction
+Discharge Condition :
+stable
+Discharge Instructions :
+Please notify nurses , doctors Marilyn Kristen Layne workers of chest pain , shortness of breath , palpitations or lightheadedness .
+Cocaine use has been associated with an increased risk of heart attacks , stroke and death .
+You must continue to take plavix .
+Please discuss the use of beta-blockers with your cardiologist .
+Beta-blockers should not be used while using cocaine .
+Followup Instructions :
+Please follow-up with your cardiologist within 2 weeks of leaving the hospital .
+Please follow-up with your primary doctor within 2 weeks of leaving the hospital .
+Robert Melissa MD 41-790
+Completed by : William Bennett MD 47-894 2016-04-01 @ 1501
+Signed electronically by : DR. Evelyn Paulk on : Flora 2016-06-16 2:06 PM
+( End of Report )

@@ -1,0 +1,6 @@
+1	today
+2	yesterday
+3	tomorrow
+4	now
+5	recently
+6	currently

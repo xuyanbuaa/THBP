@@ -1,0 +1,128 @@
+Admission Date :
+2018-08-04
+Discharge Date :
+2018-08-16
+Date of Birth :
+1986-03-06
+Sex :
+M
+Service :
+SURGERY
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending : William I. Sundquist , M.D.
+Chief Complaint :
+Abdominal pain
+Major Surgical or Invasive Procedure : pheresis renal biopsy
+History of Present Illness :
+This is a 32 year old male who was recently discharged from Mediplex Rehab Hospital and presents again to us with chief complaint of abdominal pain ( sudden onset left-sided abdominal pain ).
+Of note , he had a recent kidney biopsy on 2018-07-30 and his Cr bumped from 4.7 to 5.7 .
+Also , HCT on admission 21 from 25 .
+Past Medical History :
+ESRD on HD ( M,W,F ) ( 03-30 glomerulonephritis )
+HTN
+Hypercholesterolemia
+PSH :
+AVF - R radial - cephalic
+AVF - L aneurysm resection
+Tunneled L subclavian catheter
+Social History : denies tobacco , ETOH , drugs
+Family History : sister who is 26 also has ESRD on HD ( ? etiology )
+Physical Exam :
+VS : Afebrile , HR : 70-80 , 99/70
+Lungs : CTA bilaterally
+CV : RRR
+Abd : Non-distended , tender to palpation LLQ
+Pertinent Results :
+ADMISSION LABS --> 2018-08-04
+WBC - 6.8 RBC - 2.50 * Hgb - 6.8 * Hct - 21.2 * MCV - 85 MCH - 27.2 MCHC - 32.1 RDW - 18.0 * Plt Ct - 149 * PT - 11.9 PTT - 31.1 INR ( PT ) - 1.0 Fibrinogen - 148 * Glucose - 144 * UreaN - 52 * Creat - 5.7 * Na - 138 K - 4.1 Cl - 107 HCO3 - 17 * AnGap - 18
+2018-08-04 06:09 PM BLOOD Calcium - 8.3 * Phos - 5.0 * Mg - 2.2
+Discharge Labs :
+2018-08-16
+WBC - 5.7 RBC - 3.10 * Hgb - 8.9 * Hct - 26.2 * MCV - 85 MCH - 28.7 MCHC - 33.9 RDW - 15.4 Plt Ct - 186 PT - 11.5 PTT - 25.6 INR ( PT )- 1.0 Fibrinogen - 443 * Glucose - 104 UreaN - 60 * Creat - 4.8 * Na - 139 K - 4.3 Cl - 105 HCO3 - 26 AnGap - 12 Calcium - 8.8 Phos - 5.0 * Mg - 2.2
+DISCHARGE LABS --->
+2018-08-16 05:47 AM
+BLOOD WBC - 5.7 RBC - 3.10 * Hgb - 8.9 * Hct - 26.2 * MCV - 85 MCH - 28.7 MCHC - 33.9 RDW - 15.4 Plt Ct - 186
+2018-08-16 05:47 AM
+BLOOD Plt Ct - 186
+2018-08-16 05:47 AM
+BLOOD PT - 11.5 PTT - 25.6 INR ( PT )- 1.0
+2018-08-16 05:47 AM
+BLOOD Fibrino - 443 *
+2018-08-16 05:47 AM
+BLOOD Glucose - 104 UreaN - 60 * Creat - 4.8 * Na - 139 K - 4.3 Cl - 105 HCO3 - 26 AnGap - 12
+2018-08-16 05:47 AM
+BLOOD Calcium - 8.8 Phos - 5.0 * Mg - 2.2
+Brief Hospital Course :
+This patient was admitted on 08-04 after a recent discharge from the hospital for sudden onset of left sided abdominal pain .
+In the emergency room , his ultrasound showed mild hydronephrosis with new perinephric fluid surrounding the transplant kidney and hence , underwent a CT scan of his abdomen / pelvis which showed a large left-sided of retroperitoneal hemorrhage extending down to the level of the renal transplant possibly related to recent transplant biopsy .
+Renal transplant medicine and transplant surgery were made aware and the pt was admitted to transplant
+CMED and to the ICU .
+Serial hematocrits and abdominal exams were performed .
+He was not taken to the OR .
+On 08-06 , he received 2 units of pRBC and underwent plasmaphersis , followed by 10mg of IVIG .
+He received another unit pRBC on 08-07 .
+By 08-07 , it was thought there was improvement of his labs .
+In the am of 6/13 , he was given 1 unit pRBC for a Hct of 21.8 .
+His Hct was stable on 08-09 at 24.4 ; he had plasmapheresis on 08-09 ( followed by 10 mg IVIG ).
+He was transfered to the floor on 08-09 .
+On 08-10 , his am Hct was 21.9 , hence , he received 1 unit pRBC .
+On 08-10 class I and II antibody levels were sent .
+He had plasmapheresis on 08-11 , followed by 10 mg IVIG .
+This was repeated on 08-13 .
+Hct remained stable .
+On 08-15 , he went for pheresis / IVIG .
+No new issues .
+LLQ pain has improved over the course of this hospitalization .
+He is eating and ambulating w/o difficulties .
+Pheresis to continue as an outpatient with supervision of transplant nephrology on 08-17 , 08-20 and 08-22 .
+Prograf was increased to 12 mg bid on 08-16 for a trough level of 7.1 .
+He was instructed to have labs drawn on 08-17 to check trough level of prograf as well as cbc , chem 10 , coags .
+Medications on Admission :
+Bactrim , Valcyte , MMF , Prednisone , FK , Nifedipine , Protonix
+Discharge Medications :
+1. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Disp :* 60 Capsule ( s )* Refills :* 2 *
+2. Mycophenolate Mofetil 500 mg Tablet Sig : Three ( 3 ) Tablet PO BID ( 2 times a day ) .
+3. Valganciclovir 450 mg Tablet Sig : One ( 1 ) Tablet PO Q48H ( every 48 hours ) .
+4. Trimethoprim - Sulfamethoxazole 80-400 mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) .
+5. Nifedipine 60 mg Tablet Sustained Release Sig : One ( 1 ) Tablet Sustained Release PO BID ( 2 times a day ) .
+Disp :* 60 Tablet Sustained Release ( s )* Refills :* 2 *
+6. Labetalol 200 mg Tablet Sig : Four ( 4 ) Tablet PO TID ( 3 times a day ) .
+Disp :* 360 Tablet ( s )* Refills :* 2 *
+7. Senna 8.6 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) .
+Disp :* 60 Tablet ( s )* Refills :* 2 *
+8. Oxycodone - Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO Q4-6H ( every 4 to 6 hours ) as needed .
+Disp :* 30 Tablet ( s )* Refills :* 0 *
+9. Sevelamer 800 mg Tablet Sig : One ( 1 ) Tablet PO TID ( 3 times a day ) .
+10. Pantoprazole 40 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO Q12H ( every 12 hours ) .
+11. Minoxidil 10 mg Tablet Sig : 0.5 Tablet PO DAILY ( Daily ) .
+Disp :* 30 Tablet ( s )* Refills :* 2 *
+12. Nystatin 100,000 unit / mL Suspension Sig : Five ( 5 ) ML PO QID ( 4 times a day ) .
+13. Prednisone 5 mg Tablet Sig : Three ( 3 ) Tablet PO DAILY ( Daily ) .
+14. Epogen 40,000 unit / mL Solution Sig : One ( 1 ) ml Injection once a week .
+Disp :* 8 * Refills :* 2 *
+15. syringes for epogen q week
+1 box
+refill : none
+16. Tacrolimus 5 mg Capsule Sig : Two ( 2 ) Capsule PO Q12H ( every 12 hours ) .
+17. Tacrolimus 1 mg Capsule Sig : Two ( 2 ) Capsule PO twice a day .
+18. Outpatient Lab Work
+Friday 08-17 and Monday 08-20 cbc , chem10 , pt/ptt/inr and trough prograf level .
+Discharge Disposition :
+Home
+Discharge Diagnosis : humoral rejection of renal transplant perinephric transplant hemorrhage
+Discharge Condition : good
+Discharge Instructions :
+Please call transplant office ( 789 ) 583 5023 if fevers , chills , nausea / vomiting , bleeding , decreased urine output , weight gain of 3 pounds in a day , abdominal pain or shortness of breath
+Pheresis Friday 08-17 then Monday 08-20
+Labwork every Monday and Thursday per Transplant clinic : CBC , Chem 7 , Ca , Phos , AST , T Bili , U/A and Trough Prograf level .
+Fax results to 326-955-2529
+Followup Instructions :
+PHERESIS , BED FIVE PHERESIS ROOMS Date / Time : 2018-08-17 9:15
+PHERESIS , BED SIX PHERESIS ROOMS Date / Time : 2018-08-20 2:00
+Vanessa John , MD Phone :( 789 ) 583 5023 Date / Time : 2018-08-21 9:50
+Michael Douglas MD 87-106
+Completed by : Edwin Marilyn MD 50-613 2018-08-16 @ 1456
+Signed electronically by : DR. Brian B. B. Chatterjee on : MON 2018-09-10 1:21 PM
+( End of Report )

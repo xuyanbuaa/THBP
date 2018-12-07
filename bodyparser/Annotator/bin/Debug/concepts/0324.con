@@ -1,0 +1,4 @@
+c="ventricular fibrillation" 19:0 19:1||t="problem"
+c="no response" 20:10 20:11||t="problem"
+c="cardioversion" 17:0 17:0||t="treatment"
+c="all pads" 19:3 19:4||t="treatment"

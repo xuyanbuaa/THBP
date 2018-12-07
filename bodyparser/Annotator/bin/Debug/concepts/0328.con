@@ -1,0 +1,5 @@
+c="cardiopulmonary arrest" 18:0 18:1||t="problem"
+c="a triple lumen catheter" 21:0 21:3||t="treatment"
+c="catheter" 22:0 22:0||t="treatment"
+c="iv access" 18:3 18:4||t="treatment"
+c="central line placement" 16:0 16:2||t="treatment"

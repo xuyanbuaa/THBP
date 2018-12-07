@@ -1,0 +1,169 @@
+Admission Date :
+2014-04-21
+Discharge Date :
+2014-04-24
+Date of Birth :
+1960-10-27
+Sex :
+M
+Service :
+CARDIOTHORACIC
+Allergies :
+Patient recorded as having No Known Allergies to Drugs
+Attending :
+Mary X Baxter , M.D.
+Chief Complaint :
+TIA/Palpitations
+Major Surgical or Invasive Procedure :
+2014-04-21 - PFO closure via Right mini thoracotomy
+History of Present Illness :
+This 53-year-old with a history of multiple transient ischemic attacks in the past was investigated and was found to have a small patent foramen ovale , and he was electively admitted for closure of the same .
+His preoperative investigations with coronary angiogram showed normal coronary arteries .
+His left ventricular function was well preserved .
+He had no valvular disease .
+Past Medical History :
+Right Upper lobe nodule
+TIA 's
+Childhood skull fracture
+PFO
+Social History :
+Lives with wife .
+1 ETO drink daily .
+Quit smoking 30 years ago after smoking 1ppd .
+Retired .
+Family History :
+Brother with MI at age 35
+Father with MI/CABG died at age 60 .
+Physical Exam :
+Vitals :
+BP 144/90 , HR 64 , RR 14
+General :
+well developed male in no acute distress
+HEENT :
+oropharynx benign , poor dental health
+Neck :
+supple , no JVD
+Heart :
+regular rate , normal s1s2 , no murmur
+Lungs :
+clear bilaterally
+Abdomen :
+soft , nontender , normoactive bowel sounds
+Ext :
+warm , no edema , no varicosities
+Pulses :
+2+ distally
+Neuro :
+nonfocal
+Pertinent Results:
+2014-04-24 07:30AM BLOOD
+Hct - 25.9*
+2014-04-23 07:05AM BLOOD
+WBC - 5.9 RBC - 2.72* Hgb - 8.6* Hct - 25.2*
+MCV - 93 MCH - 31.5 MCHC - 34.0 RDW - 13.0 Plt Ct - 150
+2014-04-23 07:05AM BLOOD
+Plt Ct - 150
+2014-04-24 07:30AM BLOOD
+UreaN - 11 Creat - 0.8 K - 4.4
+2014-04-21 ECHO
+No spontaneous echo contrast is seen in the body of the left atrium .
+No mass/thrombus is seen in the left atrium or left atrial appendage .
+No spontaneous echo contrast is seen in the body of the right atrium .
+A patent foramen ovale/secundum ASD is present .
+A left-to-right shunt across the interatrial septum is seen at rest .
+A right-to-left shunt across the interatrial septum is seen at rest with injection of agitated saline contrast .
+The inferior vena cava is dilated ( >2.5 cm ) .
+Left ventricular wall thickness , cavity size , and systolic function are normal ( LVEF >55% ) .
+Left ventricular wall thicknesses are normal .
+Regional left ventricular wall motion is normal .
+Overall left ventricular systolic function is normal ( LVEF>55% ) .
+Right ventricular chamber size and free wall motion are normal .
+The ascending , transverse and descending thoracic aorta are normal in diameter and free of atherosclerotic plaque .
+The aortic valve leaflets ( 3 ) appear structurally normal with good leaflet excursion and no aortic regurgitation .
+No aortic regurgitation is seen .
+The mitral valve appears structurally normal with trivial mitral regurgitation .
+The mitral valve leaflets are structurally normal .
+There is no pericardial effusion .
+POST BYPASS
+Flow across the interatrial septum is no longer visualized with color flow doppler or with injection of agitatated saline at rest or with valsalva .
+The study is otherwise unchanged from pre-bypass .
+2014-04-22 CXR
+Previous right pneumothorax has resolved except for what is either a small fissural component or a bulla adjacent to the minor fissure .
+May be a small right pleural effusion .
+Right apical pleural tube in place .
+Left lung clear from basal atelectasis .
+Paratracheal mediastinal hematoma is resolving .
+Heart size is normal .
+Tip of the left internal jugular line projects over the SVC .
+Brief Hospital Course :
+Mr. Freeman was admitted to the Nantucket Cottage Hospital on 2014-04-21 for surgical management of his PFO .
+He was taken to the operating room where he underwent a mini-thoracotomy with closure of his patent foramen ovale ( PFO ) .
+Postoperatively he was taken to the cardiac surgical intensive care unit for monitoring .
+Within a few hours , he woke neurologically intact and was extubated .
+Aspirin was resumed. On postoperative day one , he was transferred to the cardiac surgical step down unit .
+He was gently diuresed towards his preoperative weight .
+The physical therapy service was consulted for assistance with his postoperative strength and mobility .
+Iron and vitamin C were started for postoperative anemia .
+Mr. Freeman maintained stable hemodynamics with a normal sinus rhythm throughout his postoperative course .
+He continued to make steady progress and was discharged home on postoperative day three .
+He will follow-up with Dr. de la Cisneros , Dr. Belt , his cardiologist and his primary care physician as an outpatient .
+Medications on Admission :
+Plavix 75mg daily aspirin 81mg daily
+Discharge Medications :
+1. Potassium Chloride 10 mEq Capsule , Sustained Release Sig : Two ( 2 ) Capsule , Sustained Release PO Q12H ( every 12 hours ) for 5 days .
+Disp : *10 Capsule , Sustained Release( s )*
+Refills : *0*
+2. Docusate Sodium 100 mg Capsule Sig : One ( 1 ) Capsule PO BID ( 2 times a day ) .
+Disp : *60 Capsule( s )*
+Refills : *0*
+3. Aspirin 81 mg Tablet , Delayed Release ( E.C. ) Sig : One ( 1 ) Tablet , Delayed Release ( E.C. ) PO DAILY ( Daily ) .
+Disp : *30 Tablet , Delayed Release ( E.C. )( s )*
+Refills : *2*
+4. Oxycodone-Acetaminophen 5-325 mg Tablet Sig : 1-2 Tablets PO every 4-6 hours as needed for pain .
+Disp : *50 Tablet( s )*
+Refills : *0*
+5. Ferrous Sulfate 325 ( 65 ) mg Tablet Sig : One ( 1 ) Tablet PO DAILY ( Daily ) : Take for one month then stop .
+Disp : *30 Tablet( s )*
+Refills : *0*
+6. Camphor-Menthol 0.5-0.5 % Lotion Sig : One ( 1 ) Appl Topical TID ( 3 times a day ) as needed .
+Disp : *qs qs*
+Refills : *0*
+7. Ascorbic Acid 500 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) : Take for one month then stop .
+Disp : *60 Tablet( s )*
+Refills : *0*
+8. Furosemide 20 mg Tablet Sig : One ( 1 ) Tablet PO BID ( 2 times a day ) for 5 days .
+Disp : *10 Tablet( s )*
+Refills : *0*
+Discharge Disposition :
+Home with Service
+Discharge Diagnosis :
+PFO
+TIA lung nodule ( followed by Dr. Belt ) s/p fissurectomy/skull Fx
+Discharge Condition :
+Good
+Discharge Instructions :
+1) Shower , wash incisions with mild soap and water and pat dry .
+No lotions , creams or powders to incisions .
+2) Call with fever >101 , redness or drainage from incision , or weight gain more than 2 pounds in one day or five pounds in one week .
+3) No driving while on narcotics .
+4) Take lasix twice daily with potassium for five days then stop .
+5) Take Vitamin C with iron for one month then stop .
+6) Call with any questions or concerns .
+Followup Instructions:
+Follow up with Dr. Heird in four weeks , 671 745 2553
+Follow up with Dr. Knowlton in 1-2 weeks , (246) 828-4417
+Follow up with Dr. Eckman in 2-3 weeks , (506) 946-4576
+Call all providers for appointments .
+CAT SCAN Phone :
+(476) 713 6117
+Date/Time : 2014-10-16 9:15
+Edna Arnold , MD
+Phone : (300) 922-6590
+Date/Time : 2014-10-16 2:30
+Melonson de la Donnelly MD 08-301
+Completed by :
+Jeremy N. P. Moschella PA 80-BYE 2014-04-24 @ 1103
+Signed electronically by :
+DR. Dorothy au Pratt on :
+FRI 2014-06-06 10:27 AM
+( End of Report )

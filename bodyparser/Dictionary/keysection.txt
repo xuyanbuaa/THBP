@@ -1,0 +1,2 @@
+1	admission	day of admission	time of admission	admission day
+2	discharge	day of discharge	time of discharge	discharge day

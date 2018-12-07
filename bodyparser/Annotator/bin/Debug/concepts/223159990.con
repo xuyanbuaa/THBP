@@ -1,0 +1,4 @@
+c="line sepsis" 24:17 24:18||t="problem"
+c="treatment" 23:3 23:3||t="treatment"
+c="fever" 22:8 22:8||t="problem"
+c="evaluation" 23:1 23:1||t="test"

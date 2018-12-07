@@ -1,0 +1,64 @@
+DISCHARGE SUMMARY
+**INSTITUTION
+**PLACE , PA **ZIP-CODE
+**NAME[AAA , BBB M]
+**ID-NUM
+**ID-NUM
+A5A/532
+SERVICE OF :
+**NAME[ZZZ M YYY]
+DATE OF ADMISSION :
+**DATE[Oct 26 2007]
+DATE OF DISCHARGE :
+**DATE[Oct 30 2007]
+ADMISSION DIAGNOSIS :
+Seizure disorder .
+DISCHARGE DIAGNOSES :
+1. Seizure disorder with breakthrough seizure .
+2. Delirium / postictal .
+3. Hyponatremia .
+4. Type 2 diabetes mellitus .
+5. Hypothyroidism .
+6. Hypertension .
+7. Myelodysplasia with anemia and thrombocytopenia .
+8. History of atrial fibrillation .
+9. Gastroesophageal reflux disease .
+10. History of coronary artery disease .
+DISCHARGE MEDICATIONS :
+Lamictal 200 p.o. b.i.d. with 100 p.o. nightly , Keppra 1500 mg p.o. b.i.d. , Cymbalta 30 mg q. day , Amaryl 2 mg b.i.d. , amiodarone 100 mg q. day , Lopressor 25 mg b.i.d. , Norvasc 10 mg q. day , Synthroid 125 mcg q. day , and Protonix 40 mg q. day , bowel regimen p.r.n.
+Follow up with Dr. **NAME[YYY] in 3 weeks .
+Follow up with Dr. **NAME[XXX] in 1 week for bone marrow biopsy .
+Follow up with Dr. **NAME[WWW] in 6 weeks , appointment already made .
+Dietary restrictions , diabetic diet .
+Physical activity , home bound with home PT .
+Prognosis is fair with a high readmission rate secondary to the recalcitrant nature of her seizures .
+PRESENTING HISTORY :
+Ms. **NAME[AAA] is a **AGE[in 70s]- year - old with a past medical history of recalcitrant seizure disorder who presented with a protracted seizure and severe confusion afterwards .
+She had a seizure couple of weeks prior that was shorter in duration .
+She was admitted for further workup and evaluation .
+HOSPITAL COURSE :
+The patient was placed on telemetry .
+A CT scan of her head was done which showed no acute changes .
+Dr. **NAME[WWW] et al placed her on an increased dose of Lamictal and continued her Keppra .
+The patient was postictal several days afterwards with waxing and waning levels of delirium .
+There was some concern about recurrent seizures versus MCA insufficiency .
+She was clear for 24 hours at discharge and discharged home with home PT .
+The patient was scheduled as an outpatient for a bone marrow biopsy secondary to anemia and thrombocytopenia .
+She has a known diagnosis of myelodysplasia that has become recalcitrant to Procrit .
+It was scheduled for **DATE[Oct 31 2007] , but will be rescheduled for 1 week from now .
+The patient had hyponatremia during her hospitalization .
+Consults placed to Dr. **NAME[VVV] for nephrology .
+She was fluid restricted initially and her sodium returned to normal .
+It was felt to be secondary to her acute seizure .
+Continue her outpatient fluid restrictions , which have been mild at home .
+Other consults were placed to Dr. **NAME[UUU TTT] and Dr. **NAME[SSS WWW] .
+___________________
+**NAME[ZZZ M. YYY] , M.D.
+Dict :
+**DATE[Oct 30 2007] 10:13:55
+Tran :
+**DATE[Oct 31 2007] 08:44:55
+DKB/ss/367609/**ID-NUM/**ID-NUM
+R :
+**DATE[Nov 01 2007] 05:01:49/yr
+**CARBON-COPY

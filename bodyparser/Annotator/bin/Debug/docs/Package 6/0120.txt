@@ -1,0 +1,50 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB M]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 60s] years
+Sex :
+Male
+DOB :
+**DATE[Sep 13 1940]
+Author :
+**NAME[XXX , WWW M]
+Impression and Plan
+Impression
+Off service note MICU intern signoff on **DATE[Apr 31 07]:
+Mr. **NAME[CCC] is a **AGE[in 60s] yo male s/p double lung transplant on **DATE[Jan 07] for emphysema transferred to the MICU on **DATE[Apr 18 07] for dyspnea and increasing oxygen requirements .
+The patient was admitted on **DATE[Apr 13 07] for productive sputum , fever and chills on transfer from a New Jersey ED where he recieved IV antibiotics .
+For the first 4 days of his admission in the ICU he showed evidence of a new acute renal failure , elevated levels of serum tacrolimus , and tenous oxygenation on BIPAP and high flow oxygen .
+Prior to the unit transfer the patient had a bronchoscopy with biopsy .
+The results of that BAL were negative for acute rejection , bacterial , fungal , or viral infection .
+The patient had a repeat bronch on **DATE[Apr 22 07] following intubation with a BAL that again had negative results for new infection , viral PCR for metapneumovirus was added found to be negative .
+In the unit , the patient had evidence of malnutrition with a decreased serum albumin .
+He had evidence of mild pulmonary hypertension and moderate mitral reguritation by TEE on **DATE[Apr 24 07] .
+The patient underwent a repeat bronchoscopy and biopsy on **DATE[Apr 23 07] that was negative for acute rejection but had limited tissue .
+The patient was on mild ventilator assistance but was kept intubated pending a decision on possible lung biopsy .
+Transplant surgery was consulted and increased lung recruitment was initiated while the patient 's flecainide was discontinued .
+Flecainide has association with flecainide-induced interstitial pneumonitis with hypoxemia and acute respiratory failure have been reported . Pneumonitis has occurred 2 to 22 months after beginning treatment with flecainide ( cumulative dose 12 to 100 grams ).
+Other patients have recovered following withdrawal of flecainide ; however , at least 1 fatality has been reported ( Pesenti et al , 2002 )( Robain et al , 2000 ; Akoun et al , 1991 ; Hanston et al , 1991 ).
+On **DATE[Apr 26 07] , the patient developed hypotension and became acutely febrile .
+Cultures were drawn but have remained negative .
+His hypotension was managed with fluid rescuitation and stress dose steroids and a new L IJ later that day he became afebrile .
+He subsequently developed hypertension requiring the increasing of his beta blockers and hydralazine .
+His tacrolimus levels decreased and his creatinine improved requiring increasing levels of prograf .
+Current goal is 12 to 15 .
+For antiobiotics he had remained on cefepime , voriconazole , nystatin , flagyl , prophylaxic bactrim throughout his stay with transplant ID adding tamiflu .
+Vancomycin was discontinued and valcyte was stopped and then readded on 1/29 .
+He was placed on neupogen on 1/26 until the 1/30 for decreased white blood count and should remain off of it as long as his ANC is greater than 1000 .
+He went to the OR following a failed weaning trial in the am of 1/30 for a left lung biopsy , chest tube placement and tracheostomy .
+Postoperatively he had remained stable .
+Humeral rejection has been investigated on several biopies and the results remain inconclusive at this time .
+He has remained on steroids and cell cept for immunosuppression throughout his admission .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : MD , Medical Intern
+Perform by **NAME[XXX , WWW] P
+( on **DATE[May 01 2007] 11:01 )
+Sign by **NAME[XXX , WWW] P
+( on **DATE[May 01 2007] 11:01 )
+VERIFY by **NAME[XXX , WWW] P
+( on **DATE[May 01 2007] 11:01 )

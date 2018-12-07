@@ -1,0 +1,71 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+Discharged :
+**DATE[Oct 20 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+CHIEF COMPLAINT :
+The patient is a **AGE[in 30s]- year - old white male with a known history of @barrett 's esophagus@ .
+He had @@@endoscopy@@@ done which documented this back in **DATE[Aug 2007] .
+He noted that he was pain free until about a week ago when he noted @pain in the chest@ and @nausea@ and @vomiting@ .
+He noted that meat would stick , although would pass when it was able to be swallowed .
+He had @@@a stress test@@@ at the time which was normal .
+EXAMINATION :
+@@@the patient 's temperature@@@ is 36.4 , @@@pulse@@@ 102 , @@@respiratory rate@@@ 22 , @@@blood pressure@@@ 172/112 .
+Lungs clear .
+Cardiovascular normal S1 and S2 .
+No @murmurs@ , @gallops@ or @rubs@ .
+The abdomen is soft .
+No @palpable hepatosplenomegaly@ .
+No @tenderness@ .
+LABS :
+Laboratory showed the following :
+@@@troponin@@@ was 0.10. @@@sodium@@@ 138 , @@@potassium@@@ 3.7 , @@@chloride@@@ 99 , @@@bicarb@@@ 23.0 , @@@bun@@@ 10 , @@@creatinine@@@ 1.1 , @@@glucose@@@ 86 , @@@calcium@@@ 9.0 , @@@albumin@@@ 4.1 , @@@total protein@@@ 7.1 , @@@bilirubin total@@@ 0.2 , @@@sgpt@@@ 102 , @@@sgot@@@ 183 , @@@alkaline phosphatase@@@ 96 , @@@lipase@@@ 102. @@@troponin@@@ less than 0.10 .
+@@@white blood count@@@ 6200 , @@@hemoglobin@@@ 14.6 , @@@hematocrit@@@ 43.6 , @@@platelet count@@@ 290,000 .
+HOSPITAL COURSE :
+The patient was seen by GI .
+It was felt by GI that he may have @an esophageal stricture@ .
+He will be @@@scoped@@@ in the following week .
+He also was seen by cardiology .
+He had @@@a routine stress test@@@ which preliminarily appears negative .
+@@@his blood pressure@@@ was @elevated@ and he was started on @@altace@@ .
+He was treated with @@zofran@@ and @@analgesia@@ .
+He was discharged to be followed up by his primary care provider .
+MEDICATIONS :
+Were the following :
+1. @@altace@@ 5 mg p.o. daily .
+2. @@protonix@@ 40 mg p.o. b.i.d.
+3. @@lexapro@@ 10 mg p.o. daily .
+4. @@albuterol@@ p.r.n. nebulizer .
+5. @@advair@@ 250/50 1 puff b.i.d.
+6. @@vicodin@@ 5 mg 1 tab p.o. q. 6 hours p.r.n. @severe pain@ , 20 were dispensed .
+7. @@compazine@@ 10 mg p.o. q. 6 hours p.r.n. @nausea@ and @vomiting@ .
+DIET :
+Should be as tolerated .
+He is advised @@a soft diet@@ .
+DIAGNOSES :
+1. @gastroesophageal reflux disease@ .
+2. @barrett 's esophagitis@ .
+3. History of tobacco use , chewing tobacco .
+4. @hypertension@ .
+5. @abnormal liver function tests@ .
+DISCHARGE INSTRUCTIONS :
+He is to have @@@a set of liver function tests@@@ and @@@hepatitis screening@@@ and @@@a lipid panel@@@ drawn before discharge .
+______________________________
+**NAME[WWW XXX] , MD
+HS Job # 849993 / 41855 /
+SHY # **ID-NUM
+D :
+**DATE[Oct 20 2007] 15:39
+T :
+**DATE[Oct 22 2007] 04:10
+**CARBON-COPY

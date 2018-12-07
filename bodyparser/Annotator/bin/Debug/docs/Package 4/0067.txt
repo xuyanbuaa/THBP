@@ -1,0 +1,42 @@
+HISTORY :
+The patient is a **AGE[in 70s]- year - old man who was admitted because of low temperature of 90.6 associated with weakness and some lethargy .
+Because of this , he was sent to the emergency room and subsequently admitted .
+He has history of colon cancer , status post colectomy with metastasis to the liver and status post left hepatic lobectomy .
+He has history of brain aneurysm , diagnosed in 2006 .
+He also has history of hypertension , hypercholesterolemia , and bleeding ulcer in 1972 .
+PHYSICAL EXAMINATION :
+The patient 's discharge blood pressure is 114/68 , pulse of 138 , respirations are 16 , O2 saturations are 94% on room air , and temperature is 98.2 , and the recheck was 97.3 Fahrenheit .
+The patient is alert and awake , and not in acute distress .
+Heart :
+Regular heart sounds .
+Lungs :
+Decreased breath sounds with bibasilar crackles .
+Abdomen :
+Negative .
+Extremities :
+No edema .
+LABORATORY DATA :
+Initial laboratory examination :
+Electrolytes showed a sodium of 134 , potassium of 3.5 , BUN was 17 , and creatinine was 1.8 .
+Hemoglobin and hematocrit 9.7 and 29.5 .
+Chest x-ray was negative for infiltrate .
+CT scan of the chest recently showed metastatic lesion in both lungs .
+HOSPITAL COURSE :
+He was admitted in the regular floor and started on IV fluids with D-5 half normal saline with 20 KCl at 100 mL per hour .
+The patient was also started on Capoten 25 three times a day , Zofran 4 mg IV q.6 hours , Lipitor 20 mg at bedtime , ferrous sulfate 325 t.i.d. , allopurinol 300 mg daily , Percocet one tablet every 4 hours p.r.n. for pain , and SCDs for DVT prophylaxis .
+While in the hospital , the patient was seen by Dr. **NAME[XXX] from Oncology who recommended to check guaiacs which were negative , and the blood cultures were all checked and were also negative .
+Imodium was also discontinued .
+The patient started to feel better and started to eat and drink well .
+He was able to ambulate with a normal temperature .
+The Flex monitor was also discontinued .
+In the hospital , the patient also had an EKG which initially showed sinus tachycardia .
+His condition continued to improve with improvement of his diet and strength , so he was discharged in satisfactory condition on **DATE[Mar 1 2007] , with a final diagnosis of unsteadiness , hypothermia , dehydration , metastatic colon carcinoma to the liver , history of hypertension , left middle cerebral artery aneurysm , status post colectomy , and chronic anemia .
+The patient is to continue all his medications and follow with me in about 2 weeks .
+______________________________
+**NAME[YYY M ZZZ] , M.D.
+HS Job # 979207 / 41124 / 31010
+# **ID-NUM
+D :
+**DATE[Apr 08 2007] 18:39
+T :
+**DATE[Apr 09 2007] 05:34

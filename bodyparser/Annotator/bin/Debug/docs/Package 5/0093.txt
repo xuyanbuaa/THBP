@@ -1,0 +1,110 @@
+Admission Date :
+2017-01-10
+Discharge Date :
+2017-01-16
+Date of Birth :
+1963-12-23
+Sex :
+F
+Service :
+Medical ICU
+HISTORY OF PRESENT ILLNESS :
+Patient is a 53 - year-old female found down in hotel room by EMS with change in mental status and lethargy .
+A suicide note found at the scene referenced multiple medical problems as well as suggested ingestion of beta blocker , muscle relaxant , and Neurontin .
+Vital signs were stable on arrival in the David , but the patient was minimally responsive and subsequently intubated for airway protection .
+Patient initially given 2 mg of Narcan , 4 amps of sodium bicarb , and 5 grams of activated charcoal .
+Patient 's blood pressures were noted to decrease systolics to the 80s , which responded to IV fluids and insulin / glucose drips .
+Also noted to be bradycardic to the 50s , which responded to atropine .
+PAST MEDICAL HISTORY :
+1. Hepatitis C .
+2. Hypertrophic cardiomyopathy .
+3. Lumbar and cervical degenerative disk disease .
+4. Sarcoid .
+5. Depression .
+6. Headaches .
+MEDICATIONS :
+1. Neurontin .
+2. Propanolol .
+3. Tylenol #3 .
+4. Butalbital .
+5. Morphine .
+6. Protonix .
+7. Doxepin .
+8. Dilaudid .
+9. Inderal .
+10. Skelaxin .
+11. Zantac .
+12. Flexeril .
+13. MS Contin .
+PHYSICAL EXAM :
+Temperature 96.8 , heart rate 81 , blood pressure 92/47 , and saturating 100% on 40% FIO2 .
+General :
+Patient is intubated and sedated .
+HEENT :
+Pupils are equal , round , and reactive to light .
+Cardiovascular :
+Regular rate and rhythm , no murmurs .
+Pulmonary is clear to auscultation bilaterally .
+Abdomen is soft , nontender , and nondistended .
+Extremities :
+No edema .
+LABORATORIES :
+White count 20.0 , hematocrit 52 , platelets 439 .
+Chem-7 :
+141 / 5.6 / 104 / 24 / 23 / 0.8 / 118 .
+Urinalysis negative except for large blood .
+EKG :
+Sinus bradycardia , left bundle branch block , prolonged QRS .
+Urine tox positive for barbiturates , opiates , and methadone .
+Serum Tylenol level is 8.3 .
+Positive for serum barbiturates .
+CK 15,000 .
+ALT 77 , AST 159 , amylase 153 , alkaline phosphatase 216 , total bilirubin 0.6 .
+INR 1.1 .
+HOSPITAL COURSE :
+In summary , patient is a 53 - year-old female with multiple medical problems and history of depression with intentional overdose of barbiturates , opiates , Tylenol , and beta blocker .
+CMED :
+Patient was maintained on insulin , D10 and glucagon drips to maintain her hemodynamics .
+This was achieved with good effect , and they were subsequently weaned off .
+Patient was able to be extubated on hospital day three .
+Psychiatry was consulted after the patient was extubated , and felt that patient had a high suicide risk , and plan was for her to be admitted to the Psychiatry service once medically stable .
+Patient 's renal function remained stable and her CKs trended down gradually .
+Patient remained on suicide precautions , but was deemed not to need ICU level monitoring , and was transferred to the floor on 01-11 .
+In the a.m. of 01/08 , the patient experienced episode of tongue biting , unresponsiveness , disorientation .
+Was loaded on Dilantin .
+Became progressively hypoxic and tachypneic throughout the day with respiratory rates of 30-40 with a max respiratory rate of 116 , tachycardia to 120s .
+Patient subsequently was transferred back to the CMED CCU on 2017-01-13 for further monitoring .
+Patient 's hypoxia was felt most likely to be caused by pneumonia .
+She was started on appropriate antibiotics .
+Etiology of patient 's tachypnea was unclear .
+Initially , the patient 's etiology of seizure was not quite clear , but thought possibly secondary to alcohol and benzodiazepine withdrawal .
+She received EEG , MRI , LP .
+Subsequently EEG was noted to have no seizure activity .
+MRI was suboptimal due to motion artifact and LP was unremarkable .
+Despite absence of seizure activity on EEG , patient was continued on Dilantin .
+Her delirium was felt possibly secondary to withdrawal versus toxic metabolic , but gradually improved slowly , and therefore patient did not receive treatment for barbiturate withdrawal .
+Her mental status , tachypnea , and hypoxia all improved , and patient was subsequently transferred back to the floor medical team on 2017-01-15 .
+While on the floor , the patient 's mental status was noted to be improved back at baseline compared to that back to the CMED CCU , and she exhibited no evidence of barbiturate withdrawal .
+She was continued on suicide precautions with a one-to-one sitter , and plan was for psychiatric admission when medical issues had resolved .
+On 2017-01-16 , the night float intern was called to see the patient as she was unresponsive .
+Patient unresponsive to verbal command , sternal rub .
+Pupils were fixed and dilated .
+Patient noted to be without corneal reflexes , spontaneous breathing , heart sounds , or palpable pulses .
+Patient was pronounced dead at 6:15 a.m. on 2017-01-16 .
+Patient 's family was notified and declined autopsy .
+Given the sudden unexpected nature of patient 's death , the medical examiner was contacted and the case was accepted .
+Of note at time of death , patient was DNR / DNI .
+This was initiated after several conversations with the patient 's mother , who stated that the patient had desired to be DNR / DNI for many years , not just in the recent past .
+These facts were confirmed via separate conversations with both the patient 's lawyer and her primary care physician .
+Michael N Sawyer , M.D.
+86-331
+Dictated By : Rebecca S Jefcoat , M.D.
+MEDQUIST36
+D : 2017-03-08 10:57
+T : 2017-03-10 07:01
+JOB # : 53408
+( cclist )
+***************************
+Please note that all of the conversations regarding code status took place during we icu admit ; and that this patient passed away in early am hours of night she was called back out to the medicine floor , therefore she had not yet been re-evaluated by the floor medicine attending , but had been earlier that day by the icu attending .
+Signed electronically by : DR. Dorothy Desalvo on : WED 2017-04-26 7:22 AM
+( End of Report )

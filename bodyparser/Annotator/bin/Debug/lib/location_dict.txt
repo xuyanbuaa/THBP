@@ -1,0 +1,105 @@
+nh
+home
+ward
+street
+center
+campus
+nursery
+regency
+alliance
+infirmary
+healthcare
+
+dwardmegriff rehabilitation
+
+to hospice
+aerocare hospice
+inpatient hospice
+
+institute
+institution
+\*\*institution
+
+hospital
+attleborohospital
+
+ry health
+bri health
+pre health
+nash health
+wama health
+hallmark health
+venbonlea health
+glasmif/putdi health
+huyychestleme health
+Noughwell Entanbon Health
+
+9g
+crsu
+to unit
+4g unit
+the unit
+care unit
+surg unit
+stary unit
+rehab unit
+stepdown
+step down
+stepdown unit
+step down unit
+recovery unit
+medicine unit
+surgical unit
+rehabilitation unit
+cardiovascular unit
+
+area
+team
+facility
+department
+
+service
+services
+a-service
+
+lab
+laboratory
+
+icu
+ccu
+tcu
+micu
+ficu
+pacu
+tsicu
+cticu
+
+cmed
+o-cmed
+
+[0-9]f
+floor
+
+bed
+acute care
+
+\*\*room
+bathroom
+hotel room
+trauma room
+waiting room
+delivery room
+recovery room
+operating room
+emergency room
+
+fih
+wih
+osh
+nvh
+cmu
+sdu
+cc6
+pasi
+gaanvantsir
+milton/haverhill

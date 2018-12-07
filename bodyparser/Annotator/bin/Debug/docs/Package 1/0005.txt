@@ -1,0 +1,132 @@
+﻿Admission Date :
+2016-12-24
+Discharge Date :
+2016-12-27
+Date of Birth :
+1936-01-11
+Sex:
+F
+Service :
+CMED CSRU
+CHIEF COMPLAINT :
+Cough , rhinorrhea , dehydration .
+HISTORY OF PRESENT ILLNESS :
+The patient is an 80 year old female with breast cancer , status post lumpectomy / radiation therapy / Tamoxifen ( 2000 ) , hypertension , hyperlipidemia , multiple urinary tract infections who presents with a four day prodrome of dry cough , rhinorrhea , coryza , malaise , chills , headache , decreased p.o. intake , loose bowel movements with diarrhea and no blood , decreased urine output , no sick contacts , had flu shot this year .
+In the Emergency Department , she had labile blood pressure with systolic blood pressure in the 80 s .  
+Her usual is systolic blood pressure in the 120 s , this was despite two liters of intravenous fluids and she was transferred to the Medical Intensive Care Unit for closer monitoring for possible early sepsis .
+The Intensive Care Unit course was notable for initially receiving broad spectrum antibiotics as well as a white blood cell count of 11.0 with 15 bands .
+She was ultimately changed to Levaquin for a possible early pneumonia pending cultures .
+The Intensive Care Unit course was also notable for negative chest x-ray , two units of packed red blood cells for a hematocrit of 24.0 with appropriate bump in her hematocrit and no evidence of bleeding , stable blood pressure despite a net fluid balance of negative 2.5 liters .
+No central access was needed .
+The sepsis protocol was aborted .
+Also of note , her liver function tests had been normal .
+Random cortisol was 17 and her DFA was positive for influenzae A with a viral culture pending at the time of discharge .
+Blood and urine cultures were no growth at the time of discharge as well .
+She also had a right lower extremity noninvasive ultrasound that was negative for deep venous thrombosis .
+PAST MEDICAL HISTORY : Breast cancer diagnosed in 2010 , Stage I , status post left lumpectomy , on 2012-05-08 , and repeat surgery with sentinel node dissection on 2012-06-05 .
+Invasive mucinous carcinoma with estrogen receptor positivity and HER2/NEU negative .
+Left chest radiation , on Tamoxifen therapy .
+She is followed by Dr. Alonso Naugle .
+Question of vertebral basilar cerebrovascular accident in 2016-08-17 , with associated limb ataxia .
+Magnetic resonance imaging was negative except for some microvascular cerebral white matter changes .
+Question peripheral vertigo , takes Meclizine p.r.n.
+Hypothyroidism .
+Hypertension .
+Hypercholesterolemia .
+Glaucoma .
+Cataract .
+Osteopenia .
+Left hip arthritis .
+History of urinary tract infections .
+Anemia , with a baseline hematocrit of 31.0 , with a TIBC that was low and a high ferritin .
+Echocardiogram in 2016-09-16 , with preserved ejection fraction of 60 percent with trivial mitral regurgitation and mild left atrial enlargement .
+Cardiac stress test in 2016-03-17 , that was negative for inducible ischemia .
+ALLERGIES :
+No known drug allergies .
+MEDICATIONS ON ADMISSION :
+1. Evista 60 mg p.o. daily .
+2. Tamoxifen 20 mg p.o. daily .
+3. Lisinopril 5 mg p.o. daily .
+4. Triamterene/Hydrochlorothiazide 37.5/25 mg p.o. daily .
+5. Enteric Coated Aspirin 325 mg p.o. daily .
+6. Meclizine 25 mg q8hours p.r.n.
+7. Aggrenox twice a day , the dose was not known .
+8. Synthroid 125 mcg daily .
+SOCIAL HISTORY :
+She denies tobacco and alcohol abuse .
+She is a professional bowler .
+She lives alone though her family is in the area .
+FAMILY HISTORY :
+Breast cancer in multiple female relatives .
+PHYSICAL EXAMINATION :
+At the time of presentation , temperature 100.8 , heart rate 89 , blood pressure 106 systolic , respiratory rate 18 , oxygen saturation 97 percent in room air .
+Physical examination is read off the admitting note from the Intensive Care Unit team and is not reflective of the examination by this dictator .
+General - The patient appears stated age , found lying flat in bed , in no acute distress .
+Head , eyes , ears , nose and throat - Sclera anicteric , conjunctiva injected , the pupils are equal , round and reactive to light and accommodation , the mucous membranes are dry , oropharynx clear .
+Neck - No jugular venous distention , no lymphadenopathy .
+Cardiac regular rate and rhythm , normal S1 and S2 , I/VI holosystolic murmur at the apex .
+Chest clear to percussion and auscultation .
+Abdomen is soft , nontender , nondistended , no hepatosplenomegaly .
+Extremities - No calf tenderness , no edema .
+Neurologically , mental status examination is normal .
+Cranial nerves II through XII are intact .
+LABORATORY DATA :
+On admission , chest x-ray with no acute cardiopulmonary process .
+Electrocardiogram notable for sinus tachycardia with a rate of 104 beats per minute , normal axis , normal intervals , new T wave inversion in III and old T wave inversions in aVL and V1 .
+This was not significantly changed from comparison with 2016-03-17 .
+On admission , white blood cell count 7.3 , 73 percent neutrophils , 15 percent bands , 6 percent lymphocytes , hematocrit 30.4 , platelet count 228,000 .
+Sodium 136 , potassium 3.5 , chloride 98 , bicarbonate 23 , blood urea nitrogen 16 , creatinine 0.8 , glucose 142 .
+HOSPITAL COURSE :
+This is an 80 year old female with a history of Stage I breast cancer , hypertension , hyperlipidemia , who presents with a leukocytosis/bandemia , hypotension in the setting of dehydration and influenza .
+After a short Medical Intensive Care Unit course where she remained hemodynamically stable , she was transferred to the floor .
+Gerardi problem list is as follows :
+Hypotension - This was likely secondary to volume depletion in the setting of a diarrheal and viral respiratory syndrome .
+Her blood pressure was stable after three liters of normal saline .
+She was clinically euvolemic after that .
+She did receive two units of packed red blood cells .
+There is no evidence of gastrointestinal bleed or adrenal insufficiency during the course of her evaluation .
+Her antihypertensives were initially held and reinstated upon discharge .
+Influenza A - DFA confirmed , the viral cultures were pending at the time of discharge .
+The initial bandemia would not have been consistent with a typical influenza presentation , so she was continued on a fourteen day course of Levaquin to eliminate any possibility of a bacterial superinfection or early pneumonia .
+Loose bowel movements - This problem was resolved and had been a viral syndrome on presentation .
+There was no evidence of diarrhea during medical Lawrence Memorial Hospital stay .
+Anemia - This is a chronic problem .
+She has known iron deficiency .
+There was no evidence of bleeding .
+She was guaiac negative and the Hemophilus panel was negative .
+She was reinstated on iron at discharge and her hematocrit was stable .
+Hypothyroid - She was continued on her Synthroid .
+Osteopenia - She was continued on Evista .
+Fluids , electrolytes and nutrition - She was tolerating a house diet upon discharge .
+FOLLOW UP :
+She is a patient of Dr. James Deighan and will follow-up with her in one to two weeks .
+MEDICATIONS ON DISCHARGE :
+1. Evista 60 mg p.o. daily .
+2. Tamoxifen 20 mg p.o. daily .
+3. Lisinopril 5 mg p.o. daily .
+4. Triamterene/Hydrochlorothiazide 37.5/25 mg p.o. daily .
+5. Enteric Coated Aspirin 325 mg p.o. daily .
+6. Meclizine 25 mg q8hours p.r.n.
+7. Aggrenox twice a day , the dose was not known .
+8. Synthroid 125 mcg daily .
+9. Levofloxacin 250 mg p.o. daily to complete a fourteen day course .
+She was given a prescription for ten more days .
+DISCHARGE DIAGNOSES :
+Influenza A .
+Hypotension secondary to volume depletion .
+Anemia .
+Hypothyroidism .
+CONDITION ON DISCHARGE :
+The patient was breathing comfortably in room air .
+She was normotensive and her hematocrit was stable at her baseline upon discharge .
+Linette Randall , Mississippi 82499
+Dictated By : Jason L Parra , M.D.
+MEDQUIST36
+D :
+2016-12-28 16:25:42
+T :
+2016-12-28 20:11:26
+Job # :
+74466
+Signed electronically by : DR. Wanda PARKS on : Yesenia 2017-01-10 6:50 PM
+( End of Report )

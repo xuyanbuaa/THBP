@@ -1,0 +1,108 @@
+u	unit	units	unit(
+tablet	tablet(	tablets	tab	tab.	tab(	tabs
+puff	puffs
+pill	pills
+capsule	capsule(	cap	capsules	caps	caplet	caplet(	caplets
+q.month
+qam
+qpm
+q.week.	q-week
+po	po	po.	p.o.
+d
+bid	bid;
+tid	tid;
+qd	qd;	qday	qday.
+qod
+qhd.
+qid; qid q.d. qd
+o.d.
+pobid
+poqd
+c/d/i
+i.d.
+d.day	d.day.
+d/ced
+5x/d
+inhalation
+pg
+o.u.
+bpm
+sec
+cm	cm.	cms
+m	meter	meters
+tab	tabs	tablet	tablets
+month
+day	day)
+hour
+cc/hour
+minute
+pg
+hr
+bpm
+sec
+b/l
+powder	powders
+gel	gels
+syrup	syrups
+cream	creams
+lotion	lotions
+injection	injections
+shampoo	shampoos
+liquid	liquids
+drop	drops
+suspension	suspensions
+solution	solutions
+oil	oils
+chew tab	chew tabs
+packet	packets
+spray	sprays
+package	packages
+formula	formulas
+oral	orals
+ointment	ointments
+suppository	suppositories
+dose	doses
+mg	milligrams	milligram	mg.
+gram	g	g.	grams
+kg	kilogram
+ml
+l	liter	liters
+x10e09/l
+x10e12/l
+mol
+mmol
+mg/ml
+mg%
+mg/5
+mg-200
+mg/dl
+ml
+mcg/ml
+unit/ml	units/ml
+mcg
+mcg/actuation
+cc/hour
+cc
+meq
+gm
+u/gm
+ng
+dl
+mg/dl
+oz	oz.
+fl
+tablespoon
+teaspoon
+mmhg
+xl
+ml/kg/day
+ns
+drinks	drink
+steps	step
+bottles	bottle
+mm	mm.	millimeter	millimeters
+cc
+um
+shot	shots
+pack	packs
+episode	episodes

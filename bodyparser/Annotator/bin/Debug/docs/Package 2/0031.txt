@@ -1,0 +1,70 @@
+**INSTITUTION
+TRANSPLANT SURGERY
+DISCHARGE SUMMARY
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[XXX M ZZZ YYY]
+ADMISSION DATE :
+**DATE[Apr 08 2007]
+DISCHARGE DATE :
+**DATE[Apr 18 2007]
+DISCHARGE DIAGNOSES :
+1. Status post multivisceral transplantation .
+2. Status post kidney transplantation .
+3. Bilateral lower extremity cellulitis .
+4. Renal insufficiency .
+This is a **AGE[in 40s]- year - old male patient with history of short gut syndrome secondary to AV malformation of stomach who underwent multivisceral transplantation in the past .
+He also underwent kidney transplantation on **DATE[Mar 4 2007] .
+The patient presented to 7 West for increased creatinine and swelling and cellulitis of his bilateral leg .
+He was admitted to Dr. **NAME[ZZZ YYY] service and was put on Zyvox and ciprofloxacin .
+We also performed the kidney biopsy on hospital day #2 , the finding of which was equivocal .
+The infection of his bilateral leg was improved responding to antibiotic treatment .
+But his creatinine was not improved until hospital day #7 .
+We decided to give this patient 1 g of Solu - Medrol on **DATE[Apr 16 2007] .
+On the day of discharge , his creatinine was 1.3 which is down to his baseline and the infection of his leg was much improved .
+He is being discharged with continuous p.o. antibiotics which are Zyvox and ciprofloxacin and will be seen at 7 - West on **DATE[Apr 20 2007] for close observation .
+DISCHARGE MEDICATIONS :
+1. Cortef 35 mg p.o. t.i.d.
+2. Bactrim single strength 1 tablet p.o. Monday , Wednesday , Friday .
+3. Cytovene 500 mg p.o. t.i.d.
+4. Actigall 300 mg p.o. t.i.d.
+5. Nystatin swish and swallow 5 cc p.o. q.i.d.
+6. Imodium 4 mg p.o. q.i.d.
+7. Catapres patch 0.6 mg every week .
+8. Aspirin 81 mg p.o. daily .
+9. Protonix 40 mg p.o. b.i.d.
+10. Lopressor 12.5 mg p.o. b.i.d.
+11. Zoloft 50 mg p.o. daily .
+12. Lyrica 50 mg p.o. daily .
+13. Cardizem 60 mg p.o. t.i.d.
+14. Multivitamin 1 tablet p.o. once a day .
+15. Vitamin B6 25 mg p.o. daily .
+16. Coumadin 3 mg p.o. nightly .
+17. Zyvox 600 mg p.o. b.i.d.
+18. Ciprofloxacin 500 mg p.o. b.i.d.
+19. Florinef 0.1 mg p.o. once a day .
+20. Sodium bicarbonate 1950 mg p.o. t.i.d.
+21. Prograf 2 mg p.o. in the morning .
+22. Prograf 2 mg p.o. in the evening .
+___________________________________
+**NAME[XXX M ZZZ YYY]
+Dictator :
+**NAME[VVV WWW] , M.D.
+**INITIALS
+D :
+**DATE[Apr 18 2007] 16:33:56
+T :
+**DATE[Apr 19 2007] 02:55:47
+R :
+**DATE[Apr 19 2007] 02:55:47/sr
+Job ID :
+351989/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[WWW , SSS] ***
+Electronically Signed by **NAME[XXX CCC]
+**DATE[Apr 23 2007] 02:39:05 PM

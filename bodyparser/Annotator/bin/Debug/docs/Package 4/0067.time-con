@@ -1,0 +1,8 @@
+c="2006" 5:9 5:9||t="time"||normalization=(2006,100,100,100,100,100)
+c="1972" 6:13 6:13||t="time"||normalization=(1972,100,100,100,100,100)
+c="in the hospital" 27:1 27:3||t="time"||normalization=(100,100,100,100,100,100)||normalization=(2007,3,1,100,100,100)
+c="In the hospital" 32:0 32:2||t="time"||normalization=(100,100,100,100,100,100)||normalization=(2007,3,1,100,100,100)
+c="**DATE[Mar 1 2007" 33:21 33:23||t="time"||normalization=(2007,3,1,100,100,100)
+c="in about 2 weeks" 34:12 34:15||t="time"||normalization=(100,100,100,100,100,100)
+c="**DATE[Apr 08 2007 18:39" 40:0 40:3||t="time"||normalization=(2007,4,8,18,39,100)
+c="**DATE[Apr 09 2007 05:34" 42:0 42:3||t="time"||normalization=(2007,4,9,5,34,100)

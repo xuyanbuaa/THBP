@@ -1,0 +1,6 @@
+c="tumor" 16:18 16:18||t="problem"
+c="an intracranial bleed" 16:10 16:12||t="problem"
+c="his laboratory parameters" 24:0 24:2||t="test"
+c="angiography" 25:3 25:3||t="test"
+c="somewhat confused" 18:5 18:6||t="problem"
+c="any lateralizing signs" 19:7 19:9||t="problem"

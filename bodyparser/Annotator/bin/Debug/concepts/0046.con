@@ -1,0 +1,4 @@
+c="hyperglycemia" 23:16 23:16||t="problem"
+c="evaluation" 22:1 22:1||t="test"
+c="weak" 21:13 21:13||t="problem"
+c="treatment" 22:3 22:3||t="treatment"

@@ -1,0 +1,106 @@
+Admission Date :
+2013-09-22
+Discharge Date :
+2013-09-26
+Date of Birth :
+1934-05-15
+Sex :
+F
+Service :
+SURGERY
+Allergies :
+Iodine
+Attending : Ronald B Tekautz , M.D.
+Chief Complaint : sp cardiac arrest / colitis
+Major Surgical or Invasive Procedure :
+sp Left subclavian CVL placement
+sp Right femoral CVL placement
+History of Present Illness :
+79F Pmhx CHF,COPD , found down at home , pulseless - CPR initiated w/ conciousness regained on scene .
+At OSH ABG 7.19/94/110 , BiPAP started .
+Pt found to be hypothermic w/ WBC 17 ( pt on steroids ) pnuemobilia and thickening of sigmoid .
+Currently on Nasal cannula 02 + hemodymamically stable .
+Past Medical History :
+CHF ( EF 25% , mod AS,AR , mod MR , CAD,PAF , angina , COPD ( O2 dependent - 2 L ) PVD , recurrent UTI 's , Chronic bronchitis , ? h/o
+DM , sp L ax-bifem , L fem-CMED , ERCP  '04 , T+A , Appy , CEA , L4-L5 laminectomy .
+Social History : ex tobacco denies ETOH nursing home resident
+Family History :
+NC
+Physical Exam : thin , A&O X 1
+IRRR
+Decreased BS bilaterally
+soft , mild tenderness R and L lower quadrants - not reproducible
+visible fem-fem graft
+ext warm , + 1 edema
+Pertinent Results :
+2013-09-22 04:20 AM BLOOD WBC - 13.8 * RBC - 3.17 * Hgb - 8.9 * Hct - 28.4 * MCV - 90 MCH - 28.2 MCHC - 31.4 RDW - 15.0 Plt Ct - 185
+2013-09-24 03:15 AM BLOOD WBC - 6.8 RBC - 2.86 * Hgb - 7.7 * Hct - 25.9 * MCV - 91 MCH - 27.0 MCHC - 29.9 * RDW - 15.1 Plt Ct - 178
+2013-09-25 02:41 AM BLOOD WBC - 5.3 RBC - 2.94 * Hgb - 8.2 * Hct - 27.4 * MCV - 93 MCH - 27.9 MCHC - 29.9 * RDW - 15.0 Plt Ct - 194
+2013-09-23 03:07 AM BLOOD PT - 14.0 * PTT - 30.1 INR ( PT )- 1.2 *
+2013-09-22 04:20 AM BLOOD Glucose - 86 UreaN - 18 Creat - 0.8 Na - 144 K - 3.7 Cl - 101 HCO3 - 40 * AnGap - 7 *
+2013-09-24 09:36 AM BLOOD Glucose - 202 * UreaN - 25 * Creat - 1.1 Na - 139 K - 3.9 Cl - 100 HCO3 - 37 * AnGap - 6 *
+2013-09-25 02:41 AM BLOOD Glucose - 122 * UreaN - 31 * Creat - 1.3 * Na - 139 K - 4.1 Cl - 99 HCO3 - 35 * AnGap - 9
+2013-09-22 04:20 AM BLOOD ALT - 51 * AST - 86 * CK ( CPK )- 638 * AlkPhos - 65 Amylase - 120 * TotBili - 0.4
+2013-09-22 12:38 PM BLOOD CK ( CPK )- 1086 *
+2013-09-22 09:45 PM BLOOD CK ( CPK )- 972 *
+2013-09-25 02:41 AM BLOOD CK ( CPK )- 218 *
+2013-09-22 04:20 AM BLOOD cTropnT - 0.18 *
+2013-09-22 12:38 PM BLOOD CK-MB - 18 * MB Indx - 1.7 cTropnT - 0.17 *
+2013-09-22 09:45 PM BLOOD CK-MB -14 * MB Indx - 1.4
+2013-09-23 04:26 AM BLOOD CK-MB - 10 MB Indx - 1.4 cTropnT - 0.12 *
+2013-09-25 02:41 AM BLOOD CK-MB - 5 cTropnT - 0.10 *
+2013-09-22 04:20 AM BLOOD Calcium - 8.1 * Phos - 3.2 Mg - 2.0
+2013-09-25 02:41 AM BLOOD Calcium - 8.2 * Phos - 5.3 * Mg - 1.9
+2013-09-23 07:36 AM BLOOD Vanco - 16.2 *
+2013-09-24 10:26 AM BLOOD Type - ART pO2 - 105 pCO2 - 95 * pH - 7.19 * calTCO2 - 38 * Base XS - 4
+2013-09-24 11:05 AM BLOOD Type - May pO2 - 35 * pCO2 - 107 * pH - 7.17 * calTCO2 - 41 * Base XS - 5
+2013-09-24 11:31 AM BLOOD Type - ART pO2 - 144 * pCO2 - 80 * pH - 7.23 * calTCO2 - 35 * Base XS - 3
+2013-09-24 07:42 PM BLOOD Type - ART pO2 - 127 * pCO2 - 105 * pH - 7.16 * calTCO2 - 40 * Base XS - 4
+2013-09-24 09:19 PM BLOOD Type - ART pO2 - 76 * pCO2 - 85 * pH - 7.26 * calTCO2 - 40 * Base XS - 7
+2013-09-25 01:50 AM BLOOD Type - ART pO2 - 47 * pCO2 - 105 * pH - 7.15 * calTCO2 - 39 * Base XS - 3
+2013-09-25 02:54 AM BLOOD Type - ART pO2 - 64 * pCO2 - 91 * pH - 7.23 * calTCO2 - 40 * Base XS - 6
+CT CSpine :
+No evidence of cervical spine fracture .
+Cervical spondylosis as described above .
+CXR post CVL placement 09-23 :
+A left subclavian vascular catheter terminates in the superior vena cava .
+Several skin folds are present in the left hemithorax but there is no pneumothorax .
+There are bilateral moderate pleural effusions , both of which have increased in size since the previous study .
+New perihilar and basilar opacities may reflect pulmonary edema sparing the upper lobes in the setting of emphysema , but it is difficult to exclude underlying aspiration or infectious pneumonia in the lung bases .
+Surgical clips are present in the left axilla .
+09-25 CXR :
+Interval development of large left pneumothorax with almost complete collapse of the left lung .
+Brief Hospital Course :
+79F w/ a multiple medical problems including Sylvia ( EF20% ) , COPD ( on home O2 ) , found down at home , pulseless - CPR initiated w/conciousness regained on scene .
+At OSH ABG 7.19/94/110 , BiPAP started .
+Pt found to be hypothermic w/ WBC 17 ( pt on steroids ) pnuemobilia and thickening of sigmoid .
+Pt was transferred to The Hospital for Orthopedics for further management with wishes from the pt and family to reverse DNR/DNI status if surgery was indicated .
+On transfer , the pt had VSS with a mildly tender abdomen without peritoneal signs .
+It was decided to treat her conservatively with bowel and IV antibiotics .
+She improved and was tolerating PO 's without difficulty after passing a swallow study .
+Her Cpine was clearly with both a negative CT Cspine and clinical exam .
+Her groin CVL was DC 'd after a L SC SVL was palced .
+CXR confirmed good position and no PTx .
+Overnight on HD 3 , pt became mildly agitated and an ABG was drawn which showed a severe resp acidosis and BiPAP was initiated .
+The pt subsequently developed severe hypoxia with hypotension .
+A CXR was obtained which showed complete collapse of the L lung thought to be a result of bursting a bleb associated with her severe COPD .
+Family did not want a chest tube placed and decided to make the pt CMO measures .
+On HD 4 pt continued to show a severe respiratory acidosis , was continued on a morphine drip , and was difficult to arouse .
+At 6pm pt 's respiratory status worsened and she died .
+Medications on Admission :
+coreg 6.25 " , captopril 12.5 " , effexor 150 ' , colace 100 " prn , calcium " , lasix 40 ' , KCL 20 ' , Pred 5 ' , opscal ' , protonix 40 ' , diamoxx 250 ' , albuterol prn , darvocet prn , senekot , trazadone 25 '
+Discharge Medications :
+NA
+Discharge Disposition :
+Expired
+Discharge Diagnosis : respiratory failure
+Discharge Condition :
+NA
+Discharge Instructions :
+NA
+Followup Instructions :
+NA
+Keith Clint MD 44-982
+Completed by : Christine Mary MD 00-155 2013-09-27 @ 0902
+Signed electronically by : DR. William Lawson on : MON 2013-10-14 8:51 PM
+( End of Report )
