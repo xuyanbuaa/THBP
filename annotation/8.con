@@ -1,0 +1,84 @@
+**INSTITUTION
+GENERAL MEDICINE
+ATTENDING PHYSICIAN PROGRESS NOTE
+PATIENT NAME :
+**NAME[AAA , BBB M]
+ACCOUNT # :
+**ID-NUM
+**ROOM
+ATTENDING PHYSICIAN :
+**NAME[YYY M ZZZ]
+ADMISSION DATE :
+**DATE[May 17 2007]
+EVALUATION DATE :
+**DATE[Jun 05 07]
+Subjectively , the patient states he is doing well .
+He said @his {{abdominal\abdomen\}} pain@ has improved and is almost completely resolved .
+He denies @any {{chest}} pain@ or @shortness of breath@ .
+He has been @afebrile@ for over 4 days .
+OBJECTIVE :
+Vital Signs :
+He has @@@a temperature@@@ of 36.1 , @@@pulse@@@ 64 , @@@respirations@@@ 16 , and @@@{{blood}} pressure@@@ 116/82 .
+General :
+He is awake .
+He is alert .
+He is in no @acute distress@ .
+{{HEENT\head|eye|ear|nose|throat\}} :
+On @@@exam@@@ , he had moist {{mucous membranes}} .
+{{Heart}} :
+Regular rate and rhythm .
+{{Lungs\lung\}} :
+Clear to @@@auscultation@@@ bilaterally .
+No @wheezes@ or @crackles@ .
+{{Abdomen}} :
+Soft .
+He has @some mild tenderness@ to @@@deep palpation@@@ , but is @nontender@ .
+He has positive {{bowel}} sounds .
+{{Extremities\extremity\}} :
+Warm and well perfused .
+No @clubbing@ , @cyanosis@ , or @edema@ .
+His mood is stable .
+He has no @visible rashes@ on @@@{{skin}} exam@@@ .
+LABORATORY DATA :
+On @@@lab work@@@ today , he had @@@a sodium@@@ of 142 , @@@potassium@@@ 4.1 , @@@chloride@@@ 105 , @@@bicarbonate@@@ 27 , @@@bun@@@ and @@@creatinine@@@ 12/1 with @@@calcium@@@ of 9.3 , @@@white count@@@ 3.1 , @@@h@@@ and @@@h@@@ 10/29.8 with @@@platelets@@@ of 142 .
+@@@his anc@@@ is 1000 .
+@@@inr@@@ is 1.9 .
+ASSESSMENT AND PLAN
+1. ID .
+He has a history of @chronic granulomatous disease@ , @{{hepatic\liver\}} abscesses@ , and @recurrent fungal ``pneumonia\lung\``@ .
+The patient has been followed closely by the Infectious Disease Service .
+We appreciate their input .
+He has been @afebrile@ for over 4 days now .
+He did receive a course of @@vancomycin@@ and @@zosyn@@ .
+He did have @some neutropenia@ yesterday and @@@his anc@@@ is improving after he did get one dose of @@neupogen@@ .
+Plan will be to __________ @@rifampin@@ , and @@itraconazole@@ as well as @@interferon@@ 3 times a week for life .
+Given the fact that @@@his anc@@@ is improving and he has been @afebrile@ , he can likely be discharged home today .
+2. He has had @a ``left subclavian`` {{dvt\deep vein\}}@ .
+He is on @@lovenox medical regimen@@ with @@coumadin@@ and @@@his inr@@@ is 1.9 .
+So he is not yet therapeutic and with @@@a goal inr@@@ of 2 to 3 .
+3. {{GI\stomach|small intestine|large intestine\}} .
+He has @almost completely resolved {{abdominal\abdomen\}} pain@ .
+He is eating well and having {{bowel}} movements and {{renal\kidney\}} .
+His {{renal\kidney\}} function has resolved .
+DISPOSITION :
+He will be discharged home today .
+He will follow up with Dr. **NAME[TTT SSS] as well as Dr. **NAME[RRR QQQ] .
+Appointments have already been scheduled .
+___________________________________
+**NAME[YYY M. ZZZ] , M.D.
+Dictator :
+**NAME[YYY M. ZZZ] , M.D.
+CRM/ps
+D :
+**DATE[Jun 05 2007] 09:40:21
+T :
+**DATE[Jun 05 2007] 22:26:24
+R :
+**DATE[Jun 05 2007] 22:26:24/ps
+Job ID :
+375379/**ID-NUM
+Cc:
+*** Dictated By :
+-**NAME[ZZZ , PPP M]. ***
+Electronically Signed by **NAME[YYY ZZZ]
+**DATE[Jun 28 2007] 03:52:18 PM

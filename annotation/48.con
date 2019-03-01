@@ -1,0 +1,165 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o @{{sca\heart\}}@ admitted to MICU **DATE[Apr 8 07] with c/o @cough@ + @green sputum@ , @{{abd\abdomen\}} pain@ , @n/v@
+Past Medical History :
+@{{sca\heart\}}@
+@``hepatitis\liver\`` c@
+@``ich\brain\``@ **DATE[Mar 2004]
+@chronic pain@
+Subjective / Events Overnight :
+Pt states this AM she had @another @ ."
+C/o @{{bilat ue\bilateral upper extremity\}} pain@ .
+Pt also states , " I took my 1st step yesterday ."
+Physical Exam
+General Appearance :
+Middle aged AA female in @nad@ .
+{{Cardiovascular\heart\}} :
+S1 , S2 , @m@ .
+@irrr@ .
+{{Respiratory}} :
+Improved breath sounds , but conts with @scattered rhonchi@ throughout ; neg @tachypnea@ .
+{{Gastrointestinal\stomach|small intestine|large intestine\}} :
++ BS , soft , @protuberant@ .
+{{Musculoskeletal\muscle|bone\}} :
+@+ 2 b le edema {{ankle}} to {{thigh}}@ .
+@+ 2 b ue edema@ , greater {{RUE\right upper extremity\}} .
+{{Neurological\nerve\}} :
+Improved mental status - AAO .
+@cont {{ext\extremity\}} weakness@ .
+General Results
+Today 's results :
+ALLRESLTSECT
+**DATE[Apr 23 2007] 11:52 AM
+@@@glucose@@@ ( bedside ) 126 mg / dL @high@
+@@@glu@@@ ( Bedside Test ) Meter Cmt .
+RN Notified
+**DATE[Apr 23 2007] 10:33 AM
+@@@duplex scan@@@ , {{VEINS\vein\}} , {{EXTREMITY}} ; @@@complete bilat study@@@
+@@@duplex scan@@@ , {{VEINS\vein\}} , {{EXTREMITY}} ; @@@complete bilat study@@@
+**DATE[Apr 23 2007] 6:52 AM
+@@@glucose@@@ ( bedside ) 224 mg / dL @high@
+**DATE[Apr 23 2007] 5:00 AM
+@@@urine volume@@@ &gt ; 10 mL
+@@@appearance , urine@@@
+Clear
+@@@color , urine@@@
+Straw
+@@@urine ph@@@ 6.0
+@@@specific gravity , urine@@@ 1.012
+@@@bilirubin , urine@@@ Neg
+@@@{{blood}} , urine@@@ 3 +
+@@@ketones , urine@@@ Neg
+@@@leukocyte esterase , urine@@@ 1 +
+@@@nitrite , urine@@@ Neg
+@@@urine protein@@@ , Qual 30 mg / dL
+@abnormal@
+@@@urine glucose@@@ , Qual Neg mg / dL
+@@@urine urobilinogen@@@ Normal
+@@@wbc , urine@@@ 9 / hpf @high@
+@@@rbc , urine@@@ 6 / hpf @high@
+@@@epithelial cells , urine@@@ &lt ; 1 / hpf
+@@@squamous epithelial cells , urine@@@ None / hpf
+@@@bacteria , urine@@@ None
+**DATE[Apr 23 2007] 3:00 AM
+@@@na@@@ 145 mEq / L
+@@@k@@@ 3.2 mEq / L @low@
+@@@cl@@@ 108 mEq / L
+@@@co2@@@ 26 mEq / L
+@@@anion gap@@@ 11.0
+@@@bun@@@ 58 mg / dL @high@
+@@@cr@@@ 5.0 mg / dL @critical high@
+@@@gfr ( estimated )@@@ 12.00 mL / min / 1.73 m2 @low@
+( Modified )
+@@@ca@@@ 8.5 mg / dL
+@@@mg@@@ 1.6 mEq / L
+@@@phos@@@ 4.3 mg / dL
+@@@cpk@@@ , Total 52 IU / L
+@@@wbc@@@ 23.6 X10E+09 / L @high@
+@@@rbc@@@ 3.33 X10E+12 / L @low@
+@@@hgb@@@ 9.9 gm / dL @low@
+@@@hct@@@ 30.6 % @low@
+@@@mcv@@@ 92.0 fL
+@@@mch@@@ 29.7 pg
+@@@mchc@@@ 32.3 gm / dL @low@
+@@@rdw@@@ 20.6 % @critical high@
+@@@mpv@@@ Unavailable fL
+@@@platelets@@@ 215 X10E+09 / L
+Platelet Comments
+@platelets enlarged@
+@@@neutrophils@@@ 81 % @high@
+@@@bands@@@ 11 % @high@
+@@@{{lymphs\lymph\}}@@@ 3 % @low@
+@@@monocytes@@@ 5 %
+@@@eosinophils@@@ 0 %
+@@@basophils@@@ 0 %
+@@@nucleated rbc@@@ 61 /100 @@@wbc@@@
+@@@abs neutrophils@@@ 19.11 X10E+09 / L @high@
+@@@abs bands@@@ 2.60 X10E+09 / L @high@
+@@@abs {{lymphs\lymph\}}@@@ 0.71 X10E+09 / L @low@
+@@@abs monocytes@@@ 1.18 X10E+09 / L @high@
+@@@abs eosinophils@@@ 0.00 X10E+09 / L
+@@@abs basophils@@@ 0.00 X10E+09 / L
+Type of Differential
+@@@manual differential@@@
+@@@rbc morphology@@@
+@@@rbc morphology@@@
+Impression and Plan
+Plan
+Heme - h/o @{{sca\heart\}}@ .
+Admitted in @crisis@ .
+On @@aranesp@@ .
+Pallative Care assisting with the adjustment of @@pain meds@@ - @@oxycontin@@ and @@prn iv morphine@@ - cont same for today .
+{{Pulmonary\lung\}} - h/o @asthma@ - @@duonebs@@ prn ; @pna@ - @@cefepime@@ D/c 'd - completed @@full course@@ .
+@@iv hydrocortisone@@ - Cont to taper .
+{{HEENT\head|eye|ear|nose|throat\}} - @group a strep {{throat}}@ - Completed @@10 day amoxil course@@ .
+@``otalgia\ear\``@ / inc. @``hearing\ear\`` loss@ - {{ENT\esr|nose|throat\}} c/s - @@floxin {{otic\ear\}}@@ - completed @@course@@ .
+Improved ``hearing\ear\`` .
+{{Cards\heart\}} - @{{a fib\heart\}}@ - @@cardizem@@ ( when @@@{{bp\blood\}} parameters@@@ allow ) .
+FEN - @@soft diet@@ .
+{{GI\stomach|small intestine|large intestine\}} - @{{hepatic\liver\}} ``encephalopathy\brain\``@ - @@lactulose@@ BID .
+Monitor @@@ammonia level@@@ .
+{{Renal\kidney\}} - **INITIALS - Daily dosing of @@iv lasix@@ ( no @@iv lasix@@ today ) - monitor @@@{{cxr\chest\}}@@@ .
+Appreciate {{Renal\kidney\}} c/s - @@@{{renal\kidney\}} us@@@ - IMPRESSION :
+1. @echogenic {{kidneys\kidney\}}@ COMPATIBLE WITH @{{renal\kidney\}} {{parenchymal\parenchyma\}} disease@ , WHICH CORRELATES WITH @@@recent {{abdominal\abdomen\}} mr findings@@@ .
+2. NO @``hydronephrosis\kidney\``@ .
+3. @small to moderate {{pelvic\pelvis\}} ``ascites\abdomen\``@ .
+@@phoslo@@ .
+@@sodium bicarb@@ prn b/c of concern of the sodium .
+No @@hd@@ today .
+@@@repeat u/a@@@ , @@@ucs@@@ due to @elevated wbc@ .
+{{Neuro\nerve\}} - @diffuse weakness of {{ext\extremity\}}@ - @@@cth@@@ negative .
+@@pt@@ / @@ot@@ .
+{{Vasc\vessel\}} - @{{rue\right upper extremity\}} swelling@ and @pain@ - @@@{{rue\right upper extremity\}} doppler@@@ prelim neg .
+@@proph@@ - @@sq heparin@@ .
+ID - @leukocytosis@ - @@@ucs@@@ Pending .
+@@@{{cxr\chest\}}@@@ and @@@{{blood}} cultures@@@ ordered .
+Taper @@iv@@
+@@steroids@@ .
+? secondary to @ssc@ .
+Disposition - Pending .
+Pt does not want to go to SNF .
+Could consider @@rehab@@ ( ie Montefiore ) for 1 wk .
+Consider PM&amp ; R consult once Pt closer to D/c .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )
+Sign by **NAME[XXX , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )
+VERIFY by **NAME[XXX , WWW] M
+( on **DATE[Apr 23 2007] 14:11 )

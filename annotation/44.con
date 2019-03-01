@@ -1,0 +1,92 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o @{{sca\heart\}}@ admitted to MICU **DATE[Apr 8 07] with c/o @cough@ + @green sputum@ , @{{abd\abdomen\}} pain@ , @n/v@
+Past Medical History :
+@{{sca\heart\}}@
+@``hepatitis\liver\`` c@
+@{{ich\brain\}}@ **DATE[Mar 2004]
+@chronic pain@
+Subjective / Events Overnight :
+Pt states this AM she had @a @ ."
+C/o @{{rue\right upper extremity\}} pain@ .
+@@@vital signs@@@
+**DATE[Apr 22 2007] 9:00:00 AM .
+@@@{{bp\blood\}}@@@ : @@@``systolic\heart\``@@@ 134 , @@@``diastolic\heart\``@@@ 83 .
+@@@pulse@@@ :
+115 beats per min .
+@@@resp@@@ :
+20 breaths / min .
+@@@physical exam@@@
+General Appearance :
+Middle aged AA female in @nad@ .
+{{Cardiovascular\heart\}} :
+S1 , S2 , @m@ .
+@irrr@ - @@@rate@@@ 115 .
+{{Respiratory}} :
+Improved breath sounds .
+{{Gastrointestinal\stomach|small intestine|large intestine\}} :
++**PLACE , @nd@ .
+{{Musculoskeletal\muscle|bone\}} :
+@+ 2 b le edema ankle to {{thigh}}@ .
+@+ 2 b ue edema@ , greater {{rue\right upper extremity\}} .
+{{Neurological\nerve\}} :
+Improved mental status - AAO .
+@cont {{ext\extremity\}} weakness@ .
+Impression and Plan
+Plan
+Heme - h/o @{{sca\heart\}}@ .
+Admitted in @crisis@ .
+On @@aranesp@@ .
+Pallative Care assisting with the adjustment of @@pain meds@@ - @@oxycontin@@ inc. and @@prn iv morphine@@ .
+{{Pulmonary\lung\}} - h/o @asthma@ - @@duonebs@@ prn ; @``pna\lung\``@ - @@cefepime@@ D/c 'd - completed @@full course@@ .
+@@iv hydrocortisone@@ - begin to taper .
+{{HEENT\head|eye|ear|nose|throat\}} - @group a strep {{throat}}@ - @@amoxil@@ Day #9 .
+@``otalgia\ear\``@ / inc. @``hearing\ear\`` loss@ - {{ENT\esr|nose|throat\}} c/s - @@floxin {{{otic\ear\}}@@ - completed @@course@@ .
+Improved ``hearing\ear\`` .
+{{Cards\heart\}} - @{{a fib\heart\}}@ - @@cardizem@@ ( when @@@{{bp\blood\}} parameters@@@ allow ) .
+FEN - @@soft diet@@ .
+{{GI\stomach|small intestine|large intestine\}} - @{{hepatic\liver\}} ``encephalopathy``@ - **DATE[Mar] @@lactulose@@ due to @frequent loose bm s@ .
+Monitor @@@ammonia level@@@ .
+{{Renal\kidney\}} - **INITIALS - Daily dosing of @@iv lasix@@ - monitor @@@{{cxr\chest\}}@@@ .
+Appreciate {{Renal\kidney\}} c/s - @@@{{renal\kidney\}} us@@@ - IMPRESSION :
+1. @echogenic {{kidneys\kidney\}}@ COMPATIBLE WITH @{{renal\kidney\}} {{parenchymal\parenchyma\}} disease@ , WHICH CORRELATES WITH @@@recent {{abdominal\abdomen\}} mr findings@@@ .
+2. NO @``hydronephrosis\kidney\``@ .
+3. @small to moderate {{pelvic\pelvis\}} ``ascites\abdomen\``@ .
+@@@urine culture@@@ no @growth@ .
+@@phoslo@@ increased .
+D/c @@sodium bicarb@@ b/c of @concern of the sodium@ .
+@@@urine output@@@ yesterday not recorded .
+@@@urine output@@@ 6A to 2P : 600 cc .
+No @@hd@@ today .
+@@@repeat u/a@@@ , @@@ucs@@@ due to @elevated wbc@ .
+{{Neuro\nerve\}} - @diffuse weakness of {{ext\extremity\}}@ - @@@cth@@@ negative .
+@@pt@@ / @@ot@@ .
+{{Vasc\vessel\}} - @{{rue\right upper extremity\}} swelling@ and @pain@ - @@@{{rue\right upper extremity\}} doppler@@@ ordered .
+@@proph@@ - @@sq heparin@@ .
+Disposition - Pending .
+Pt does not want to go to SNF .
+Could consider @@rehab@@ ( ie Montefiore ) for 1 wk .
+Consider PM&amp ; R consult once Pt closer to D/c .
+Family contacts :
+Daughter **NAME[VVV] **PHONE ( **PLACE ); Mother **PLACE **PHONE ( Arizona ) .
+Professional Services
+Credentials and Title of Author **NAME[UUU] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW] M
+( on **DATE[Apr 22 2007] 15:02 )
+Sign by **NAME[XXX , WWW] M
+( on **DATE[Apr 22 2007] 15:02 )
+VERIFY by **NAME[XXX , WWW] M
+( on **DATE[Apr 22 2007] 15:02 )

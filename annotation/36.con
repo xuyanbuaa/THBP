@@ -1,0 +1,81 @@
+Medicine Progress
+**INSTITUTION
+Patient :
+**NAME[AAA , BBB]
+MRN - **ID-NUM - MPACCOMMMRN
+Age :
+**AGE[in 50s] years
+Sex :
+Female
+DOB :
+**DATE[Jun 29 1953]
+Author :
+**NAME[XXX , WWW M]
+Health Status
+Summary of Hospitalization :
+This **AGE[in 50s] year old AA female with h/o @{{sca\heart\}}@ admitted to MICU **DATE[Apr 8 07] with c/o @cough@ + @green sputum@ , @{{abd\abdomen\}} pain@ , @n/v@
+Past Medical History :
+@{{sca\heart\}}@
+@``hepatitis\liver\`` c@
+@``ich\brain\``@ **DATE[Mar 2004]
+@chronic pain@
+Subjective / Events Overnight :
+RN washing Pt at this time ; RN states Pt with @frequent loose bm s@ , @incontinent of stool@ .
+@@@vital signs@@@
+@@@{{bp\blood\}}@@@ : @@@``systolic\heart\``@@@ 151 , @@@``diastolic\heart\``@@@ 76 .
+@@@pulse@@@ :
+118 beats per min .
+@@@resp@@@ :
+24 breaths / min .
+@@@physical exam@@@
+General Appearance :
+Middle aged AA female in @nad@ .
+{{Cardiovascular\heart\}} :
+S1 , S2 , @m@ .
+@irrr@ .
+{{Respiratory}} :
+@scattered rhonchi@ / @wheeze@ .
+{{Gastrointestinal\stomach|small intestine|large intestine\}} :
++**PLACE , ND .
+{{Musculoskeletal\muscle|bone\}} :
+@+ 2 b le edema {{ankle}} to {{thigh}}@ .
+{{Skin}} :
+Warm and dry .
+{{Neurologic\nerve\}} :
+Awake , alert , but feels " @confused@ ."
+Cannot maintain hold on pen with B UE .
+Wiggles B LE {{toes\foot\}} .
+{{Head}} leans to R ; has @difficulty@ holding {{head}} upright .
+Impression and Plan
+Plan
+Heme - h/o @{{sca\heart\}}@ .
+Admitted in @crisis@ .
+On @@aranesp@@ .
+Attending adjusted @@analgesia@@ - @@morphine sulfate@@ 4 mg IV every 2 hrs prn .
+RN reports good @@pain control@@ .
+{{Pulmonary\lung\}} - h/o @asthma@ - @@duonebs@@ prn ; @pna@ - @@cefepime@@ D/c 'd - completed @@full course@@ .
+@@iv hydrocortisone@@ .
+{{HEENT\head|eye|ear|nose|throat\}} - @group a strep {{throat}}@ - @@amoxil@@ Day #5 .
+@``otalgia\ear\``@ / inc. @``hearing\ear\`` loss@ - {{ENT\esr|nose|throat\}} c/s - @@floxin {{otic\ear\}}@@ .
+{{Cards\heart\}} - @{{a fib\heart\}}@ - @@cardizem@@ ( when @@@{{bp\blood\}} parameters@@@ allow ) .
+May need to inc .
+@@cardizem@@ .
+FEN - @@ivf s@@ @@-d5w@@ and @@2 amp bicarb@@ at 30 cc / h .
+**DATE[Mar] appetite .
+@@diuretics@@ on hold .
+{{GI\stomach|small intestine|large intestine\}} - @{{hepatic\liver\}} ``encephalopathy\brain\``@ - @@lactulose@@ .
+Monitoring @@@ammonia level@@@ .
+@frequent loose bm s@ .
+@@{{rectal\rectum\}} tube@@ .
+{{Renal\kidney\}} - **INITIALS - @@ivf s;@@ @@diuretics@@ on hold .
+{{Renal\kidney\}} c/s - @@@{{renal\kidney\}} us@@@ , @@@urine lytes@@@ , @@@urine urea@@@ , @@@u/a/ucs@@@ .
+{{Neuro\nerve\}} - @diffuse weakness of {{ext\extremity\}}@ - @@@cth@@@ ordered .
+Disposition - Most likely will need d/c to SNF when stable .
+Professional Services
+Credentials and Title of Author **NAME[VVV] Signing this Document : PA-C
+Perform by **NAME[XXX , WWW] M
+( on **DATE[Apr 18 2007] 11:03 )
+Sign by **NAME[XXX , WWW] M
+( on **DATE[Apr 18 2007] 11:03 )
+VERIFY by **NAME[XXX , WWW] M
+( on **DATE[Apr 18 2007] 11:03 )

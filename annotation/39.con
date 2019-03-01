@@ -1,0 +1,46 @@
+**INSTITUTION
+Discharge Summary
+Name :
+**NAME[AAA , BBB]
+Acct # :
+**ID-NUM
+MRN :
+**ID-NUM
+Admitted :
+**DATE[Mar 08 2007]
+Discharged :
+**DATE[Mar 12 2007]
+Dict :
+**NAME[XXX , WWW]
+Attend :
+**NAME[ZZZ , YYY]
+DISCHARGE DIAGNOSIS :
+Status post @@{{left total knee\left knee\}} ``arthroplasty\joint\``@@ .
+HOSPITAL COURSE :
+The patient is a **AGE[in 70s]- year - old female , patient of Dr. **NAME[ZZZ] , with @{{left knee}} degenerative {{joint}} disease@ .
+The patient was brought into the same day surgery unit at **INSTITUTION for @@elective {{left total knee\left knee\}} ``arthroplasty\joint\``@@ .
+She underwent @@this procedure@@ on **DATE[Mar 8 2007] , and tolerated @@the procedure@@ well .
+She was transferred to the regular nursing floor postoperatively .
+@her pain@ was controlled with @@{{nerve}} block catheters@@ as well @@iv and oral pain medications@@ as prescribed by the postoperative pain service .
+Medicine consult was also obtained for management of @her medical issues@ .
+She was placed on @@coumadin@@ postoperatively for @@{{dvt\deep vein\}} prophylaxis@@ .
+She was ambulatory with physical therapy by postoperative day 2 and was doing satisfactorily weightbearing as tolerated in her {{left lower extremity}} .
+The patient at the time of discharge is @afebrile@ , and @@@vital signs@@@ are stable .
+FOLLOWUP INSTRUCTIONS :
+The patient is to follow up with Dr. **NAME[ZZZ] in 2 to 3 weeks .
+She is to continue weightbearing as tolerated in {{left lower extremity}} .
+She is also to continue @@physical therapy@@ with @@home health care@@ .
+She will have every Monday and Thursday @@@pt@@@ / @@@inr lab draws@@@ .
+Results will be called to **PHONE on the day of @@@{{blood}} draw@@@ .
+**NAME[VVV UUU] will call with any adjustments in @@coumadin dosing@@ as needed .
+The patient is to continue to resume all of @@her home medications@@ .
+If she develops @any problems with her {{left lower extremity}}@ including @redness@ , @swelling@ , @discharge@ , @numbness@ , @tingling@ , or @other problems@ , she is to contact Dr. **NAME[ZZZ] 's office .
+______________________________
+**NAME[WWW XXX , CCC]
+HS Job # 678800 / 38373 / 33106
+SHY # **ID-NUM
+D :
+**DATE[Mar 12 2007] 13:54
+T :
+**DATE[Mar 13 2007] 12:37
+**CARBON-COPY
